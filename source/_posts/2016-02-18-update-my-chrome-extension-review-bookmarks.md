@@ -70,3 +70,4 @@ v2.2.0 -- v2.2.2 还弃用了 notification 接口，使用替换『新标签页�
 <http://bm.to0l.cn/>
 
 <https://gitter.im/ety001/bookmark-extension>
+

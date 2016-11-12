@@ -9,3 +9,4 @@ tags:
 ```
 grep -ve "^[[:space:]]*[#;]\|^$\|^[[:space:]]*$" /etc/samba/smb.conf
 ```
+

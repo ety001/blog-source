@@ -60,3 +60,4 @@ ssh -C -f -N -g -R 8080:localhost:80 x.x.x.x
 参考：<http://blog.csdn.net/a351945755/article/details/21785647>，图片使用了该文的图片。
 
 PS: 如果用的是openssh，先设置`GatewayPorts`为`yes`
+

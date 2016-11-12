@@ -23,3 +23,5 @@ The current installation uses the 32-bit Raspberry Pi 2 armv7h root filesystem. 
 ```
 http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz
 ```
+
+

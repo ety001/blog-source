@@ -17,3 +17,4 @@ csrutil enable --without kext
 重启后，再执行驱动安装即可。
 
 参考：<http://tzapu.com/making-ch340-ch341-serial-adapters-work-under-el-capitan-os-x/>
+

@@ -1,0 +1,25 @@
+---
+author: ety001
+comments: true
+date: 2012-07-19 15:48:08+00:00
+layout: post
+slug: pay-attention-to-bom
+title: 又让BOM给坑掉了两个小时。。
+wordpress_id: 2155
+tags:
+- 编程语言
+---
+
+今天帮别人调代码的时候遇到一个bug，就是在用thinkphp框架写一个模板页的时候，用的bootstrap，但是页面的文本框的高度不对，如下图：
+
+[![](http://www.domyself.me/wp-content/uploads/2012/07/bom-300x177.png)](http://www.domyself.me/wp-content/uploads/2012/07/bom.png)
+
+
+鼓捣了一会，没有头绪，新建了一个一模一样的出来，放到另外一个空间跑，结果显示正常，仔细对比两者，发现区别在于灰色上面那个空白条。又是各种纠结后，最后无意中看到这个模板在geany的状态栏里显示含有BOM，我干你大爷的！又是BOM。重新搞一份没有BOM的，问题解决。。。
+
+从百度百科摘出来的：
+
+类似WINDOWS自带的[记事本](http://baike.baidu.com/view/152865.htm)等软件，在保存一个以UTF-8编码的文件时，会在文件开始的地方插入三个不可见的字符（0xEF 0xBB 0xBF，即BOM）。它是一串隐藏的字符，用于让记事本等编辑器识别这个文件是否以UTF-8编码。对于一般的文件，这样并不会产生什么麻烦。但对于 PHP来说，BOM是个大麻烦。
+
+PHP并不会忽略BOM，所以在读取、包含或者引用这些文件时，会把BOM作为该文件开头正文的一部分。根据嵌入式语言的特点，这串字符将被直接执行（显示）出来。由此造成即使页面的 top padding 设置为0，也无法让整个网页紧贴浏览器顶部，因为在html一开头有这3个字符呢！
+

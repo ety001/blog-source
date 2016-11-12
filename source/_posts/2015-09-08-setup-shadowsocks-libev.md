@@ -26,3 +26,4 @@ make && make install
 ```
 这样即可编译好一个新的ss，所有程序是以ss-开头，其他系统下面的编译安装，请参考
 <https://github.com/madeye/shadowsocks-libev>。
+

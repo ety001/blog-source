@@ -9,3 +9,4 @@ tags:
 ```
 $('checkbox').is(':checked')
 ```
+

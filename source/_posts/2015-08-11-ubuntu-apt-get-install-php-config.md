@@ -13,3 +13,4 @@ fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
 ```
 
 把这行代码加在 `include fastcgi_params;` 之前即可。
+
