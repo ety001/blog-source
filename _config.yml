@@ -69,4 +69,10 @@ theme: indigo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: 115.29.77.252
+  port: 873
+  user: root
+  root: /home/wwwroot/domyself
+  delete: true
+  verbose: true
