@@ -1,0 +1,19 @@
+---
+author: ety001
+date: 2011-10-31 01:05:30+00:00
+layout: post
+title: 使用L2TP VPN产生vpn 768错误解决办法
+wordpress_id: 1750
+tags:
+- 后端
+---
+
+在自己的centos vps上装了L2TP，但是在win下一直无法连接，最初显示800错误，在建立的那个vpn链接里选择“网络”选项卡，里面有个“VPN类型”，在这里选择我配置的那个“L2TP IPsec VPN”选项后再连接，出现768错误，从这个地方[http://xinyangla.com/592.shtml](http://xinyangla.com/592.shtml)找到了解决方案，现在贴出来：
+
+
+<blockquote>如果用vpn PPTP登录方式无法登录那么可以尝试用L2TP登录
+常见使用windows xp很容易出现768错误，可以尝试以下方法解决。
+在开始中点击运行，输入命令“services.msc”，然后在服务中找到并启用“IPSEC services”即可，如为了方便以后经常使用L2TP IPsec VPN，则可以把该项服务设置为“自动”。
+也可以在桌面单击选定我的电脑 然后右键点管理 然后在管理菜单找到服务 然后打开在服务项找到IPSEC SERVICES 单击这个服务右键属性设为自动就可以了
+也许还回出现  那么请导入l2tp 768 注册表补丁 一般就可以解决这个问题
+</blockquote>

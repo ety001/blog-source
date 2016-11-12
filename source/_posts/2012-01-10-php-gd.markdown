@@ -1,0 +1,151 @@
+---
+author: ety001
+comments: true
+date: 2012-01-10 03:45:06+00:00
+layout: post
+slug: php-gd
+title: 玩转PHP的GD库[转]
+wordpress_id: 1846
+tags:
+- 编程语言
+---
+
+Php中的GD库，主要是提供了一组Php图形处理的函数，功能很强大，可以做出很炫的效果。在Web2.0应用中，或多或少都会碰到。所以你在应聘Web2.0网站php工程师的时候，经常会被问到GD库。其实，php中的GD库函数比较简单，你大体清楚它们的功能就可以了，我提供了几个小例子帮助你记忆和理解。
+
+以下例子的源码，可以到如下地址下载：http://wangzebin.blog.51cto.com/attachment/200902/653300_1235091601.zip。
+
+1、 汉字验证码
+
+通常的网站，验证码都喜欢使用数字或者字符的组合的形式，但对于某些有价值的网站服务中，可能需要更为严格的验证码。例如163邮箱恶意注册验证、QQ号申请验证都不同程度使用汉字认证。利用php的GD库，几行代码轻松搞定，若果输出汉字或者特殊字符，需要您提供TTF字库。
+
+效果如下：
+
+![](http://images.cnblogs.com/cnblogs_com/wanghao72214/phpsrc-verifycode.JPG)
+
+代码如下：
+
+<?php
+
+//定义输出为图像类型
+
+header("content-type:image/gif");
+
+//创建图象
+
+$picture = imagecreate(150,40);
+
+//定义黑白颜色
+
+$cl_black = imagecolorallocate($picture,0,0,0);
+
+$cl_white = imagecolorallocate($picture,255,255,255);
+
+//指定字体库
+
+$lib_font = "c://WINDOWS//fonts//simhei.ttf";
+
+//定义输出字体串，字符utf-8编码
+
+$str_output = chr(0xE4).chr(0xB8).chr(0xAD);
+
+//写 TTF 文字到图中
+
+imagettftext($picture,20,-10,40,25,$cl_white,$lib_font,$str_output);
+
+//定义输出字体串，字符utf-8编码
+
+$str_output = chr(0xE5).chr(0x9B).chr(0xBD);
+
+//写TTF 文字到图中
+
+imagettftext($picture,20,10,80,30,$cl_white,$lib_font,$str_output);
+
+//建立 GIF 图型
+
+imagegif($picture);
+
+//结束图形，释放内存空间
+
+imagedestroy($picture);
+
+?>
+
+2、 图片缩略图
+
+图片大小的转换功能很常用，很多网站都用得到。比如常见的SNS网站，用户可以上传图片，设置自己的头像。由于用户提供的图片大小不一，需要网站在用户上传图片的时候，处理成统一大小。利用php的GD库，几行代码轻松搞定。效果如下：
+
+
+![](http://images.cnblogs.com/cnblogs_com/wanghao72214/phpsrc-setsmallsize.JPG)
+
+
+代码如下：
+
+<?php
+
+//$srcFile原文件，$dstW,$dstH是小图的宽，高。
+
+function makethumb($srcFile,$dstW,$dstH){
+
+$data_pic = GetImageSize($srcFile,&$info);
+
+switch ($data_pic[2]) {
+
+case 1: //图片类型，1是GIF图
+
+$old_pic = @ImageCreateFromGIF($srcFile);
+
+break;
+
+case 2: //图片类型，2是JPG图
+
+$old_pic = @imagecreatefromjpeg($srcFile);
+
+break;
+
+case 3: //图片类型，3是PNG图
+
+$old_pic = @ImageCreateFromPNG($srcFile);
+
+break;
+
+}
+
+//创建缩小的图片
+
+$srcW = ImageSX($old_pic);
+
+$srcH = ImageSY($old_pic);
+
+$new_pic = ImageCreate($dstW,$dstH);
+
+ImageCopyResized($new_pic,$old_pic,0,0,0,0,$dstW,$dstH,$srcW,$srcH);
+
+//输出锁小图片
+
+header("content-type:image/gif");
+
+ImageJpeg($new_pic);
+
+imagedestroy($new_pic);
+
+imagedestroy($new_old);
+
+}
+
+makethumb("1.jpg",40,50);
+
+?>
+
+3、 Ascii图片
+
+经常有人在文字BBS贴上一些字符图片，感觉很酷，我们这里提供一个利用php的GD库生成的例子，有兴趣的同学可以研究研究。效果如下：
+
+
+![](http://images.cnblogs.com/cnblogs_com/wanghao72214/phpsrc-magiccode.JPG)
+
+
+由于代码较长，不再贴出。可以直接到本文的链接中下载。
+
+另外，图片打水印，将一幅图嵌入到另外一幅图片中，也都比较容易实现，大家可以试一下。
+
+[http://www.cnblogs.com/wanghao72214/archive/2009/02/20/1394532.html](http://www.cnblogs.com/wanghao72214/archive/2009/02/20/1394532.html)（转载）

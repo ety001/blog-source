@@ -1,0 +1,508 @@
+---
+author: ety001
+date: 2011-07-25 04:04:00+00:00
+layout: post
+title: 我使用的VPS
+wordpress_id: 1427
+tags:
+- 杂七杂八
+- 网站日志
+---
+
+**从三个月前我开始使用我的VPS来搭建我的博客，虽然现在来看，资源还是浪费严重，但是我正在逐步开始利用起来。这家的VPS还是很稳定的，至少在我用的三个月里是没有宕过机，只是我的apache宕过好几次，导致在线率才96%多。我现在正在使用的这款VPS是每个月52元的jz学习型的。
+**
+
+
+**如果你想购买的话，请先[点击这里](http://vps.03host.com/page.aspx?c=referral&u=12202)进行注册，注册完成后，登录VPS面板，即可添加VPS主机，**
+
+
+**具体的信息都在下面的列表中，**
+
+**具体列表如下：**
+
+### VPS套餐I
+
+机房位于美国西海岸加利福尼亚州。购买时请选择“**美国加州02**”。
+
+<table cellpadding="0" style="width: 680px;" cellspacing="0" >
+<tbody >
+<tr >
+
+<td >方案套餐
+</td>
+
+<td id="jzname1" >jz学习型
+</td>
+
+<td id="jzname2" >jz升级型
+</td>
+
+<td id="jzname3" >jz至尊型
+</td>
+</tr>
+<tr >
+
+<td >CPU个数
+</td>
+
+<td id="jzcpu1" >2 VCpu
+</td>
+
+<td id="jzcpu2" >2 VCpu
+</td>
+
+<td id="jzcpu3" >2 VCpu
+</td>
+</tr>
+<tr >
+
+<td >内存
+</td>
+
+<td id="jzram1" >256 MB
+</td>
+
+<td id="jzram2" >512 MB
+</td>
+
+<td id="jzram3" >1024 MB
+</td>
+</tr>
+<tr >
+
+<td >硬盘
+</td>
+
+<td id="jzdisk1" >20 GB
+</td>
+
+<td id="jzdisk2" >25 GB
+</td>
+
+<td id="jzdisk3" >35 GB
+</td>
+</tr>
+<tr >
+
+<td >流量
+</td>
+
+<td id="jzbw1" >350 GB
+</td>
+
+<td id="jzbw2" >800 GB
+</td>
+
+<td id="jzbw3" >1200 GB
+</td>
+</tr>
+<tr >
+
+<td >独立IP
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >操作系统
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+</tr>
+<tr >
+
+<td >XenSystem面板
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >价格
+</td>
+
+<td id="jzprice1" >52 RMB
+</td>
+
+<td id="jzprice2" >88 RMB
+</td>
+
+<td id="jzprice3" >158 RMB
+</td>
+</tr>
+<tr >
+
+<td >优惠码
+</td>
+
+<td >  jz256M4v
+</td>
+
+<td >  jz512M4v
+</td>
+
+<td >  jz1G4v
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+### VPS套餐II
+
+
+
+
+
+
+
+机房位于美国西海岸加利福尼亚州。购买时请选择“**美国加州01**”。
+
+
+
+
+
+<table cellpadding="0" style="width: 680px;" cellspacing="0" >
+<tbody >
+<tr >
+
+<td >方案套餐
+</td>
+
+<td id="pname1" >学习型
+</td>
+
+<td id="pname2" >豪华型
+</td>
+
+<td id="pname3" >商务型
+</td>
+</tr>
+<tr >
+
+<td >CPU个数
+</td>
+
+<td id="cpu1" >4 VCpu
+</td>
+
+<td id="cpu2" >4 VCpu
+</td>
+
+<td id="cpu3" >4 VCpu
+</td>
+</tr>
+<tr >
+
+<td >内存
+</td>
+
+<td id="ram1" >256 MB
+</td>
+
+<td id="ram2" >512 MB
+</td>
+
+<td id="ram3" >1024 MB
+</td>
+</tr>
+<tr >
+
+<td >硬盘
+</td>
+
+<td id="disk1" >20 GB
+</td>
+
+<td id="disk2" >25 GB
+</td>
+
+<td id="disk3" >30 GB
+</td>
+</tr>
+<tr >
+
+<td >流量
+</td>
+
+<td id="bw1" >2000 GB
+</td>
+
+<td id="bw2" >2000 GB
+</td>
+
+<td id="bw3" >2000 GB
+</td>
+</tr>
+<tr >
+
+<td >独立IP
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >操作系统
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+</tr>
+<tr >
+
+<td >XenSystem面板
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >价格
+</td>
+
+<td id="price1" >68 RMB
+</td>
+
+<td id="price2" >108 RMB
+</td>
+
+<td id="price3" >168 RMB
+</td>
+</tr>
+<tr >
+
+<td >优惠码
+</td>
+
+<td >  no2plan1
+</td>
+
+<td >  no2plan2
+</td>
+
+<td >  no2plan3
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+### VPS套餐III
+
+
+
+
+
+
+
+机房位于美国斯克兰顿。购买时请选择“**美国VD**”。
+
+
+
+
+
+<table cellpadding="0" style="width: 680px;" cellspacing="0" >
+<tbody >
+<tr >
+
+<td >方案套餐
+</td>
+
+<td id="pnameVD1" >VD学习型
+</td>
+
+<td id="pnameVD2" >VD升级型
+</td>
+
+<td id="pnameVD3" >VD加强型
+</td>
+</tr>
+<tr >
+
+<td >CPU个数
+</td>
+
+<td id="cpuVD1" >2 VCpu
+</td>
+
+<td id="cpuVD2" >2 VCpu
+</td>
+
+<td id="cpuVD3" >2 VCpu
+</td>
+</tr>
+<tr >
+
+<td >内存
+</td>
+
+<td id="ramVD1" >128 MB
+</td>
+
+<td id="ramVD2" >256 MB
+</td>
+
+<td id="ramVD3" >512 MB
+</td>
+</tr>
+<tr >
+
+<td >硬盘
+</td>
+
+<td id="diskVD1" >20 GB
+</td>
+
+<td id="diskVD2" >25 GB
+</td>
+
+<td id="diskVD3" >30 GB
+</td>
+</tr>
+<tr >
+
+<td >流量
+</td>
+
+<td id="bwVD1" >500 GB
+</td>
+
+<td id="bwVD2" >1000 GB
+</td>
+
+<td id="bwVD3" >1500 GB
+</td>
+</tr>
+<tr >
+
+<td >独立IP
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >操作系统
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+
+<td >Linux,Windows
+</td>
+</tr>
+<tr >
+
+<td >XenSystem面板
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+
+<td >![](http://03host.com/images/templatemo_included.png)
+</td>
+</tr>
+<tr >
+
+<td >价格
+</td>
+
+<td id="priceVD1" >28 RMB
+</td>
+
+<td id="priceVD2" >38 RMB
+</td>
+
+<td id="priceVD3" >68 RMB
+</td>
+</tr>
+<tr >
+
+<td >优惠码
+</td>
+
+<td >  vd128
+</td>
+
+<td >  vd256
+</td>
+
+<td >  vd512
+</td>
+</tr>
+</tbody>
+</table>
+
+**【注意事项】
+购买本商品，视同接受以下所有条款：
+[*1]：退款条件：,24小时内当您觉得不满意时,可以向我们客服申请全额退款,超过24小时收取25%手续费加使用天数，我们将按照您的使用时间,舍去小数点,折算成剩下的RMB通过支付宝退还给您. **
+
+**[*2]：VPS禁止赌博、幼儿色情、诈骗、恐怖分子、暴力、垃圾邮件、盗版侵权、扫描端口、抓肉鸡等相关内容和活动；禁止从事违反中美两地法律的行为，用户承担一切责任；为了服务器其他VPS客户的稳定，禁止作为大流量下载、在线播放、视频点播、私服、VOIP等严重占用资源的服务，一经发现，立即关闭服务器并不退款。**

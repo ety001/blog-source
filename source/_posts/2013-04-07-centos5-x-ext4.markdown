@@ -1,0 +1,20 @@
+---
+author: ety001
+comments: true
+date: 2013-04-07 17:09:39+00:00
+layout: post
+slug: centos5-x-ext4
+title: centos5.x格式化ext4
+wordpress_id: 2353
+tags:
+- Server&OS
+---
+
+1、去/lib/modules/2.6.18-308.el5xen/kernel/fs/ext4/，看一下是ext4.ko还是ext4dev.ko，
+然后modprobe ext4或者modprobe ext4dev
+
+2、然后需要安装一个包
+```
+# yum install -y e4fsprogs
+```
+之后就可以使用mkfs.ext4了。

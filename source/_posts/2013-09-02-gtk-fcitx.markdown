@@ -1,0 +1,33 @@
+---
+author: ety001
+comments: true
+date: 2013-09-02 14:19:07+00:00
+layout: post
+slug: gtk-fcitx
+title: gtk程序中用ctrl+空格无法呼出fcitx
+wordpress_id: 2444
+tags:
+- Server&OS
+---
+
+archlinux更新了下，居然在firefox中用不了了，在qt程序中都能使用。我的桌面环境是xfce
+
+```
+http://fcitx.github.com/handbook/faq.html#ctrl_space
+```
+
+发现是/etc/gtk-2.0/gtk.immodules和gtk-query-immodules-2.0的内容不一样，里面是空的！估计是更新的时候被清空了...
+
+解决方法将gtk-query-immodules-2.0的输出弄到/etc/gtk-2.0/gtk.immodules中。
+
+```
+gtk-query-immodules-2.0 | sudo tee /etc/gtk-2.0/gtk.immodules
+```
+
+logout,再login，ok了
+
+轉自：[http://hi.baidu.com/zechen11/item/c1f6ff0e46c678e3fe240d2f](http://hi.baidu.com/zechen11/item/c1f6ff0e46c678e3fe240d2f)
+
+參考下這裏：[https://fcitx-im.org/wiki/Input_method_related_environment_variables/zh-cn](https://fcitx-im.org/wiki/Input_method_related_environment_variables/zh-cn)
+
+另外，在archlinux下安裝時，安裝fcitx-im即可，另外安裝fcitx-configtool可以使用界面模式來配置fcitx。

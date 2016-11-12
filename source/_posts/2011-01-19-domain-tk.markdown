@@ -1,0 +1,15 @@
+---
+author: ety001
+date: 2011-01-19 09:43:34+00:00
+layout: post
+title: 免费顶级域名.tk
+wordpress_id: 877
+tags:
+- 杂七杂八
+---
+
+今天的新发现，一个免费的顶级域名，该域名支持A，CNAME，MX，免费的要求只有一个，就是90天内至少要有25个IP访问。这对于奔波在网上的站长来说，应该是个Easy的事情吧，哈哈。
+
+这是我这个博客的另外一个域名 http://www.ety001.tk
+
+申请地址：http://www.dot.tk
