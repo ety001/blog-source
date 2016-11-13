@@ -16,7 +16,7 @@ menu:
     url: /archives
   tags:
     url: /tags
-  user:
+  star:
     text: 关于我
     url: /about
   link:
