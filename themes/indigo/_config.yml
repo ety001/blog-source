@@ -16,7 +16,7 @@ menu:
     url: /archives
   tags:
     url: /tags
-  user-circle-o:
+  user:
     text: 关于我
     url: /about
   link:
