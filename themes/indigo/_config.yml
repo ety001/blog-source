@@ -16,15 +16,15 @@ menu:
     url: /archives
   tags:
     url: /tags
-  github:
-    url: https://github.com/ety001
-    target: _blank
-  weibo:
-    url: http://www.weibo.com/ety001
-    target: _blank
+  user-circle-o:
+    text: 关于我
+    url: /about
   link:
     text: 朋友们的Blog
-    url: /custom
+    url: /friendsblog
+  btc:
+    text: 捐赠
+    url: /donate
 
 rss: /atom.xml
 
@@ -102,6 +102,6 @@ canonical: https://www.domyself.me
 since_year: 2011
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: hellotest
+about: 一名PHP后端程序员
 
 adsense: true
