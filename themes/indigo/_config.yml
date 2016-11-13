@@ -52,7 +52,7 @@ mathjax: false
 archive_yearly: true
 
 #是否开启分享
-share: false
+share: true
 
 #是否开启打赏，关闭 reward: false
 reward:
@@ -88,7 +88,7 @@ less:
     - source/css/style.less
 
 # 是否开启多说评论，填写你在多说创建的站点二级域名
-duoshuo: ysblog
+duoshuo: ety001
 # 使用 disqus 时关闭多说评论
 disqus_shortname: false
 
@@ -99,7 +99,9 @@ disqus_shortname: false
 canonical: https://www.domyself.me
 
 # 版权起始年份
-since_year: 2006
+since_year: 2011
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: false
+about: hellotest
+
+adsense: true

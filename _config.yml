@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ETY001的博客
-subtitle:
-description:
+title: Domyself
+subtitle: ETY001的博客
+description: ETY001的博客
 author: ETY001
-language:
-timezone:
+language: zh-cn
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.domyself.me
 root: /
 permalink: :year/:month/:day/:title.html
-permalink_defaults:
+permalink_defaults: 
 
 # Directory
 source_dir: source
