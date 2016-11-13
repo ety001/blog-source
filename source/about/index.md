@@ -38,4 +38,6 @@ Email：work#$#domyself.me（把#$#换成@）
 Your browser does not support the audio element.
 </audio>
 
+[这里是我的一份职业测试结果](/occupation-test)
+
 </center>

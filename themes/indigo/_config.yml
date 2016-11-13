@@ -16,6 +16,9 @@ menu:
     url: /archives
   tags:
     url: /tags
+  cog:
+    text: DM实验室
+    url: /lab
   star:
     text: 关于我
     url: /about
