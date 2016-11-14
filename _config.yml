@@ -76,3 +76,7 @@ deploy:
   root: /home/wwwroot/domyself
   delete: true
   verbose: true
+
+tag_generator:
+  per_page: 20 #分页数量，首页不支持
+  enable_index_page: true  #设置为true时开启

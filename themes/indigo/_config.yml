@@ -108,7 +108,3 @@ since_year: 2011
 about: 一名PHP后端程序员
 
 adsense: true
-
-tag_generator:
-    per_page: 20 #分页数量，首页不支持
-    enable_index_page: true  #设置为true时开启
