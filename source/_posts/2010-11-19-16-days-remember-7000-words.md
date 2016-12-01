@@ -14,7 +14,7 @@ tags:
 
 **16天记住7000考研词汇（第一天）**
 
-1.With my own ears I clearly heard the heart beat of the nuclear bomb.
+1. With my own ears I clearly heard the heart beat of the nuclear bomb.
 我亲耳清楚地听到原子弹的心脏的跳动。
 
 2. Next year the bearded bear will bear a dear baby in the rear.
@@ -197,7 +197,7 @@ tags:
 88. The motive of the emotional movie is to move the removed men.
 那部情感电影的动机在于感动被开除的人。
 89. Otherwise, mother will go to another movie together with brother.
-3.        不然,妈妈就和弟弟一起去看另一场电影。
+3.        不然,妈妈就和弟弟一起去看另一场电影。
 90. Furthermore, we gathered leather and feather for the future colder weather.
 而且,我们收集了皮革和羽毛以应付将来更冷的天气。
 91. Before the premier, the old soldier scolds the cold weather.
@@ -219,9 +219,9 @@ tags:
 99. Palm calmly recalled the so-called caller.
 "手掌"平静地回忆了那个所谓的拜访者.
 100. In the hall, the shallow challenger shall be allowed to swallow the swallows.
-在大厅里,肤浅的挑战者将被允许吞下燕子. 
+在大厅里,肤浅的挑战者将被允许吞下燕子.
 
- 
+
 
 **16天记住7000考研词汇（第三天）**
 
@@ -326,7 +326,7 @@ tags:
 150. For example, this simple sample similar to his can be exemplified.
 例如,这件与他的相似的简单样品可以作为例证。
 
- 
+
 
 16天记住7000考研单词（第四天）
 
@@ -353,7 +353,7 @@ tags:
 161. Please release that pleasant peasant teaser who brings us plenty of pleasure.
 请释放那个带给我们巨大快乐的友好的农民逗趣者。
 162. In the canal, the Canadian analyzed the bananas.
- 在运河里,那个加拿大人化验了香蕉.
+ 在运河里,那个加拿大人化验了香蕉.
 163. I pointed out the joint on the coin at the disappointing appointment.
 在令人失望的约会上,我指出了硬币上的接头.
 164. His parents apparently stare at the transparent cigarettes.
@@ -434,126 +434,126 @@ tags:
 
 ## 16天记住7000考研单词（第五天）
 
-201. The loser closely enclosed himself in the closet.�
-  那个失败者把自己严密地封闭在小室内。�
-202. The composer was proposed to decompose his composition into components.�
-  作曲家被建议将著作分解成单元。?�
-203. Suppose you were exposed in the opposite position by your opponent, ...�
-  假设你被对手暴露在相反的位置，。。。�
-204. The depositor positively positioned the preposition in that position on �
-purpose.�
-  储户有意确信地介词放置在那个位置。?�
-205. In church the nurse cursed the people pursuing the purple purse.�
-  在教堂里，护士诅咒了追求紫色钱包的 人们。?�
-206. The faculty for agricultural culture isn't difficult to cultivate.�
-  农业栽培能力不难培养。�
-207. The reservoir in the reserved preserve is an obstacle to the obstinate �
-observer.�
-  预留保护区内的水库对固执的观察者是一个障碍。�
-208. The desert deserves the nervous servants to observe.�
-  那个沙漠值得神经紧张的公务员们去观察。�
-209. The bulk of the ruby rubbish on the pebble bubbles when stirred by �
-bulbed rubber club.�
-  小卵石上的大部分红宝石废料在用有球状突起的橡胶短棍搅动是会起泡。�
-210. The adjective injected new meaning into the objected objective object.�
-  这个形容词给受到反对的客观物体注入了新的意义。�
-211. The projector is subject to rejection and may be ejected from the �
-project.�
-  投影机有遭到否决的倾向并可能被逐出工程。 ?�
-212. A day goes through daybreak, morning, noon, afternoon, evening and �
-midnight.�
-    一天经过坲晓，上午，正文，下午，傍晚和午夜。?�
-213. His affection for the defects is affected by the infectious perfect �
-effect.�
-  他对缺点的钟爱受到具有感染力的完美效果的影响。?�
-214. The critic's criticism is critical to the crisis.�
-???评论家的批评对这场危机至关重要。?�
-215. The director's indirect direction led to the incorrect erection of the �
-rectifier.�
-  指导者间接的指导导致整流器的错误安装。�
-216. The prospective inspector prospected his prospect with his own �
-perspective.�
-?   未来的检查员用自己的观点勘察的他的前景。�
-217. Two suspicious aspects are suspected respectively.�
-  两个可疑的方面分别受到怀疑。�
-218. This section about insects is written by a respectable specialist.�
-  关于昆虫的这一节是由一位可敬的专家撰写的。�
-219. I assure the injured jury that a sure insurance is ensured.�
-  我让受伤的陪审团确信一笔有把握的保险得到的确保。�
-220. My durable endurance made me endure the injury during insurance. 
-我持久的忍耐力使我忍受了保险期间的伤害。?�
-221. I can't endure the leisured man's measures for the treasures in the �
-treasury.�
-.   我不能容忍那个悠闲男子对金库财宝采取的措施。�
-222. In the exchange the oranges are arranged into strange ranges.�
-  在交易所里橙子被排成奇怪的行。�
-223. The ashtray, splashed with ash, crashed with a clash in a flash while �
-being washed.�
-  那个溅有灰尘的烟灰盘在清洗时咣当一声一下子摔碎了。�
-224. He dashed to smash the fashionable ashtray with cash.�
-  他猛冲过去用现金砸那个过时的烟灰盘。�
-225. I feel a bit of bitterness for his ambitious exhibition.�
-  我为他雄心勃勃的展览感到一点点触痛。�
-226. On the orbit, the rabbits habitually inherited the merits of the �
-inhabitants.�
-?   在轨道上，兔子习惯性地继承了居民们的优点。�
-227. Her rejoicing voice is void of something avoidable.�
-  她那令人高兴的声音缺少某种可避免的东西。�
-228. I prefer the preferable preference you referred to in the reference �
-books.�
-?   我更喜欢你在参考书中提到的那个更可取的优先权。�
-229. The specialist specifically specified a special pacific means especially.�
-  专家特地明确指定了一种和解的特殊方法。�
-230. The speculator specifically specified the specification of this species �
-specimen.   投机者特地指定了这种物种标本的规范。�
-231 I'm to be punished for publishing his bad reputation to the public of the �
-republic.�
-  我因将他的坏名声公布给共和国的公众将受到惩罚。�
-232. The drug trafficker is concerned about the condition of the traditional �
-concert.�
-  毒品贩子担心传统音乐会的状况。�
-233. It's a fable that the cable enables the disabled man to be able to walk.�
-  电缆使得残疾人能够行走是天方夜谭。�
-234. The problem is that those who are out of jobs probably rob.�
-  问题是那些失业者们可能行劫。?�
-235. His wicked trick is to get the kids to kick bricks and lick the cricket �
-ticket.�
-  他的缺德恶作剧是让孩子们踢砖和添板球门。?�
-236. The thin sick chicken picks the thick sticky stick quickly.�
-  瘦病鸡快速地啄粘乎乎的粗棍。�
-237. The animals unanimously vanished from the mammal's room furnished with �
-Spanish furniture.�
-  动物一齐从配备有西班牙家具的哺乳动物的房间消失。?�
-238. The loosened goose chooses the cheese to eat.�
-  被解开的鹅挑选奶酪吃。�
-239. By policy, the police impolitely sliced the politician's politics books.�
-   根据政策，警方不客气的把政客的政治书籍切成了薄片。�
-240. At the neck of the wrecked deck, the reckoner checked the opaque cheque.�
- ?在遭破坏的甲板的颈部，计算者检查了这张不透明支票。�
-241. The scholar foolishly took the school cooling pool for swimming pool.�
-  学者愚蠢的把学校的冷却池当成游泳池。�
-242. Having played golf, the wolf in wool rested on the tool stool in the zoo.�
-  打过高尔夫球之后，穿羊毛衣的狼歇在动物园里的工具登上。�
-243. Citizens in the city's civil buildings are all civilized.�
-  城市名用建筑内的市民全都得到教化。 �
-244. The pious man is dubious about the vicious civilian's vivid description �
-of his vicinity to his wife.�
-?? 虔诚的男子对邪恶的平民生动的描述他与其妻子的密切（关系）半信半疑。245. The corps' corn in the corner is scorned by the stubborn corporation. 
-军团种在角落里的玉米遭到顽固公司的蔑视。�
-246. The attorney's horn lies horizontally in the thorns.�
-?代理律师的号角水平地躺在荆棘中。�
-247. I seem to deem his foreseeing of that the man will seek seeds in the �
-weed.�
-.   我似乎相信他的预见，他预见那个人将在杂草中寻找种子。�
-248. The agreement disagrees in the degree of agreeable freedom.�
-  协议在使人愉快的自由程度上存在分歧。�
-249. In the freezing breeze, the breeder greedily squeezed oil from the seeds.�
-  在冰冷的微风中，饲养员贪婪地从种子中榨油。�
-250. We need reed needles to speed the deed indeed.�
-  我们确实需要一些芦苇针来加快行动。 
+201. The loser closely enclosed himself in the closet.
+  那个失败者把自己严密地封闭在小室内。
+202. The composer was proposed to decompose his composition into components.
+  作曲家被建议将著作分解成单元。?
+203. Suppose you were exposed in the opposite position by your opponent, ...
+  假设你被对手暴露在相反的位置，。。。
+204. The depositor positively positioned the preposition in that position on  
+purpose.
+  储户有意确信地介词放置在那个位置。?
+205. In church the nurse cursed the people pursuing the purple purse.
+  在教堂里，护士诅咒了追求紫色钱包的 人们。?
+206. The faculty for agricultural culture isn't difficult to cultivate.
+  农业栽培能力不难培养。
+207. The reservoir in the reserved preserve is an obstacle to the obstinate  
+observer.
+  预留保护区内的水库对固执的观察者是一个障碍。
+208. The desert deserves the nervous servants to observe.
+  那个沙漠值得神经紧张的公务员们去观察。
+209. The bulk of the ruby rubbish on the pebble bubbles when stirred by  
+bulbed rubber club.
+  小卵石上的大部分红宝石废料在用有球状突起的橡胶短棍搅动是会起泡。
+210. The adjective injected new meaning into the objected objective object.
+  这个形容词给受到反对的客观物体注入了新的意义。
+211. The projector is subject to rejection and may be ejected from the  
+project.
+  投影机有遭到否决的倾向并可能被逐出工程。 ?
+212. A day goes through daybreak, morning, noon, afternoon, evening and  
+midnight.
+    一天经过坲晓，上午，正文，下午，傍晚和午夜。?
+213. His affection for the defects is affected by the infectious perfect  
+effect.
+  他对缺点的钟爱受到具有感染力的完美效果的影响。?
+214. The critic's criticism is critical to the crisis.
+???评论家的批评对这场危机至关重要。?
+215. The director's indirect direction led to the incorrect erection of the  
+rectifier.
+  指导者间接的指导导致整流器的错误安装。
+216. The prospective inspector prospected his prospect with his own  
+perspective.
+?   未来的检查员用自己的观点勘察的他的前景。
+217. Two suspicious aspects are suspected respectively.
+  两个可疑的方面分别受到怀疑。
+218. This section about insects is written by a respectable specialist.
+  关于昆虫的这一节是由一位可敬的专家撰写的。
+219. I assure the injured jury that a sure insurance is ensured.
+  我让受伤的陪审团确信一笔有把握的保险得到的确保。
+220. My durable endurance made me endure the injury during insurance.
+我持久的忍耐力使我忍受了保险期间的伤害。?
+221. I can't endure the leisured man's measures for the treasures in the  
+treasury.
+.   我不能容忍那个悠闲男子对金库财宝采取的措施。
+222. In the exchange the oranges are arranged into strange ranges.
+  在交易所里橙子被排成奇怪的行。
+223. The ashtray, splashed with ash, crashed with a clash in a flash while  
+being washed.
+  那个溅有灰尘的烟灰盘在清洗时咣当一声一下子摔碎了。
+224. He dashed to smash the fashionable ashtray with cash.
+  他猛冲过去用现金砸那个过时的烟灰盘。
+225. I feel a bit of bitterness for his ambitious exhibition.
+  我为他雄心勃勃的展览感到一点点触痛。
+226. On the orbit, the rabbits habitually inherited the merits of the  
+inhabitants.
+?   在轨道上，兔子习惯性地继承了居民们的优点。
+227. Her rejoicing voice is void of something avoidable.
+  她那令人高兴的声音缺少某种可避免的东西。
+228. I prefer the preferable preference you referred to in the reference  
+books.
+?   我更喜欢你在参考书中提到的那个更可取的优先权。
+229. The specialist specifically specified a special pacific means especially.
+  专家特地明确指定了一种和解的特殊方法。
+230. The speculator specifically specified the specification of this species  
+specimen.   投机者特地指定了这种物种标本的规范。
+231 I'm to be punished for publishing his bad reputation to the public of the  
+republic.
+  我因将他的坏名声公布给共和国的公众将受到惩罚。
+232. The drug trafficker is concerned about the condition of the traditional  
+concert.
+  毒品贩子担心传统音乐会的状况。
+233. It's a fable that the cable enables the disabled man to be able to walk.
+  电缆使得残疾人能够行走是天方夜谭。
+234. The problem is that those who are out of jobs probably rob.
+  问题是那些失业者们可能行劫。?
+235. His wicked trick is to get the kids to kick bricks and lick the cricket  
+ticket.
+  他的缺德恶作剧是让孩子们踢砖和添板球门。?
+236. The thin sick chicken picks the thick sticky stick quickly.
+  瘦病鸡快速地啄粘乎乎的粗棍。
+237. The animals unanimously vanished from the mammal's room furnished with  
+Spanish furniture.
+  动物一齐从配备有西班牙家具的哺乳动物的房间消失。?
+238. The loosened goose chooses the cheese to eat.
+  被解开的鹅挑选奶酪吃。
+239. By policy, the police impolitely sliced the politician's politics books.
+   根据政策，警方不客气的把政客的政治书籍切成了薄片。
+240. At the neck of the wrecked deck, the reckoner checked the opaque cheque.
+ ?在遭破坏的甲板的颈部，计算者检查了这张不透明支票。
+241. The scholar foolishly took the school cooling pool for swimming pool.
+  学者愚蠢的把学校的冷却池当成游泳池。
+242. Having played golf, the wolf in wool rested on the tool stool in the zoo.
+  打过高尔夫球之后，穿羊毛衣的狼歇在动物园里的工具登上。
+243. Citizens in the city's civil buildings are all civilized.
+  城市名用建筑内的市民全都得到教化。  
+244. The pious man is dubious about the vicious civilian's vivid description  
+of his vicinity to his wife.
+?? 虔诚的男子对邪恶的平民生动的描述他与其妻子的密切（关系）半信半疑。245. The corps' corn in the corner is scorned by the stubborn corporation.
+军团种在角落里的玉米遭到顽固公司的蔑视。
+246. The attorney's horn lies horizontally in the thorns.
+?代理律师的号角水平地躺在荆棘中。
+247. I seem to deem his foreseeing of that the man will seek seeds in the  
+weed.
+.   我似乎相信他的预见，他预见那个人将在杂草中寻找种子。
+248. The agreement disagrees in the degree of agreeable freedom.
+  协议在使人愉快的自由程度上存在分歧。
+249. In the freezing breeze, the breeder greedily squeezed oil from the seeds.
+  在冰冷的微风中，饲养员贪婪地从种子中榨油。
+250. We need reed needles to speed the deed indeed.
+  我们确实需要一些芦苇针来加快行动。
 
 
-## 16天记住7000考研单词（第六天） 
+## 16天记住7000考研单词（第六天）
 
 251. The accessory successor never made concessions to difficulties, so he succeeded in accessing successive successes.
 附属继承人从未向困难妥协，因此在走向连续的成功之路上成功了.
@@ -733,7 +733,7 @@ weed.�
 337. With gratitude he congratulated me on the celebration.
 他怀着感激向我祝贺庆典.
 338. The rational operator started a new era of opera cooperation in AD 2000.
- 理性的操作者在公元2000年开创了一个歌剧合作的新时代.
+ 理性的操作者在公元2000年开创了一个歌剧合作的新时代.
 339. I can't tolerate the acceleration in decorating the refrigerator.
 我不能容忍对冷库装饰的加速.
 340. The fateful up-to-date data of the gate have a fatal error.
@@ -757,7 +757,7 @@ weed.�
 349. The offensive offender defended himself with the fence.
 那个讨厌的触犯者用篱笆自卫.
 350. The dependent dependant can't live independently.
-依靠别人的被赡养者不能独立生活. 
+依靠别人的被赡养者不能独立生活.
 
 
 ## 16天记住7000考研单词（第八天）
@@ -970,7 +970,7 @@ weed.�
 
 16天记住7000考研单词（第十天）
 
- 451. The tenant is discontented with the content of the agreement for renting the tennis tent.
+ 451. The tenant is discontented with the content of the agreement for renting the tennis tent.
 租户用于租这座网球帐篷对协议的内容不满。
 452. The current occurrence of torrent spurs him to buy fur and sulfur.
 急流的当今的事件激励他买毛皮和硫。
@@ -1075,7 +1075,7 @@ weed.�
 ## 16天记住7000考研单词（第十一天）
 
 
-16天记住7000考研单词（第十一天） 
+16天记住7000考研单词（第十一天）
 
 501. The commonsense commonwealth government no longer uses the uncommon commonplace.
 有常识的联邦政府不再使用不寻常的陈腐之言。
@@ -1308,7 +1308,7 @@ weed.�
 572. The impure mixture with impurity is purified.
 含杂质的不纯混合物被提纯。
 573. The native has no nationality; he is an international man.
- 这个土著没有国籍,他是一个国际人.
+ 这个土著没有国籍,他是一个国际人.
 574. In the rural the naturally matured tomatoes have this nature.
 在乡下自然成熟的番茄具有这种性质.
 575. The worshiper thinks that the worst is the insufficient horsepower.
@@ -1537,7 +1537,7 @@ compromise.
 683. The thermal therapy terminated after the terminal germ seminar.
 热疗在期末细菌研讨会后终止了.
 684. The terraced terrain near the Mediterranean ferry is terrific.
- 地中海渡口附近的台地地形好极了.
+ 地中海渡口附近的台地地形好极了.
 685. The consul's consultant hauled out the assaulter from the vault.
 领事的顾问把袭击者从地窖中拖了出来.
 686. The nitrogen atoms combine instantaneously, simultaneously and spontaneously.
@@ -1573,16 +1573,16 @@ compromise.
 
 **16天记住7000考研词汇(第十五天)**
 
-701. The assessor asserts that he inserted the deserted desserts in the�
+701. The assessor asserts that he inserted the deserted desserts in the
 desert with alert.
 估价人认定他用警惕把被抛弃的甜点心插入沙漠中。
-702. The abrupt corrupt man had the Xeroxed code corroded in the erosion episode.
+702. The abrupt corrupt man had the Xeroxed code corroded in the erosion episode.
 突然的腐败的人让人在腐蚀插曲过程中腐蚀被影印的代码。
 703. The enlightened man highlighted his mighty insight into the fright.
 开明的人强调他的强大的对惊悸了解。
-704. I would rather withhold than uphold you unfold the gold foil on the threshold.
+704. I would rather withhold than uphold you unfold the gold foil on the threshold.
 我宁愿扣留而不支持你展开黄金箔在门槛上。
-705. The imposing man posed as a man of good disposition and disposed of the rubbish.
+705. The imposing man posed as a man of good disposition and disposed of the rubbish.
 给人印象深刻的人冒充一个好安排的人并且处理垃圾。
 706. The prose author's diagnosis discloses that the hose is damaged.
 散文作者的诊断透露软管被损坏。
@@ -1594,13 +1594,13 @@ desert with alert.
 更新基因的退步夸大了。
 710. The competent petitioner thinks the perpetual impetus is petty.
 有能力的请愿者认为永久的动力是可爱的。
-711. The superstitious man put the priority on the superficial supersonic superiority.
+711. The superstitious man put the priority on the superficial supersonic superiority.
 迷信的人把优先权放在表面的超音速的优良上。
 712. The traitor in strait straight forwardly told me the traits of the bait.
 在向前直的海峡里的卖国贼告诉我饵的特性。
 713. The Oriental is proficient in the ingredients.
 东方人对成分熟练。
-714. The recipe recipient transiently made the conscientious alien client unconscious.
+714. The recipe recipient transiently made the conscientious alien client unconscious.
 烹饪法接受者瞬变使有责任心的外国人客户无意识。
 715. The rotary agitator irrigated him.
 旋转的鼓动者可灌溉的他。
@@ -1610,11 +1610,11 @@ desert with alert.
 被降职的大学生升级基础的病毒计划。
 718. Jail life made the frail retailer avail every snail in the pail.
 监狱生命使脆弱的零售商在桶里有益于每只蜗牛。
-719. Deviation in aviation is dangerous. Writing is alleviated via bias on abbreviation.
+719. Deviation in aviation is dangerous. Writing is alleviated via bias on abbreviation.
 在航空过程中的不符合是危险的。 写被关于缩写通过偏见减轻。
-720. On the anniversary the versatile poet wrote an adverse verse Virtue versus Evil.
+720. On the anniversary the versatile poet wrote an adverse verse Virtue versus Evil.
 在周年纪念日上，多用途诗人写信告诉不利的句美德对邪恶。
-721. The recruit made the current circulate in the circuit on the�
+721. The recruit made the current circulate in the circuit on the
 circumference.
 新兵使电流在周长上在电路内循环。
 722. In the suitcase, the guitar tutor found the tuition by intuition.
@@ -1625,7 +1625,7 @@ circumference.
 可怜的屠夫抓针并且笨拙缝它。
 725. The peer's queer peering is a sheer sneer.
 贵族的奇怪盯着看是完全讽笑。
-726. The currency curriculum made the excursionist incur loss of time and money.
+726. The currency curriculum made the excursionist incur loss of time and money.
 货币课程使短途旅游者招致时间和钱的损失。
 727. The stray betrayer arrayed the sprayers on the road.
 偶然的背信者在道路上排列喷雾器。
@@ -1637,17 +1637,17 @@ circumference.
 琐屑的颂词形成选民的报告的属性。
 731. I acutely and resolutely refuted the brutal persecution of mute commuter.
 我尖锐而坚决反驳默默的通勤者的野蛮的迫害。
-732. This measure may preclude the exclusive agency from selling crucial crude oil.
+732. This measure may preclude the exclusive agency from selling crucial crude oil.
 这个措施可以使专有的代理不能出售决定性的原油。
 733. He depicted the conviction that contradicted the verdict.
 他描绘反驳裁决的定罪。
 734. Magnify the magnitude of the magnetism.
 放大磁性的大小。
-735. The deputy chairman of the charity clarified the importance of clarity and purity.
+735. The deputy chairman of the charity clarified the importance of clarity and purity.
 慈善的副会长验证明了和纯洁的重要性。
 736. The tramp from the tram swamped the ham hamburger with shampoo.
 来自有轨电车的流浪者用洗发水淹没火腿汉堡。
-737. According to the pamphlet, the current in the amplifier can be amplified to 3 amperes.
+737. According to the pamphlet, the current in the amplifier can be amplified to 3 amperes.
 根据小册子，在放大器里的电流可以被放大到3安培。
 738. Prolong the sponge along the longitude and latitude at an altitude.
 沿着经度和纬度在一高度延长海绵。
@@ -1655,7 +1655,7 @@ circumference.
 保守的人在天文台的保留。
 740. The mender recommends me to amend the legend agenda.
 修理工建议劝告我修改传奇议程。
-741. His comprehensive apprehension about the appendix of the pendulum is�
+741. His comprehensive apprehension about the appendix of the pendulum is
 obvious.
 他的广泛的关于这个摆的附录的忧虑明显。
 742. Elevate the eleventh level to relevant height.
@@ -1666,15 +1666,15 @@ obvious.
 预言者恰当为修理螺旋桨拨专款。
 745. I'm baffled why the affiliated man initiated the negotiator into ego.
 被附属于的人为什么正式介绍谈判者进自我，我被困惑。
-746. The radiation radius of the radioactive radium radiator in the stadium�
+746. The radiation radius of the radioactive radium radiator in the stadium
 is variable.
 放射性的镭暖气装置的辐射半径在体育场是易变的。
 747. Snobbish Knob is doing his hobby in the lobby.
 势利的球形门柄正在大堂里做他的嗜好。
-748. The ass bypassed the guard and assassinated the surpassing ambassador in�
+748. The ass bypassed the guard and assassinated the surpassing ambassador in
 the embassy.
 驴为警卫设旁路并且在大使馆暗杀胜过的大使。
-749. The corporate bodies collaborate elaborately on producing vibrating�
+749. The corporate bodies collaborate elaborately on producing vibrating
 evaporator.
 法人团体在生产振动蒸发器之后精心制作协作。
 750. The dazzling light from the digital device dizzied me.
@@ -1686,7 +1686,7 @@ evaporator.
 那种已绝迹的珍奇的鸟的羽毛中含锌.
 752. The smuggler shrugged to the bugler hugging the bug in the tugboat.
 走私者对在拖船中拥抱臭虫的号手耸耸肩.
-753. The vocation advocate found the word "vocal" and "reciprocal" not in the vocabulary.
+753. The vocation advocate found the word "vocal" and "reciprocal" not in the vocabulary.
 职业倡导者发现“嗓音的”和“交互的”两词不在词汇表中.
 754. Without my aid I'm afraid the maiden would have been raided.
 没有我的帮助我怕少女已遭到袭击。
@@ -1734,15 +1734,15 @@ evaporator.
 外交证书在自治区是自动化生产的。
 776. The enrolled jolly stroller polled on the trolley.
 被招收的快乐的散步者在无轨电车上投票.
-777. The contaminated vital vitamin made racial discrimination come to culmination.
+777. The contaminated vital vitamin made racial discrimination come to culmination.
 被污染的重要维他命使种族歧视达到极点.
 778. The jogger made an analytical analogy between the ecology and geology.
 慢跑者在生态学和地质学之间进行了分析类比.
 779. The alliance enhanced the reliability of the applicable alloy appliances.
 盟友增强了适用的合金用具的可靠性.
-780. The gigantic panther in pants passed the transition period of heart transplant.
+780. The gigantic panther in pants passed the transition period of heart transplant.
 穿裤子的巨大黑豹度过了心脏移植的过度期.
-781. With a clatter, the flatterer shattered the chattering wattmeter in the chaos.
+781. With a clatter, the flatterer shattered the chattering wattmeter in the chaos.
 当啷一声,马屁精在混乱中打碎了格格作响的瓦特表.
 782. “Homely food is wholesome,” the comedist said on the dome.
 “家常食品有益于健康，”喜剧作家在拱顶上说.
@@ -1750,4 +1750,3 @@ evaporator.
 敏锐的认购者找到处方原稿.
 784. Time is finite and infinite. I defy the indefinite definition.
 时间既是有限的又是无限的.我公然对抗这个模糊的定义.。
-

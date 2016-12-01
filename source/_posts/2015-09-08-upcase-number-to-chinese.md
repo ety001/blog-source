@@ -6,5 +6,4 @@ tags:
 layout: post
 ---
 
- gist f0458e43343953ba5b52
-
+{% gist f0458e43343953ba5b52 %}

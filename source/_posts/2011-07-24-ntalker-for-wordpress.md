@@ -17,20 +17,16 @@ Ntalker可以用来实现，使所有访问当前页面的用户进行及时聊�
 
 ============= Ntalker for Wordpress 1.1 新浪云平台特别版 =============
 
-该版本针对新浪云平台研发，具体使用方法同普通版本一样，请参见：[http://www.domyself.me/ntalekr-for-wordpress](http://www.domyself.me/ntalekr-for-wordpress)。
-感谢您对于本插件的关注，如果您有好的建议或者想法，希望您能来[http://www.domyself.me/ntalekr-for-wordpress](http://www.domyself.me/ntalekr-for-wordpress)页面留言。如果您觉得这个插件很好用的话，恳请您能通过您的博客帮助推广，再次感谢！
+该版本针对新浪云平台研发，具体使用方法同普通版本一样，请参见：[{% post_link ntalker-for-wordpress %}]({% post_link ntalker-for-wordpress %})。
+感谢您对于本插件的关注，如果您有好的建议或者想法，希望您能来[{% post_link ntalker-for-wordpress %}]({% post_link ntalker-for-wordpress %})页面留言。如果您觉得这个插件很好用的话，恳请您能通过您的博客帮助推广，再次感谢！
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ============= Ntalker for Wordpress 展望 =============
 
   * 1、预计在1.2版本中去掉该文件，实现在wp后台进行相关数据的配置。
-
-
   * 2、1.x系列版本将主要实现Ntalker的基础聊天功能，其余功能如加好友，改在线等状态这类附加功能，初步计划在2.x版本中加入，届时可以通过Ntalker for Wordpress插件把你的wp打造成一个小型的社区。2.x版本将会在wp数据库新建一个表来实现记录好友关系，我已经开始着手思考这个表的构造了，如果您有好的想法，还请您能在这里留言，我将会为此感激不尽！
 
-
-+++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **～～～～～～～～～～～～～～～ 感谢区 ～～～～～～～～～～～～～～～**
@@ -44,4 +40,3 @@ Ntalker可以用来实现，使所有访问当前页面的用户进行及时聊�
 ===================下载区===================
 
 **[Ntalker for Wordpress 1.1 新浪云平台特别版](http://www.domyself.me/download/dmntalker1.1sae.zip)**
-
