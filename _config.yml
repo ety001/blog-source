@@ -81,3 +81,22 @@ deploy:
 tag_generator:
   per_page: 20 #分页数量，首页不支持
   enable_index_page: true  #设置为true时开启
+
+jsonContent:
+  meta: false
+  pages: true
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: true
+    categories: false
+    tags: true

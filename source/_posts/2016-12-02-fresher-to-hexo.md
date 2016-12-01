@@ -1,7 +1,7 @@
 ---
 title: 网站从jekyll更换为hexo了，又是一个新的开始
 date: 2016-12-02 01:18:24
-keywords: 从jekyll到hexo
+keywords: ['从jekyll到hexo']
 tags:
 - 网站日志
 ---

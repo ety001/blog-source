@@ -30,14 +30,21 @@
   <% } %>
   <%
     var keyWords = config.keywords;
-    if(page.tags){
+    if(page.keywords){
+      keyWords = [];
+
+      _.isArray(page.keywords) ? ( keyWords = page.keywords )
+        : page.keywords.each(function(k){
+            keyWords.push(k.name);
+          });
+    } else if(page.tags) {
       keyWords = [];
 
       _.isArray(page.tags) ? ( keyWords = page.tags )
         : page.tags.each(function(k){
             keyWords.push(k.name);
           });
-   }
+    }
   %>
   <meta name="keywords" content="<%= keyWords %>">
   <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
