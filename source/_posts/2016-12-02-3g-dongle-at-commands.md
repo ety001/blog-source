@@ -1,7 +1,7 @@
 ---
 title: 3g无线网卡上的AT指令总结
 date: 2016-12-02 01:38:43
-keyword:
+keywords:
 - asterisk
 - 3g dongle
 - raspberry pi
