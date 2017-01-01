@@ -79,11 +79,10 @@ tags:
 附带两个国内的ArchLinux ARM 的源：
 
     #中科大
-    Server = http://mirrors.ustc.edu.cn/archlinuxarm/armv6h/$repo
+    Server = http://mirrors.ustc.edu.cn/archlinuxarm/$arch/$repo
     #清华
-    Server = http://mirrors.tuna.tsinghua.edu.cn/archlinuxarm/armv6h/$repo
+    Server = http://mirrors.tuna.tsinghua.edu.cn/archlinuxarm/$arch/$repo
 
 参考文章：[Mounting a KVM disk image without KVM](http://dgc.uchicago.edu/20130530/mounting-a-kvm-disk-image-without-kvm/)
 
 **码字不易，见好就分享~**
-
