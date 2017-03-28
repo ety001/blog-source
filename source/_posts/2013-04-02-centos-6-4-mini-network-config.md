@@ -13,7 +13,7 @@ tags:
 1、这里可以修改基本的网络信息，IP，netmask
 
 ```
-vi /etc/sysconfig/network-scrip/ifcfg-eth0
+vi /etc/sysconfig/network-scripts/ifcfg-eth0
 ```
 
 2、修改网关在这里
@@ -37,3 +37,4 @@ vi /etc/resolve.conf
 yum groupinstall "Development Libraries" "Development Tools"
 ```
 
+## 以上是centos6.4的配置方法，在centos7下，直接输入 nmtui 即可进入 text ui模式配置
