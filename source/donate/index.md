@@ -2,8 +2,14 @@
 title: Donate
 date: 2016-11-14 02:31:11
 ---
-### 如果你觉得我做的还不错，可以点击下面的『赏』，打赏我杯咖啡 ~ 非常感谢 ~
+### 如果你觉得我做的还不错，可以扫码打赏，打赏我杯咖啡 ~ 非常感谢 ~
 
-<center>你也可以选择来我的[微店](https://weidian.com/?userid=344947433)买份*泡腾片*补充下 VC</center>
+### BTC
+Address: 1CXCd3UcsxAQXWMr72TwoEiMz2fvJpkX15
+<img src="/img/btc.png" style="width: 300px; margin: 0 auto;" alt="微信">
 
-<img src="/img/weidian.jpg" style="width: auto; margin: 0 auto;" alt="微店">
+### Wechat
+<img src="/img/weixin.png" style="width: 300px; margin: 0 auto;" alt="微信">
+
+### Alipay
+<img src="/img/alipay.png" style="width: 300px; margin: 0 auto;" alt="支付宝">
