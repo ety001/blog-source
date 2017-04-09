@@ -16,31 +16,33 @@ tags: 后端
 
 体验环境：MacOS X 或 Linux (注意 *php* 的 *pdo_mysql.so* 请打开)
 
-1. 安装 Symfony
+* 安装 Symfony
 ```bash
 $ sudo mkdir -p /usr/local/bin
 $ sudo curl -LsS https://symfony.com/installer -o /usr/local/bin/symfony
 $ sudo chmod a+x /usr/local/bin/symfony
 ```
 
-2. 创建 Symfony 项目 并启动服务
+* 创建 Symfony 项目 并启动服务
 ```shell
 $ symfony new blog
 $ cd blog
 $ php bin/console server:start
 ```
+
 访问下 http://127.0.0.1:8000 看是否正常启动。
-如需停止服务，执行下面的目录
+
+* 如需停止服务，执行下面的命令
 ```shell
 $ php bin/console server:stop
 ```
 
-3. 下载安装 EasyAdmin
+* 下载安装 EasyAdmin
 ```bash
 $ composer require javiereguiluz/easyadmin-bundle
 ```
 
-4. 激活插件
+* 激活插件
 ```php
 <?php
 // app/AppKernel.php
@@ -58,7 +60,7 @@ class AppKernel extends Kernel
 }
 ```
 
-5. 载入路由
+* 载入路由
 ```
 # app/config/routing.yml
 easy_admin_bundle:
@@ -67,21 +69,21 @@ easy_admin_bundle:
     prefix:   /admin
 ```
 
-6. 载入静态资源
+* 载入静态资源
 ```
 # Symfony 3
 php bin/console assets:install --symlink
 ```
 
-7. 在 *app/config/parameters.yml* 中配置数据库连接
+* 在 *app/config/parameters.yml* 中配置数据库连接
 
-8. 创建 *Entity*
+* 创建 *Entity*
 ```bash
 $ php bin/console doctrine:generate:entity --entity="AppBundle:Category" --fields="name:string(255) enabled:boolean" --no-interaction
 $ php bin/console doctrine:generate:entity --entity="AppBundle:Posts" --fields="title:string(255) contents:text() enabled:boolean" --no-interaction
 ```
 
-9. 在 *src/AppBundle/Entity/PostsEntity.php* 中增加关联关系
+* 在 *src/AppBundle/Entity/PostsEntity.php* 中增加关联关系
 ```php
 <?php
 // ...
@@ -96,7 +98,7 @@ class Posts
 }
 ```
 
-在 *src/AppBundle/Entity/Category.php* 中增加对应的关联关系(新增代码如下)
+* 在 *src/AppBundle/Entity/Category.php* 中增加对应的关联关系(新增代码如下)
 ```php
 // src/AppBundle/Entity/Category.php
 
@@ -119,19 +121,19 @@ class Category
 }
 ```
 
-9. 执行以下命令，完善对应属性的方法
+* 执行以下命令，完善对应属性的方法
 ```bash
 $ composer update
 $ php bin/console doctrine:generate:entities AppBundle --no-backup
 ```
 
-10. 执行以下命令，生成数据表
+* 执行以下命令，生成数据表
 ```php
 $ php bin/console doctrine:schema:update --force
 ```
 
-11. 配置后台
-```yml
+* 配置后台
+```
 # app/config/config.yml
 easy_admin:
     entities:
@@ -149,8 +151,8 @@ easy_admin:
                     - contents
 ```
 
-12. 配置语言
-```yml
+* 配置语言
+```
 # app/config/config.yml
 framework:
     translator: { fallbacks: ['%locale%'] }
@@ -212,7 +214,7 @@ class User extends BaseUser
 ```
 
 4. 增加防火墙配置(全部替换原有内容)
-```yml
+```
 # app/config/security.yml
 security:
     encoders:
@@ -246,7 +248,7 @@ security:
 ```
 
 5. 配置 FOS
-```yml
+```
 # app/config/config.yml
 fos_user:
     db_driver: orm # other valid values are 'mongodb' and 'couchdb'
@@ -260,7 +262,7 @@ fos_user:
 6. 在 *app/config/parameters.yml* 中配置第5步中的 *mailer_user* 参数
 
 7. 导入 FOS 的路由配置
-```yml
+```
 # app/config/routing.yml
 fos_user:
     resource: "@FOSUserBundle/Resources/config/routing/all.xml"
@@ -298,7 +300,7 @@ class AdminController extends BaseAdminController
 ```
 
 10. 在 config.yml 中增加 User 的配置
-```yml
+```
 easy_admin:
     entities:
         User:
