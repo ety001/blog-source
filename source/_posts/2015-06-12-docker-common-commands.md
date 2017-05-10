@@ -29,6 +29,7 @@ tags:
 ### 5. 从一个镜像启动容器并进入terminal
 
     docker run -t -i IMAGE /bin/bash
+    docker run -it --rm IMAGE /bin/bash #运行完删除容器
 
 ### 6. 停止一个容器
 
@@ -48,5 +49,9 @@ tags:
 
     docker commit -m "some log" <container_id> <some_name>
 
-另外附加一篇参考：<http://blog.chinaunix.net/uid-10915175-id-4443127.html>
+### 10. 进入一个正在运行的容器
 
+    docker attach 0232 #by id
+    docker exec -i -t 0232 /bin/bash #by id
+
+另外附加一篇参考：<http://blog.chinaunix.net/uid-10915175-id-4443127.html>
