@@ -25,7 +25,7 @@ date: 2016-11-14 03:13:39
 
 ## 树莓派相关文档
 * [扩容树莓派SD卡分区空间](/2015/01/23/expand-raspberry-pi-sd-card-space.html)
-* [制作树莓派的镜像](/2015/01/23/make-image-of-raspberry-pi.html)
+* [制作树莓派的镜像](2015/01/22/make-image-of-raspberry-pi.html)
 * [解决树莓派Archlinux的Volume was not properly unmounted问题](/2015/03/30/raspberry-pi-resolved-volume-not-properly-unmounted.html)
 * [在树莓派Archlinux的Cli下连接Wifi](/2015/10/07/connect-to-wifi-under-archlinux-cli.html)
 * [树莓派Archlinux初始化安装软件清单](/2015/10/09/archlinux-arm-raspberry-pi-setup-softwares-list.html)
