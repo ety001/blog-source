@@ -34,9 +34,11 @@ Github: [https://github.com/ety001](https://github.com/ety001)
 
 Email：work#$#domyself.me（把#$#换成@）
 
-<audio src="/upload/20150707/my_future_is_not_dream.mp3" autoplay="autoplay" loop="loop" controls="controls">
+<!--<audio src="/upload/20150707/my_future_is_not_dream.mp3" autoplay="autoplay" loop="loop" controls="controls">
 Your browser does not support the audio element.
-</audio>
+</audio>-->
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=418602671&auto=1&height=66"></iframe>
 
 [这里是我的一份职业测试结果](/occupation-test)
 
