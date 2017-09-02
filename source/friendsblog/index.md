@@ -11,3 +11,4 @@ date: 2016-11-14 02:14:08
 * [JOYFIRE 王乐珩](http://wangleheng.net)
 * [Tyrion](http://zwb-ict.github.io)
 * [Timothy Chen](https://tnachen.wordpress.com/)
+* [潘信伍](http://www.panxinwu.com/)
