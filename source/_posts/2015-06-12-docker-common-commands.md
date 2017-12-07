@@ -28,8 +28,8 @@ tags:
 
 ### 5. 从一个镜像启动容器并进入terminal
 
-    docker run -t -i IMAGE /bin/bash
-    docker run -it --rm IMAGE /bin/bash #运行完删除容器
+    docker run -ti IMAGE /bin/bash
+    docker run -it --rm IMAGE /bin/bash #运行完删除容器, 建议调试时使用
 
 ### 6. 停止一个容器
 
@@ -51,7 +51,12 @@ tags:
 
 ### 10. 进入一个正在运行的容器
 
-    docker attach 0232 #by id
-    docker exec -i -t 0232 /bin/bash #by id
+    docker attach <容器id> #通过容器id进入, 不推荐该方法
+    docker exec -i -t <容器id> /bin/bash  #通过容器id进入, 推荐该方法
+
+### 11. 基于Dockerfile编译
+
+    docker build -t <镜像名> .
+
 
 另外附加一篇参考：<http://blog.chinaunix.net/uid-10915175-id-4443127.html>
