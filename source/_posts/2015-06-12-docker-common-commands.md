@@ -58,5 +58,12 @@ tags:
 
     docker build -t <镜像名> .
 
+### 容器自动重启
+
+    docker run -it --restart on-failure:10 IMAGE
+    # no 不自动重启容器 (默认)
+    # on-failure 容器发生error而退出(容器退出状态为0)重启容器
+    # unless-stopped 在容器已经stop掉或docker stopped/restarted 的时候才重启容器
+    # always 在容器已经stop掉或docker stopped / restarted 的时候重启容器
 
 另外附加一篇参考：<http://blog.chinaunix.net/uid-10915175-id-4443127.html>
