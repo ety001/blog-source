@@ -26,6 +26,8 @@ date: 2016-11-14 02:21:50
 
 如果你觉得工具做的很赞，欢迎打赏~ [捐助我](http://www.domyself.me/donate)
 
+Steemit: [@ety001](https://steemit.com/@ety001)
+
 Weibo: [@ety001](http://weibo.com/ety001)
 
 Twitter: [@ety001](https://twitter.com/ety001)
