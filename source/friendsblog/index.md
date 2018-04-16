@@ -13,3 +13,4 @@ date: 2016-11-14 02:14:08
 * [Timothy Chen](https://tnachen.wordpress.com/)
 * [潘信伍](http://www.panxinwu.com/)
 * [范明非](https://fanmingfei.com)
+* [王杰](http://www.jasonwung.com)
