@@ -12,3 +12,4 @@ date: 2016-11-14 02:14:08
 * [Tyrion](http://zwb-ict.github.io)
 * [Timothy Chen](https://tnachen.wordpress.com/)
 * [潘信伍](http://www.panxinwu.com/)
+* [范明非](https://fanmingfei.com)
