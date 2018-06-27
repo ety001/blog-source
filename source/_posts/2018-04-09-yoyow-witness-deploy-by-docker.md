@@ -164,10 +164,10 @@ unlocked >>>  update_witness    您的数字账号名     签名用的公钥    
 # 不需要修改的内容填null，不能填写和修改前一样的参数，否则会报错）
 
 # 下线见证人
-unlocked >>>  update_witness  485699321  YYW1111111111111111111111111111111114T1Anm  null  YOYO  null  true
+unlocked >>>  update_witness  485699321  YYW1111111111111111111111111111111114T1Anm  null null null  true
 
 # 上线见证人
-unlocked >>> update_witness  485699321  YYW87JoiJguwTWgSXZBHHaA78xiaNaEh5Lup1rNJGEg37Z4huNGyS  null  YOYO  null  true
+unlocked >>> update_witness  485699321  YYW87JoiJguwTWgSXZBHHaA78xiaNaEh5Lup1rNJGEg37Z4huNGyS  null null null  true
 ```
 
 3.查看可以领取的见证人工资
