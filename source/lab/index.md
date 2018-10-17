@@ -10,16 +10,15 @@ date: 2016-11-14 03:13:39
 
 ## 这里是ETY001的实验室，该页面用来展示ETY001开发的一些小玩意。
 
-  1. [{% post_link the-classroom-search-engine-of-ludong-university %}]({% post_link the-classroom-search-engine-of-ludong-university %})
-  2. [{% post_link ntalker-for-wordpress %}]({% post_link ntalker-for-wordpress %})
-  3. [{% post_link hi121-backhome %}]({% post_link hi121-backhome %})
-  4. [{% post_link hi121-shop %}]({% post_link hi121-shop %})
-  5. [{% post_link upan %}]({% post_link upan %})
-  6. [Pix](http://pix.domyself.me)
-  7. [SS](http://gfw.fuckspam.in)
-  8. [我的vagrant库](https://github.com/ety001/my_vagrant_lib.html)
-  9. [Online Clipboard](http://oc.to0l.cn)，[{% post_link make-a-online-clipboard-with-swoole-and-redis %}]({% post_link make-a-online-clipboard-with-swoole-and-redis %})
-  10. [Review Bookmarks](http://bm.to0l.cn)，[{% post_link review-bookmarks %}]({% post_link review-bookmarks %})
+  * ~[{% post_link the-classroom-search-engine-of-ludong-university %}]({% post_link the-classroom-search-engine-of-ludong-university %})~
+  * ~[{% post_link ntalker-for-wordpress %}]({% post_link ntalker-for-wordpress %})~
+  * ~[{% post_link hi121-backhome %}]({% post_link hi121-backhome %})~
+  * ~[{% post_link hi121-shop %}]({% post_link hi121-shop %})~
+  * [{% post_link upan %}]({% post_link upan %})
+  * [Pix](http://pix.domyself.me)
+  * ~[SS](http://gfw.fuckspam.in)~
+  * [Online Clipboard](http://oc.to0l.cn)，[{% post_link make-a-online-clipboard-with-swoole-and-redis %}]({% post_link make-a-online-clipboard-with-swoole-and-redis %})
+  * [Review Bookmarks](http://bm.to0l.cn)，[{% post_link review-bookmarks %}]({% post_link review-bookmarks %})
 
 ---
 
