@@ -20,14 +20,15 @@
     min-height: 100%;
     background: #fff;
     box-shadow: @boxShadow;
-    .transition(.4s, cubic-bezier(0.18, 0.81, 0.3, 0.89));
+    .transition(.4s, cubic-bezier(.18, .81, .3, .89));
+    will-change: transform, -webkit-transform;
 
     &.hide {
         .transform(translateX(-100%));
         #menu-off {
             .transform(scale(0));
         }
-        + #main {
+        +#main {
             padding-left: 0;
         }
     }
@@ -38,7 +39,6 @@
     }
 
     .brand-wrap {
-        background: url(../img/brand.jpg);
         background-size: 100% 100%;
     }
 
@@ -95,15 +95,13 @@
 
             &:hover,
             &.active {
-                background: rgba(0, 0, 0, 0.05);
+                background: rgba(0, 0, 0, .05);
 
                 a,
                 .icon {
                     color: @primaryColor;
                 }
-
             }
-
         }
 
         a {
@@ -115,46 +113,26 @@
             color: @secondaryTextColor;
             text-decoration: none;
         }
-
     }
-
-    .footer {
-        position: relative;
-        width: 100%;
-        height: 115px;
-        font-size: 12px;
-        font-family: @font-code;
-        padding: 10px @menuPadding;
-        border-top: 1px solid @borderColor;
-
-        .rss {
-            position: absolute;
-            right: @menuPadding;
-            top: 17px;
-            color: #E64A19;
-        }
-
-    }
-
 }
 
 #main {
-    padding-left: 240px;
+    padding-left: @menuWidth;
     min-height: 100%;
-    background: @backColor;
     .transition(.4s);
 }
 
 .body-wrap {
     padding: 30px 0 40px;
+    min-height: ~'calc(100vh - 340px)';
 }
 
 .container {
-    width: 960px;
+    width: @contentWidth;
     margin: 0 auto;
 
     &:after {
-        content: '';
+        content: "";
         display: table;
         clear: both;
     }
@@ -171,15 +149,53 @@
     height: 100%;
     background: #000;
     opacity: 0;
-    filter: alpha(opacity=0);
     pointer-events: none;
     .transition(.3s);
-    
+
     &.in {
         visibility: visible;
         pointer-events: auto;
-        opacity: .5;
-        filter: alpha(opacity=50);
+        opacity: .3;
+    }
+}
+
+.footer {
+    color: rgba(255,255,255,.6);
+    background: @darkPrimaryColor;
+    p {
+        margin: 0;
+        line-height: 1.6;
+        font-size: 13px;
+        text-align: center;
+        span {
+            &:not(:first-child):before {
+                content: "·";
+                padding: 0 .5em;
+            }
+        }
+        a {
+            border-bottom: 1px dotted rgba(255,255,255,.5);
+            &:hover {
+                border-bottom: 1px solid rgba(255,255,255,.7);
+            }
+        }
+    }
+
+    .top {
+        padding: 16px;
+        background: @primaryColor;
+    }
+    a {
+        color: inherit;
+        opacity: .8;
+
+        &:hover {
+            color: #fff;
+            text-decoration: none
+        }
+    }
+    .bottom {
+        padding: 16px;
     }
 }
 
@@ -188,7 +204,6 @@ a[title="站长统计"] {
 }
 
 @media screen and (max-width:1240px) {
-
     #menu-off {
         display: none;
     }
@@ -201,17 +216,15 @@ a[title="站长统计"] {
         &.show {
             .transform(translateX(0));
         }
-
     }
 
     #main {
         padding-left: 0;
     }
-
 }
 
 
-@media screen and (max-width:1040px) { 
+@media screen and (max-width:1040px) {
     .container {
         width: 100%;
         padding: 20px 16px;
@@ -219,7 +232,6 @@ a[title="站长统计"] {
 }
 
 @media screen and (max-width:760px) {
-
     #main {
         width: 100%;
         overflow-x: hidden;
@@ -238,10 +250,11 @@ a[title="站长统计"] {
                 height: @mNavH;
                 line-height: @mNavH;
             }
-
         }
-
     }
 
+    ::-webkit-scrollbar {
+        display: none;
+    }
 }
 

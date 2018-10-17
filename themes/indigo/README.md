@@ -1,6 +1,8 @@
 hexo-theme-material-indigo
 ================
 
+[![Join the chat at https://gitter.im/hexo-theme-indigo/Lobby](https://badges.gitter.im/hexo-theme-indigo/Lobby.svg)](https://gitter.im/hexo-theme-indigo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。 [Preview](http://imys.net/)
 
 > 现有两个主题分支，我的博客中使用的是 card 分支卡片风格主题，master 分支是旧版平铺式风格主题。
@@ -12,10 +14,9 @@ Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。 [Preview](http:
 3. 使用 Less 作为 css 预处理器，需要安装 `hexo-renderer-less`。
 4. 添加了英文字体支持 Roboto。
 5. 添加了一些波纹效果。By [Waves](https://github.com/fians/Waves)
-6. 分享直接使用了 JiaThis API 接口，免去了一次加载请求。
+6. 无前端依赖的分享实现。
 7. 基于静态数据的站内搜索，无第三方侵入。
-8. 内置 Github 风格的多说样式，且集成 Marked.js，支持Markdown评论。
-9. 支持文章打赏。
+8. 支持文章打赏。
 
 ## Useage
 
@@ -26,3 +27,7 @@ Material Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。 [Preview](http:
 升级前请仔细查看更改内容，如非必要可不升级。
 
 [ChangeLog](https://github.com/yscoder/hexo-theme-indigo/releases)
+
+## OtherVersion
+
+* [vuepress-theme-indigo](https://github.com/yscoder/vuepress-theme-indigo)

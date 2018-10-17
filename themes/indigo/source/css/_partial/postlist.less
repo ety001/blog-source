@@ -6,12 +6,7 @@
 
 .post-list-item {
     padding: 0 12px;
-    margin-bottom: 24px;
-}
-
-.post-time {
-    font-size: 13px;
-    color: @secondaryTextColor
+    margin-bottom: 30px;
 }
 
 .post-title {
@@ -29,28 +24,36 @@
     line-height: 14px;
     font-size: 13px;
     font-weight: bold;
+    color: @secondaryTextColor;
     overflow: hidden;
+    >*:not(:first-child) {
+        &:before {
+            content: "·";
+            padding: 0 .5em;
+        }
+    }
 }
 
 .article-category-list {
     position: relative;
     display: inline;
     list-style: none;
-    padding: 0 0 0 10px;
-
-    &:before {
-        content: '';
-        display: inline-block;
-        vertical-align: middle;
-        margin-right: 10px;
-        height: 10px;
-        width: 1px;
-        background: @borderColor;
+    padding: 0;
+    * {
+        display: inline;
+    }
+    ul {
+        padding-left: 0
     }
 }
-.article-category-list-item {
-    display: inline;
+.article-category-list-child {
+    &:before {
+        content: "›";
+        padding: 0 .3em;
+        font-size: 120%;
+    }
 }
+
 .article-category-list-link {
     color: @accentColor;
     &:hover {
@@ -69,33 +72,35 @@
     margin: 0 8px 8px 0;
     border-radius: 2px;
     &:nth-child(n+1) {
-        background: #8BC34A
+        background: @tag-color-1
     }
     &:nth-child(n+2) {
-        background: #673AB7
+        background: @tag-color-2
     }
     &:nth-child(n+3) {
-        background: #FF9800
+        background: @tag-color-3
     }
     &:nth-child(n+4) {
-        background: #F44336
+        background: @tag-color-4
     }
     &:nth-child(n+5) {
-        background: #00abc0
+        background: @tag-color-5
     }
     &:nth-child(n+6) {
-        background: #2196F3
+        background: @tag-color-6
     }
 }
 
 
 .article-tag-list-link {
     display: block;
-    padding: 0px 16px;
+    padding: 0 16px;
     line-height: 28px;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, .8);
+    .transition(.2s);
     &:hover {
-        color: #fff
+        color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, .26);
     }
 }
 
@@ -109,7 +114,7 @@
 
     &:hover,
     &:active {
-        background:lighten(@lightPrimaryColor, 10%);
+        background: lighten(@lightPrimaryColor, 10%);
     }
 }
 
@@ -134,17 +139,18 @@
         .transition(.4s);
     }
 
-    a:hover,
-    a:active {
-        color: @primaryColor;
-        background: @borderColor;
+    a {
+        &:hover,
+        &:active {
+            color: @primaryColor;
+            background: @borderColor;
+        }
     }
 
     .current {
         color: #fff;
         background: @primaryColor;
     }
-
 }
 
 @media screen and (max-width:760px) {

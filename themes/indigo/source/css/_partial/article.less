@@ -3,7 +3,7 @@
     width: 20%;
     padding-left: 30px;
     min-height: 1px;
-    + .post-article {
+    +.post-article {
         float: left;
         width: 80%;
         padding-right: 30px;
@@ -12,14 +12,16 @@
 
 .post-toc-wrap {
     position: fixed;
+    overflow-x: hidden;
+    width: 20%;
     &.fixed {
         top: @headerH + 20px;
-        bottom: 20px;
-        overflow-x: hidden;
+        bottom: 140px;
         overflow-y: auto;
     }
 
-    ol, ul {
+    ol,
+    ul {
         list-style: none;
         margin: 0;
     }
@@ -35,52 +37,66 @@
     padding-left: 10px;
 }
 .post-toc {
-    position: relative;
     display: inline-block;
     padding: 0;
     font-size: 13px;
+    >.post-toc-item {
+        position: relative;
+    }
 }
 .post-toc-item {
     font-weight: 400;
     color: @secondaryTextColor;
 
-    &:before {
-        content: '';
-        position: absolute;
-        left: 0;
-        z-index: 1;
-        height: 25px;
-        width: 100%;
-    }
-    
     &.active {
-        color: @primaryColor;
+        >.post-toc-link {
+            font-weight: 600;
+            color: @primaryColor;
+            &:before {
+                background: rgba(0, 0, 0, .06);
+            }
 
-        &:before {
-            border-left: 3px solid @primaryColor;
-            background: rgba(0, 0, 0, .06);
+            &:after {
+                border-left: 3px solid @primaryColor;
+            }
         }
-        
     }
 }
 .post-toc-link {
     position: relative;
     z-index: 2;
     display: block;
-    max-width: 20vw;
     padding: 3px 20px;
     line-height: 1.5rem;
     color: inherit;
-    .ellipsis;
+    word-break: break-all;
 
     &:hover {
         opacity: .8;
     }
+
+    &:before,
+    &:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+    }
 }
 
+.post-toc-shrink {
+    height: 0;
+    overflow-y: hidden;
+}
+
+.post-toc-expand {
+    height: auto;
+}
 
 .post-article {
-    
     .post-content {
         padding-top: 20px;
     }
@@ -91,7 +107,7 @@
     padding: 35px;
     background: #fff;
     border-radius: 4px;
-    box-shadow: 0 0 30px rgba(0, 0, 0, .3);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .2);
     .post-meta {
         margin-top: 8px;
     }
@@ -103,7 +119,8 @@
     margin-top: 30px;
     padding: 16px 0 0;
 
-    .prev, .next {
+    .prev,
+    .next {
         width: 47%;
         background: @codeBg;
     }
@@ -111,7 +128,6 @@
     .next {
         text-align: right;
     }
-
 }
 
 .post-nav-link {
@@ -131,7 +147,6 @@
     .tips {
         color: @secondaryTextColor;
     }
-
 }
 
 .post-copyright {
@@ -183,11 +198,27 @@
     padding-bottom: 20px;
     line-height: 1.8;
 
-    .highlight,
-    > pre {
+    >.highlight,
+    >.image-bubble,
+    >pre {
         margin-left: -35px;
         margin-right: -35px;
+    }
+
+    >.highlight,
+    >pre {
         padding: 20px 35px;
+    }
+
+    .image-bubble {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .image-caption {
+        display: inline-block;
+        margin-top: 10px;
+        color: @secondaryTextColor;
     }
 
     .headerlink {
@@ -197,7 +228,7 @@
         color: @lightPrimaryColor;
 
         &:before {
-            content: '#'
+            content: "#";
         }
     }
 
@@ -218,9 +249,7 @@
                 border-bottom-style: solid;
                 opacity: .7;
             }
-
         }
-
     }
 
     strong {
@@ -261,8 +290,11 @@
 
     h1,
     h2,
-    h3 {
-        padding-top: 24px;
+    h3,
+    h4,
+    h5 {
+        padding-top: @headerH;
+        margin-top: @headerH * -1;
     }
 
     h1,
@@ -278,6 +310,9 @@
     figure,
     .video-container {
         margin-bottom: 20px;
+    }
+    .video-container iframe {
+        max-width: 100%;
     }
 
     h1,
@@ -296,14 +331,12 @@
 
     blockquote p:first-child,
     blockquote:first-child,
-    h2:first-child,
-    h3:first-child,
-    h4:first-child,
     ol:first-child,
     p:first-child,
     pre:first-child,
     table:first-child,
-    ul:first-child {
+    ul:first-child,
+    figure:first-child {
         margin-top: 0
     }
 
@@ -318,12 +351,6 @@
         max-width: 100%;
     }
 
-    img {
-        display: block;
-        margin: 40px auto;
-        padding: 8px;
-        border: 1px solid #efefef
-    }
 
     blockquote {
         position: relative;
@@ -343,7 +370,6 @@
             text-align: right;
             font-size: 80%;
         }
-
     }
 
     table {
@@ -361,14 +387,14 @@
             tr {
                 background: #f8f8f8;
             }
-
         }
 
         tbody {
-            tr:hover {
-                background: #efefef;
+            tr {
+                &:hover {
+                    background: #efefef;
+                }
             }
-
         }
 
         td,
@@ -376,7 +402,6 @@
             border: 1px solid #dedede;
             padding: 0 10px;
         }
-
     }
 
     figure {
@@ -386,18 +411,17 @@
             margin: 0;
 
             tbody {
-                tr:hover {
-                    background: none;
+                tr {
+                    &:hover {
+                        background: none;
+                    }
                 }
 
                 td {
                     border: none;
                 }
-
             }
-
         }
-
     }
 
     code,
@@ -435,6 +459,11 @@
     }
 }
 
+
+.comments {
+    padding: 40px 0 0;
+}
+
 @media screen and (max-width:760px) {
     .post-widget {
         display: none
@@ -456,10 +485,9 @@
             margin-top: -40px;
             padding: 20px 12px;
             background: #fff;
-            box-shadow: 0 1px 4px 0 rgba(0,0,0,0.16);
+            box-shadow: 0 1px 4px 0 rgba(0,0,0,.16);
             border-radius: 2px;
         }
-        
     }
 
     .post-card-title {
@@ -470,7 +498,7 @@
         padding: 0;
         margin-left: -16px;
         margin-right: -16px;
-        .prev, 
+        .prev,
         .next {
             width: 50%;
             background: #fff;
@@ -490,14 +518,28 @@
         overflow-x: auto;
         overflow-y: hidden;
     }
+
+    .comments {
+        margin-left: -16px;
+        margin-right: -16px
+    }
 }
 
 @media screen and (max-width:480px) {
     .has-jax {
         font-size: 10px;
     }
+    .post-content {
+        .highlight,
+        .image-bubble,
+        >pre {
+            margin-left: -16px;
+            margin-right: -16px;
+        }
+        .highlight,
+        >pre {
+            padding: 16px;
+        }
+    }
 }
 
-.duoshuo {
-    padding: 40px 0;
-}
