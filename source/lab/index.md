@@ -19,6 +19,11 @@ date: 2016-11-14 03:13:39
   * ~~[SS](http://gfw.fuckspam.in)~~
   * [Online Clipboard](http://oc.to0l.cn)，[{% post_link make-a-online-clipboard-with-swoole-and-redis %}]({% post_link make-a-online-clipboard-with-swoole-and-redis %})
   * [Review Bookmarks](http://bm.to0l.cn)，[{% post_link review-bookmarks %}]({% post_link review-bookmarks %})
+  * [RippleBot](https://ripple.to0l.cn), [Source Code](https://github.com/ety001/ripple-bot)
+  * [StellarBot](https://stellarbot.top), [Source Code](https://github.com/ety001/stellar-bot)
+  * [SteemMention](https://steem-mention.com), [Source Code](https://github.com/ety001/steem-mention)
+  * [SteemEditor](https://steemeditor.com), [Source Code](https://github.com/ety001/steem-editor)
+  * ~~[SteemLightDB](https://github.com/ety001/steem-lightdb)~~ **FAILED**
 
 ---
 
