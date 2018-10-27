@@ -71,10 +71,10 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: 115.29.77.252
+  host: ali.dev
   port: 29287
   user: root
-  root: /home/wwwroot/domyself
+  root: /data/wwwroot/domyself
   delete: true
   verbose: true
 
