@@ -13,9 +13,7 @@ tags:
 # 创建数据目录
 
 ```
-mkdir -p /data/wwwroot
-mkdir -p /data/logs
-mkdir -p /data/mysql
+mkdir -p /data/wwwroot && mkdir -p /data/logs && mkdir -p /data/mysql
 ```
 
 这三个目录分别用来存储网站文件，网站日志，数据库文件。
@@ -32,21 +30,16 @@ yum remove docker \
                   docker-logrotate \
                   docker-selinux \
                   docker-engine-selinux \
-                  docker-engine
-
-yum install -y yum-utils \
+                  docker-engine \
+&& yum install -y yum-utils \
   device-mapper-persistent-data \
-  lvm2
-
-yum-config-manager \
+  lvm2 \
+&& yum-config-manager \
     --add-repo \
-    https://download.docker.com/linux/centos/docker-ce.repo
-
-yum install docker-ce
-
-systemctl enable docker
-
-systemctl start docker
+    https://download.docker.com/linux/centos/docker-ce.repo \
+&& yum install docker-ce \
+&& systemctl enable docker \
+&& systemctl start docker
 ```
 以上是 Docker 官方给出的在 CentOS 下安装 Docker 的文档，Ubuntu 可以参考这里: [https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/) 。在边栏还可以看到其他系统的安装方法。
 
@@ -159,6 +152,6 @@ server {
 
 后续如果要增加新的网站，只需要在 `/data/wwwroot/` 中新建个文件夹存储网站文件，然后在 `/etc/nginx/conf.d/` 中增加新网站的配置文件，最后执行 `docker exec nginx nginx -s reload` 重载 nginx 配置即可生效。
 
-如果要增加 Let's encrypted 的 SSL 的话，建议使用 [acme.sh](acme.sh) 中的 DNS 方法来注册证书，并把证书安装到 `/etc/nginx/ssl` 目录里，最后使用 `docker restart nginx` 来重启 Nginx 容器生效。这个后续可以再开篇文章写一下。
+如果要增加 Let's encrypted 的 SSL 的话，建议使用 [acme.sh](https://acme.sh) 中的 DNS 方法来注册证书，并把证书安装到 `/etc/nginx/ssl` 目录里，最后使用 `docker restart nginx` 来重启 Nginx 容器生效。这个后续可以再开篇文章写一下。
 
 #### 完工！
