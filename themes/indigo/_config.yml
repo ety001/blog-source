@@ -91,7 +91,7 @@ baidu_tongji: false
 tajs: false
 
 # google
-google_analytics: false
+google_analytics: "UA-18919749-4"
 google_site_verification: false
 
 # sogou站长验证 http://zhanzhang.sogou.com/
