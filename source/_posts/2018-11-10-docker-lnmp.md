@@ -54,12 +54,12 @@ docker network create --gateway "172.20.0.1" --subnet "172.20.0.0/16" lnmp
 # 部署 Nginx
 
 ```
-docker run -itd --name nginx nginx
-
-docker cp nginx:/etc/nginx /etc
-
-docker stop nginx && docker rm nginx
-
+docker run -itd --name nginx nginx \
+&& \
+docker cp nginx:/etc/nginx /etc \
+&& \
+docker stop nginx && docker rm nginx \
+&& \
 docker run -itd --name nginx -v /etc/nginx:/etc/nginx -v /data/wwwroot:/data/wwwroot -v /data/logs/nginx:/var/log/nginx -p 80:80 -p 443:443 --restart always -v /tmp:/tmp --network lnmp --ip "172.20.0.2" nginx
 ```
 
@@ -68,14 +68,14 @@ docker run -itd --name nginx -v /etc/nginx:/etc/nginx -v /data/wwwroot:/data/www
 # 部署 MySQL
 
 ```
-docker run -itd --name mysql mariadb
-
-docker cp mysql:/etc/mysql /etc
-
-docker stop mysql && docker rm mysql
-
 read -s mysql_pass
 
+docker run -itd --name mysql mariadb \
+&& \
+docker cp mysql:/etc/mysql /etc \
+&& \
+docker stop mysql && docker rm mysql \
+&& \
 docker run -itd --name mysql -p 3306:3306 -v /etc/mysql:/etc/mysql -v /data/mysql:/var/lib/mysql -v /tmp:/tmp -v /data/logs/mysql:/var/log/mysql --restart always --network lnmp --ip "172.20.0.3" -e MYSQL_ROOT_PASSWORD=$mysql_pass mariadb
 ```
 
@@ -84,12 +84,12 @@ docker run -itd --name mysql -p 3306:3306 -v /etc/mysql:/etc/mysql -v /data/mysq
 # 部署 PHP7
 
 ```
-docker run -itd --name php7 ety001/php7:alpine
-
-docker cp php7:/etc/php7 /etc
-
-docker stop php7 && docker rm php7
-
+docker run -itd --name php7 ety001/php7:alpine \
+&& \
+docker cp php7:/etc/php7 /etc \
+&& \
+docker stop php7 && docker rm php7 \
+&& \
 docker run -itd --name php7 -v /etc/php7:/etc/php7 -v /data/wwwroot:/data/wwwroot -v /tmp:/tmp -v /data/logs/php7:/var/log/php7 --restart always --network lnmp --ip "172.20.0.4" ety001/php7:alpine
 ```
 
