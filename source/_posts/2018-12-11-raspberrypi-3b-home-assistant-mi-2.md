@@ -13,6 +13,10 @@ tags:
 
 ![](/upload/20181211/HDJ48ZxcSFTWAt0MaM43oYcTagO0EuGLxxUY0PvW.png)
 
+再放一张配置好的 HomeKit 截图
+
+![](/upload/20181211/5UcdR3uIjaHSc2HhVxr4zDqbSJ0YSrGAPMEtxZwT.png)
+
 *开始这篇之前，首先你要确保你已经安装了上一篇中提到的 **SSH & Web Terminal** 插件。*
 
 ## 如何修改配置文件
