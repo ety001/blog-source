@@ -82,6 +82,11 @@ tag_generator:
   per_page: 20 #分页数量，首页不支持
   enable_index_page: true  #设置为true时开启
 
+sitemap:
+    path: sitemap.xml
+    tag: true
+    category: true
+
 jsonContent:
   meta: false
   pages: true
