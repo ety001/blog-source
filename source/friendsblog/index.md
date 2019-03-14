@@ -14,3 +14,4 @@ date: 2016-11-14 02:14:08
 * [王杰](http://www.jasonwung.com)
 * [王振](https://skyjerry.com/)
 * [于常龙](http://www.objlong.com/)
+* [雍振](http://blog.easydog.club/)
