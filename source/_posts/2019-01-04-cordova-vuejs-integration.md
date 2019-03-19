@@ -4,7 +4,7 @@ layout: post
 title: 融合Cordova和Vuejs的开发环境
 tags:
 - 前端
-- Cordova
+- cordova
 - Vuejs
 ---
 

@@ -3,7 +3,7 @@ author: ety001
 layout: post
 title: Cordova项目中的www和platforms目录
 tags:
-- Cordova
+- cordova
 ---
 最近新开了一个钱包的App项目，直接把之前的代码从 **Github** 上拖回来，但是执行 `cordova prepare -d` 一直不成功，显示 `current working directory is not a cordova-based project.`。
 
