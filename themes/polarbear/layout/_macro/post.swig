@@ -1,6 +1,6 @@
 {% macro render(post) %}
   <article class="post">
-    {% include "_plugins/adsense.swig" %}
+    {% include "../_plugins/adsense.swig" %}
     <header class="post-header">
       <h1 class="post-title">
         {% if is_home() %}
