@@ -1,5 +1,5 @@
 {% if theme.adsense %}
-    <div>
+    <div style="margin: 5px 0;">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- new-blog-auto -->
         <ins class="adsbygoogle"
