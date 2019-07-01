@@ -1,0 +1,85 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2010
+
+# Custom your favicon.ico in `site/source`
+favicon: /img/favicon.ico
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: default
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  归类: /archives
+  友链: /friendsblog
+  打赏: /donate
+  关于我: /about
+
+# ===========================================
+# Widget Settings
+# ===========================================
+# widget function
+# false: disable
+# widget_custom: custom your widget
+#   title: your widget title
+#   content: Add your html code in here. Example: <p>testing...</p>
+widget:
+  Tags: true
+  Categories: false
+  Custom: false
+
+widget_custom:
+    title: Test
+    content: <p>testing...</p>
+
+# ===========================================
+# Theme Settings
+# ===========================================
+# theme styling
+# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
+theme:
+  color: Default
+  fancybox: false
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# Baidu Analytics
+baidu_analytics:
+# Google Analytics
+google_analytics: "UA-18919749-4"
+
+# Valine Comment system. https://valine.js.org
+valine:
+  enable: true # 如果你想使用valine，请将值设置为 true
+  appId: cHVhxHfSl6KPcTMXcWDp6d2E-gzGzoHsz # your leancloud appId
+  appKey: ovh4CQVhUXR5oPncM42oJTpn # your leancloud appKey
+  notify: true # Mail notify
+  verify: true # Verify code
+  avatar: mm # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
+  placeholder: 留下你的高见 # Comment Box placeholder
+  guest_info: nick,mail,link # Comment header info
+  pageSize: 10 # comment list page size
+
+# Duoshuo
+duoshuo_shortname:
+# Disqus
+disqus_shortname:
+
+postMessage: 转载请标明出处：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- url.replace(/index\.html$/, '') %></a>
+
+ICP_license: 鲁ICP备16034327号-2
+adsense: true
+
+# ===========================================
+# Version
+# ===========================================
+version: 1.3
