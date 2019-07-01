@@ -3,7 +3,6 @@ title: 关于我
 date: 2016-11-14 02:21:50
 ---
 
-<center>
 大学还没有毕业去了帝都，
 
 在帝都漂了3年5个月，
@@ -42,11 +41,7 @@ Your browser does not support the audio element.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=418602671&auto=1&height=66"></iframe>
 
-### [这里是我的一份职业测试结果](/occupation-test) ###
+### [这里是我的一份职业测试结果](/occupation-test)
 
----
-
-## Update ##
+## Update
 * 2018-01-06 历时两年多的远程工作结束，新的征程开始
-
-</center>

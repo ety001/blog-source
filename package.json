@@ -19,6 +19,7 @@
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-marked": "^0.2.11",
+    "hexo-renderer-scss": "^1.2.0",
     "hexo-renderer-stylus": "^0.2.3",
     "hexo-server": "^0.2.0",
     "leancloud-storage": "^3.10.0",
