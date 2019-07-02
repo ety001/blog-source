@@ -70,14 +70,18 @@ theme: polarbear
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#   type: rsync
+#   host: ali.dev
+#   port: 29287
+#   user: root
+#   root: /data/wwwroot/domyself
+#   delete: true
+#   verbose: true
 deploy:
-  type: rsync
-  host: ali.dev
-  port: 29287
-  user: root
-  root: /data/wwwroot/domyself
-  delete: true
-  verbose: true
+    type: git
+    repo: git@github.com:ety001/newblog.git
+    branch: gh-pages
 
 tag_generator:
   per_page: 20 #分页数量，首页不支持
@@ -106,4 +110,3 @@ jsonContent:
     excerpt: true
     categories: false
     tags: true
-
