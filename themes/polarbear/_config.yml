@@ -76,7 +76,6 @@ disqus_shortname:
 
 postMessage: 转载请标明出处：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- url.replace(/index\.html$/, '') %></a>
 
-ICP_license: 鲁ICP备16034327号-2
 adsense: true
 
 # ===========================================
