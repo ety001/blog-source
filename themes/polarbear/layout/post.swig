@@ -5,7 +5,7 @@
 
 {% block content %}
     <div id="primary">
-        {% include "../_plugins/adsense.swig" %}
+        {% include "_plugins/adsense.swig" %}
         {{ post_template.render(page) }}
     </div>
 {% endblock %}
