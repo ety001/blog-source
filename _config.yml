@@ -5,10 +5,10 @@
 # Site
 title: Domyself
 subtitle: ETY001的博客
-keywords: ETY001, domyself
+keywords: ETY001, domyself, php, vuejs, javascript, docker, steemit, bitshares
 description: ETY001的博客
 author: ETY001
-language: zh-cn
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -66,7 +66,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: indigo
-theme: polarbear
+# theme: polarbear
+theme: next
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
