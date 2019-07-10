@@ -82,8 +82,8 @@ theme: next
 #   verbose: true
 deploy:
     type: git
-    repo: git@github.com:ety001/newblog.git
-    branch: gh-pages
+    repo: git@github.com:ety001/ety001.github.io.git
+    branch: master
 
 tag_generator:
   per_page: 20 #分页数量，首页不支持
