@@ -160,13 +160,13 @@ menu:
   首页: / || home
   关于: /about/ || user
   #标签: /tags/ || tags
-  DM实验室: /lab/
-  捐助: /donate/
+  DM实验室: /lab/ || gear
+  捐助: /donate/ || star
   #categories: /categories/ || th
   归档: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  友链: /friendsblog/
+  友链: /friendsblog/ || link
   #commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
