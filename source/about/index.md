@@ -46,3 +46,5 @@ Your browser does not support the audio element.
 
 ## Update
 * 2018-01-06 历时两年多的远程工作结束，新的征程开始
+* 2019-06-17 [远程工作的四年](/2019/06/17/remote-work-4-years.html), [对上一篇说远程工作的一些补充
+](/2019/06/20/remote-work-2.html)
