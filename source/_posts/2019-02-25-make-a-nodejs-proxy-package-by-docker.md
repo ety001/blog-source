@@ -24,7 +24,7 @@ docker run -itd --name node-image-proxy -p 9091:9091 -v /data/node-image-cache:/
 启动成功后，可以用 `nginx` 的反向代理来实现 `https`，也可以直接使用，只需要把要代理的图片地址放到 `url` 后面就好了，例如这样：
 
 ```
-https://img.steem.to0l.cn/http://newappaz.oss-cn-hongkong.aliyuncs.com/wherein_images/post/20190224/89a2802d622c4940b2ece51eea04aecd.jpg
+https://img.steemtools.top/http://newappaz.oss-cn-hongkong.aliyuncs.com/wherein_images/post/20190224/89a2802d622c4940b2ece51eea04aecd.jpg
 ```
 
 这样只需要把服务部署在国外服务器上，然后在解析 `markdown` 的时候把原来的图片地址加上代理地址后，就可以正常的访问文章中的图片了。
