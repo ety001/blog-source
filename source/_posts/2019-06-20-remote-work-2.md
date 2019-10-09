@@ -32,4 +32,4 @@ tags:
 
 ---
 #### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-![](https://steemeditor.com/storage/images/q9AYF3lSMyXStzbH0VEWASEvmpoknXX3XwXRrdki.jpeg)
+![](/img/wechat-subscribe.jpg)

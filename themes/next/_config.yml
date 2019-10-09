@@ -158,8 +158,8 @@ baidu_push: false
 # External url should start with http:// or https://
 menu:
   首页: / || home
+  生活: /life
   关于: /about/ || user
-  #标签: /tags/ || tags
   DM实验室: /lab/ || gear
   捐助: /donate/ || star
   #categories: /categories/ || th
