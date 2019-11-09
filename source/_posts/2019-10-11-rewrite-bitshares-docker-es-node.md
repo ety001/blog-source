@@ -39,7 +39,7 @@ $ cd dockerfile/bts-es
 $ docker run \
     -it --rm \
     -v $(pwd)/ssl:/usr/share/elasticsearch/config/certs \
-    docker.elastic.co/elasticsearch/elasticsearch:7.3.2 \
+    docker.elastic.co/elasticsearch/elasticsearch:7.4.0 \
     /bin/bash
 
 -- 进入临时容器 --
