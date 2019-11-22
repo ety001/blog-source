@@ -13,7 +13,6 @@ override: false
 cache:
   enable: true
 
-pjax: true
 # Redefine custom file paths. Introduced in NexT v6.0.2. If commented, will be used default custom file paths.
 # For example, you want to put your custom styles file outside theme directory in root `source/_data`, set `styles: source/_data/styles.styl`
 #custom_file_path:
@@ -356,9 +355,9 @@ tag_icon: false
 
 # Wechat Subscriber
 wechat_subscriber:
-  enable: false
-  #qcode: /path/to/your/wechatqcode e.g. /uploads/wechat-qcode.jpg
-  #description: e.g. subscribe to my blog by scanning my public wechat account
+  enable: true
+  qcode: /img/wechat.jpeg
+  description: 微信扫码关注我的订阅号
 
 # Reward (Donate)
 reward_settings:
@@ -369,7 +368,7 @@ reward_settings:
   #comment: Donate comment here
 
 reward:
-  wechatpay: /img/wechat-pay.jpg
+  wechatpay: /img/wepay.jpg
   alipay: /img/alipay.png
   bitcoin: /img/btc.png
 

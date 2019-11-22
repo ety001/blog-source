@@ -9,7 +9,7 @@ Address: 16R1YESSRYREGV6nLhXYNHSfrs1SUYJLcD
 <img src="/img/btc.png" style="width: 300px; margin: 0 auto;" alt="微信">
 
 ### Wechat
-<img src="/img/wechat-pay.jpg" style="width: 300px; margin: 0 auto;" alt="微信">
+<img src="/img/wepay.jpg" style="width: 300px; margin: 0 auto;" alt="微信">
 
 ### Alipay
 <img src="/img/alipay.png" style="width: 300px; margin: 0 auto;" alt="支付宝">
