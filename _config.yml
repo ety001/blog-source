@@ -86,17 +86,17 @@ deploy:
     branch: master
 
 # minifier
-html_minifier:
-  collapseBooleanAttributes: true
-  collapseWhitespace: true
-  # Ignore '<!-- more -->' https://hexo.io/docs/tag-plugins#Post-Excerpt
-  ignoreCustomComments: [ !!js/regexp /^\s*more/]
-  removeComments: true
-  removeEmptyAttributes: true
-  removeScriptTypeAttributes: true
-  removeStyleLinkTypeAttributes: true
-  minifyJS: true
-  minifyCSS: true
+# html_minifier:
+#   collapseBooleanAttributes: true
+#   collapseWhitespace: true
+#   # Ignore '<!-- more -->' https://hexo.io/docs/tag-plugins#Post-Excerpt
+#   ignoreCustomComments: [ !!js/regexp /^\s*more/]
+#   removeComments: false
+#   removeEmptyAttributes: false
+#   removeScriptTypeAttributes: false
+#   removeStyleLinkTypeAttributes: false
+#   minifyJS: false
+#   minifyCSS: false
 
 tag_generator:
   per_page: 20 #分页数量，首页不支持
