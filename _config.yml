@@ -85,6 +85,19 @@ deploy:
     repo: git@github.com:ety001/ety001.github.io.git
     branch: master
 
+# minifier
+html_minifier:
+  collapseBooleanAttributes: true
+  collapseWhitespace: true
+  # Ignore '<!-- more -->' https://hexo.io/docs/tag-plugins#Post-Excerpt
+  ignoreCustomComments: [ !!js/regexp /^\s*more/]
+  removeComments: true
+  removeEmptyAttributes: true
+  removeScriptTypeAttributes: true
+  removeStyleLinkTypeAttributes: true
+  minifyJS: true
+  minifyCSS: true
+
 tag_generator:
   per_page: 20 #分页数量，首页不支持
   enable_index_page: true  #设置为true时开启
