@@ -57,7 +57,7 @@ mkdir bts_data
 
 ### 4.创建 my-genesis.json 文件
 
-在 `docker-compose.yml` 文件的同目录下，创建 `genesis` 目录，
+在 `bts_data` 目录下，创建 `genesis` 目录，
 并创建 `my-genesis.json` 文件用于配置创世块。
 
 ```
