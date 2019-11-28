@@ -11,11 +11,22 @@ tags:
 - 理论
 ---
 
+#### 注意：
+
+该文转载出处已不可访问，找到一篇相似的文章，可以参考：
+[https://blog.csdn.net/liuchonge/article/details/50061331](https://blog.csdn.net/liuchonge/article/details/50061331)
+
+-- 2019-11-28 更新
+
+---
+
 转自：[http://www.devdiv.com/chunked_http_c_-article-2473-1.html](http://www.devdiv.com/chunked_http_c_-article-2473-1.html)
 
 今天的主要内容还是不会偏离帖子的标题，关于HTTP采用chunked方式传输数据的解码问题。相信“在座”的各位有不少是搞过web系统的哈，但考虑到其他没接触过的XDJMs，这里还是简要的介绍一下：
 
 chunked编码的基本方法是将大块数据分解成多块小数据，每块都可以自指定长度，其具体格式RFC文档中是这样描述的(http://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html)：
+
+```
        Chunked-Body   = *chunk
                         last-chunk
                         trailer
@@ -29,10 +40,11 @@ chunked编码的基本方法是将大块数据分解成多块小数据，每块�
        chunk-ext-val  = token | quoted-string
        chunk-data     = chunk-size(OCTET)
        trailer        = *(entity-header CRLF)
-复制代码
+```
 
-<!-- more -->
 这个据说是BNF文法，我本人有点陌生，于是又去维基百科里面找了下，里面有报文举例，这样就一目了然了(http://en.wikipedia.org/wiki/Chunked_transfer_encoding)，我摘一段报文如下：
+
+```
 HTTP/1.1 200 OK
 Content-Type: text/plain
 Transfer-Encoding: chunked
@@ -48,7 +60,8 @@ con
 8
 sequence
 0
-复制代码
+```
+
 总而言之呢，就是说，这种方式的HTTP响应，头字段中不会带上我们常见的Content-Length字段，而是带上了Transfer-Encoding: chunked的字样。这种响应是未知长度的，有很多段自定义长度的块组合而成，每个块以一个十六进制数开头，该数字表示这块chunk数据的长度(包括数据段末尾的CRLF，但不包括十六进制数后面的CRLF)。
 
 于是，众多Coders在发现了这个真相以后就开始在互联网上共享各种语言的解码代码。我看了C、PHP和Python那几个版本的代码，发现了一个问题就是，他们解析的数据是完整的，也就是说，他们所操纵的数据是假定已经在解码前在外部完成了拼装的，但是这完全不符合我的使用场景，Why？因为我的数据都是直接从Socket里面拿出来的，Socket里面的数据绝对不会有如此漂亮的格式，它们在那个时候都是散装的，当然我也可以选择将他们组装好然后再去解，但是以我粗浅的认识认为，那样子无论是从时间还是从空间的效率上来讲都是极为低下的(当你开发了一个kext程序，就明白我的苦衷了)。于是我又继续搜索，以期待能有高手已经提前帮我解决了这些问题，不过很遗憾，我没能找到。
@@ -56,6 +69,8 @@ sequence
 没办法，自己做吧，比较重要的地方无非就是一个结尾的判断、一个chunk长度的读取、chunk之间的分段问题。看起来貌似比较轻松，不过代码写起来还是花费了不少时间的，今天又单独从项目中提取了这部分功能用C重写了一下。接下来就结合部分代码来说明一下整个过程。
 
 1. 先看dechunk.h这个文件
+
+```
 #define DCE_OK              0
 #define DCE_ISRUNNING       1
 #define DCE_FORMAT          2
@@ -69,10 +84,12 @@ int dechunk_getbuff(void **buff, size_t *buf_size);
 int dechunk_free();
 
 void *memstr(void *src, size_t src_len, char *sub);
-复制代码
+```
+
 宏定义就不用说了，都是一些错误码定义。函数一共有5个。dechunk_init、dechunk、dechunk_free这三个是解码的主要流程，dechunk_getbuff则是获取数据的接口。接下来看memstr，这是个很奇怪的名字，也是代码中唯一值得重点提醒一下的地方，其主要功能是在一块内存中寻找能匹配sub表示的字符串的地址。有人肯定要问了，不是有strstr么？对，我也这样想过，并且对于一些chunked网站也是实用的，但是，它不是通用的。主要是因为还有一些网站不仅使用了chunked传输方式，还采用了gzip的内容编码方式。当你碰到这种网站的时候，你再想使用strstr就等着郁闷吧，因为strstr会以字符串中的'\0'字符作为结尾标识，而恰巧经过gzip编码后的数据会有大量的这种字符。
 
 2. 接下来看dechunk.c
+```
 int dechunk(void *input, size_t inlen)
 {
     if (!g_is_running)
@@ -175,7 +192,7 @@ g_chunk_read = 0; \
 
     return DCE_OK;
 }
-复制代码
+```
 
 
 其他函数没什么好说的，主要就只是把dechunk这个函数的流程讲一下(本来要是写了注释，我就不啰嗦这么多了，没办法，我们还是要对自己写的代码负责的不是)。
@@ -185,6 +202,8 @@ g_chunk_read = 0; \
 总的流程基本就是这个样子，外部调用者通过循环把socket获取到的数据丢进来dechunk，外部循环结束条件就是socket接受完数据或者判断到表示chunk结束的0数据chunk。
 
 3. 最后看一下main.c
+
+```
 int main (int argc, const char * argv[])
 {
     const char              *server_ipstr   = "59.151.32.20";   // the host address of "www.mtime.com"
@@ -317,7 +336,7 @@ int main (int argc, const char * argv[])
 
     return 0;
 }
-复制代码
+```
 
 
 按照惯例，main函数是我们用来测试的函数。
@@ -343,4 +362,3 @@ doors.du说：“我觉得明天起床这个帖子会火的，不管你们信不
 
 
   http_chunk_demo.zip (19.35 KB, 下载次数: 2742)
-
