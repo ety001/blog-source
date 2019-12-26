@@ -69,12 +69,6 @@ tags:
               key_auths: [[activePubkey, 1]],
               address_auths: []
           },
-          memo: {
-              weight_threshold: 1,
-              account_auths: [],
-              key_auths: [[memoPubkey, 1]],
-              address_auths: []
-          },
           options: {
               memo_key: memoPubkey,
               voting_account: "1.2.1",
@@ -103,7 +97,7 @@ tags:
 # 说明
 > * `registerUser` 函数参数中的 `registrar` 是用来签发数据的用户的用户名，函数里面的 `privKey` 是 `registrar` 的 `active` 私钥
 > * `referrerPercent` 是分成比例，这里注意是基于手续费的 50% 再分成。也就是 `referrerPercent` 设置为 `10000` ，则代表 `registrar` 分成 0%，`referrer` 分成 50%。
-> * 提交的数据中的 `voting_account` 是设置投票代理人是谁，**`memo_key` 是什么意思暂时还不知道**。
+> * 提交的数据中的 `voting_account` 是设置投票代理人是谁。
 
 ---
 ##### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
