@@ -97,6 +97,7 @@ docker run
 
 > * `owner` 使用的是 `address` 而不是 `public_key`。
 > * `asset_symbol` 设置为 `TEST`。
+> * `initial_balances` 申领需要在节点启动后，在 `cli` 里使用 `import_balance ety001 [5JLxxx] true` 命令获取，其中 `5JLxxx` 是 `ety001` 的 `owner` 权限的私钥。
 
 ### 5.创建 config.json 文件
 
@@ -141,7 +142,8 @@ private-key = ["TEST6Gvr1QZdPQyFWnZrPsgUASTFUsfmZmrAWZKQjX1TL5yQs5GMro", "5KErQx
 private-key = ["TEST6ujzsVvmKr1ASSDSukjC9EtobjMM1uVTWtYFPzJ5TvaZjCRGYz", "5JT6QzZnV14jCuyxqPk6BjPDFAvhYBfjfXkCgk5Mr5neA92voyA"]
 ```
 
-> 其中 `private-key` 要与 `my-genesis.json` 中的 `block_signing_key` 一致。
+> * 其中 `private-key` 要与 `my-genesis.json` 中的 `block_signing_key` 一致。
+> * 注意 `checkpoint` 设置为 `[]`
 
 ### 7.启动
 
