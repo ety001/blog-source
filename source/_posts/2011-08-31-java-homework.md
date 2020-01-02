@@ -15,7 +15,7 @@ tags:
 ```
 /*
  * Author：ETY001
- * URI：http://www.domyself.me
+ * URI：https://akawa.ink
  */
 import java.awt.*;
 import java.awt.event.*;
@@ -152,4 +152,3 @@ public class pintu extends Applet implements ActionListener
 	}
 }
 ```
-

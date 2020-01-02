@@ -24,7 +24,7 @@ tags:
 
 由于当前生产环境，我使用的是 **Docker** 来部署的。
 
-我的 **Docker** 部署方案思路是用 **Docker** 的容器来作为运行环境，所有的网站代码通过挂载的方式，让容器读取到。具体的配置方案可以参考我之前的一篇文章 《[命令行版的docker化lnmp搭建](https://blog.domyself.me/2018/11/10/docker-lnmp.html)》。
+我的 **Docker** 部署方案思路是用 **Docker** 的容器来作为运行环境，所有的网站代码通过挂载的方式，让容器读取到。具体的配置方案可以参考我之前的一篇文章 《[命令行版的docker化lnmp搭建](/2018/11/10/docker-lnmp.html)》。
 
 这样的生产环境部署 **Crontab** 就有些棘手了。因为容器最好是只跑一个进程，如果用 **docker exec** 在 **PHP** 容器里执行 ` php /path-to-your-project/artisan schedule:run >> /dev/null 2>&1`，那就违背了这个最佳实践。而在宿主机部署计划任务，宿主机又没有 **PHP** 执行环境。
 

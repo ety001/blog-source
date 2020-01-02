@@ -12,8 +12,8 @@ tags:
 今天C++学的指针，之前C语言课上讲过指针，但是当时几乎就没怎么深讲。今天讲的内容甚是让人头晕啊，回来后我在自己机器上把书上的示例程序修改了一下，仔细来看看指针。下面的就是我的指针学习程序。
 
 ```
-//      Copyright 2011 ETY001 <ety001@domyself.me>
-//      Website:www.domyself.me
+//      Copyright 2011 ETY001 <ety001@akawa.ink>
+//      Website:akawa.ink
 #include <iostream>
 using namespace std;
 int main()
@@ -75,4 +75,3 @@ using namespace std;
 
 
 想知道更多，请看百度百科的namespace词条。
-

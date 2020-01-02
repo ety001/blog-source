@@ -47,8 +47,7 @@ tags:
 新建个 Dockerfile 文件，内容如下：
 
     FROM scratch
-    MAINTAINER ety001 <ety001@domyself.me>
+    MAINTAINER ety001 <work@akawa.ink>
     ADD rootfs.tar /
 
 10、等待完成后，就可以用 `docker images` 命令看到新做的这个镜像了。
-

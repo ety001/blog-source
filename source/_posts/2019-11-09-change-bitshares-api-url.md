@@ -7,7 +7,7 @@ tags:
 - Server&OS
 ---
 
-家里的服务器[重做了系统后](http://blog.domyself.me/2019/11/07/accident-by-memory.html)，bitshares节点我也计划重新换一种部署模式。
+家里的服务器[重做了系统后](/2019/11/07/accident-by-memory.html)，bitshares节点我也计划重新换一种部署模式。
 
 由于家里的网络是动态公网IP，联通会不定时把客户端踢下线，让其重新拨号，
 这就导致 IP 会不定时变动。尽管做了 DDNS 脚本，每分钟去监测变动并修改，

@@ -33,10 +33,9 @@ frame_id 到 hash 的关系，即通过该结构，提供 frame_id 即可找到 
 那么list结构是用来做什么的呢？list中存储的是 $hash 做key，每个 list 里面存储着当前连接到该剪切板的
 所有终端的 frame_id，这个list的作用就是用来广播的，即同一个剪切板内的某个终端更新剪切板后，通知其他终端更新。
 
-关于制作swoole的docker镜像，可以看这里 <http://www.domyself.me/2015/06/13/make-swoole-docker.html>
+关于制作swoole的docker镜像，可以看这里 <https://akawa.ink/2015/06/13/make-swoole-docker.html>
 
 
 代码：<https://github.com/ety001/online-clipboard>
 
 swoole-docker：<https://registry.hub.docker.com/u/ety001/min_swoole/>
-

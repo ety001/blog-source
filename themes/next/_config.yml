@@ -79,8 +79,8 @@ footer:
   # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
   # http://www.beian.miit.gov.cn
   beian:
-    enable: false
-    icp:
+    enable: true
+    icp: 鲁ICP备20000145号
 
   # Any custom text can be defined here.
   #custom_text: Hosted by <a href="https://pages.coding.me" class="theme-link" rel="noopener" target="_blank">Coding Pages</a>
@@ -201,7 +201,7 @@ site_state: true
 # Value after `||` delimiter is the name of FontAwesome icon. If icon (with or without delimiter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/ety001 || github
-  E-Mail: mailto:work@domyself.me || envelope
+  E-Mail: mailto:work@akawa.ink || envelope
   Weibo: https://weibo.com/ety001 || weibo
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/ety001 || twitter
@@ -739,7 +739,7 @@ needmoreshare2:
 
 # Google Analytics
 google_analytics:
-  tracking_id: "UA-18919749-4"
+  tracking_id: "UA-18919749-9"
   localhost_ignored: true
 
 # CNZZ count

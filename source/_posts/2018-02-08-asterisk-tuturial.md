@@ -69,7 +69,7 @@ network={
 raspi-config
 ```
 
-选择 *Advanced Options* ，再选择 *Expand Filesystem*，即可完成扩充。除此之外，也可以用 `fdisk` 命令完成，具体方法可以参考我博客上很早之前的一篇 [博文](https://blog.domyself.me/2015/01/23/expand-raspberry-pi-sd-card-space.html)。
+选择 *Advanced Options* ，再选择 *Expand Filesystem*，即可完成扩充。除此之外，也可以用 `fdisk` 命令完成，具体方法可以参考我博客上很早之前的一篇 [博文](/2015/01/23/expand-raspberry-pi-sd-card-space.html)。
 
 5.打开浏览器，访问你树莓派IP，会看到如下的配置页面
 

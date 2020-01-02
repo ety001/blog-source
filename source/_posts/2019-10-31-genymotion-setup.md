@@ -44,4 +44,4 @@ tags:
 
 ---
 #### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-![](http://blog.domyself.me/img/wechat-subscribe.jpg)
+![](/img/wechat-subscribe.jpg)

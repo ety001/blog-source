@@ -27,4 +27,4 @@ smtpd_tls_security_level = may
 smtp_tls_security_level = may
 ```
 
-另外推一下之前写的《如何快速搭建邮件服务器用来发邮件》[https://blog.domyself.me/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html](https://blog.domyself.me/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html)
+另外推一下之前写的《如何快速搭建邮件服务器用来发邮件》[https://akawa.ink/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html](/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html)

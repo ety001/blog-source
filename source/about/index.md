@@ -23,7 +23,7 @@ date: 2016-11-14 02:21:50
 
 欢迎试用，希望能对大家有所帮助。
 
-如果你觉得工具做的很赞，欢迎打赏~ [捐助我](http://www.domyself.me/donate)
+如果你觉得工具做的很赞，欢迎打赏~ [捐助我](/donate)
 
 Steemit: [@ety001](https://steemit.com/@ety001)
 
@@ -33,7 +33,7 @@ Twitter: [@ety001](https://twitter.com/ety001)
 
 Github: [https://github.com/ety001](https://github.com/ety001)
 
-Email：work#$#domyself.me（把#$#换成@）
+Email：work#$#akawa.ink（把#$#换成@）
 
 <!--<audio src="/upload/20150707/my_future_is_not_dream.mp3" autoplay="autoplay" loop="loop" controls="controls">
 Your browser does not support the audio element.

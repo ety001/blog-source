@@ -13,7 +13,7 @@ tags:
 由于最近在开发恒星币的钱包，其中有部分数据，如果直接通过恒星的 API 获取则效率太低，影响页面展示体验。
 于是用 `hapijs` 来开发一些定制的接口，批量获取并缓存数据，来提升页面访问效果。
 
-之前在 [《使用 hapijs 快速构建自己的 api 服务》](https://blog.domyself.me/2018/10/09/easy-startup-tuturial-for-hapi.html) 这篇文章中有写到 `hapijs` 默认使用 `catbox` 的 `catbox-memory` 组件来缓存数据。
+之前在 [《使用 hapijs 快速构建自己的 api 服务》](/2018/10/09/easy-startup-tuturial-for-hapi.html) 这篇文章中有写到 `hapijs` 默认使用 `catbox` 的 `catbox-memory` 组件来缓存数据。
 
 我这次还是按照上次的方法来使用缓存，但是却没有成功，每次提交请求，都是重新去获取数据，而没有走缓存。
 

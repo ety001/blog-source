@@ -144,7 +144,7 @@ export default config;
 
 但是 `ChainConfig` 在 `init_promise` 中，我们怎么配置呢？
 
-结合上一篇文章 [https://blog.domyself.me/2019/12/12/bitshares-ws-api-url-confuse.html](https://blog.domyself.me/2019/12/12/bitshares-ws-api-url-confuse.html) ，我们知道使用 `import` 可以引入库的引用，那么我们在调用前，先 `import ChainConfig` 配置好就OK了。
+结合上一篇文章 [https://akawa.ink/2019/12/12/bitshares-ws-api-url-confuse.html](/2019/12/12/bitshares-ws-api-url-confuse.html) ，我们知道使用 `import` 可以引入库的引用，那么我们在调用前，先 `import ChainConfig` 配置好就OK了。
 
 最终代码如下：
 

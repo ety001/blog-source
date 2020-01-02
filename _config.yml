@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Domyself
+title: Akawa
 subtitle: ETY001的博客
-keywords: ETY001, domyself, php, vuejs, javascript, docker, steemit, bitshares
+keywords: ETY001, akawa, php, vuejs, javascript, docker, steemit, bitshares
 description: ETY001的博客
 author: ETY001
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.domyself.me
+url: https://akawa.ink
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:

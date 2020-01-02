@@ -41,7 +41,7 @@ gem install pygments.rb
 
 从github上pull博客的代码，启动jekyll，测试下看看能不能访问。
 由于我这台vps上开着nginx，所以jekyll是启动在4000端口上了，那么在nginx上做个反向代理即可，
-可以参照我之前写的这篇博文来配置：<http://www.domyself.me/2015/03/09/nginx-proxy-config.html>.
+可以参照我之前写的这篇博文来配置：<https://akawa.ink/2015/03/09/nginx-proxy-config.html>.
 
 接下来再配置crontab，让系统能自己pull代码
 
@@ -58,4 +58,3 @@ crontab -e
 最后一步，在DNSPod里面增加新的记录，记的把线路类型选择为 `百度` 。
 
 这样再用百度抓取下，就成功了。
-

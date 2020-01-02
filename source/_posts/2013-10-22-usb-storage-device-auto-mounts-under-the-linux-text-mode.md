@@ -12,7 +12,7 @@ tags:
 
 参考：[http://forum.ubuntu.org.cn/viewtopic.php?t=296420](http://forum.ubuntu.org.cn/viewtopic.php?t=296420)
 
-使用udev来实现，udev是linux2.6内核以上的功能，read more：[http://www.domyself.me/archives/some-nifty-udev-rules-and-examples/](http://www.domyself.me/archives/some-nifty-udev-rules-and-examples/)
+使用udev来实现，udev是linux2.6内核以上的功能，read more：[/2013/10/22/some-nifty-udev-rules-and-examples.html](/2013/10/22/some-nifty-udev-rules-and-examples.html)
 
 具体实现方法：
 
@@ -51,4 +51,3 @@ umount /tmp/
 
 
 需要注意的是rule文件中的一些符号，比如!=和==，在ubuntu下，如果你的符号有问题，文字的显示颜色会是白色的。
-

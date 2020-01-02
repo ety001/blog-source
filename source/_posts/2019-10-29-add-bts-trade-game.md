@@ -8,7 +8,7 @@ tags:
 ---
 具体的比赛贴子：[https://bitsharestalk.org/index.php?topic=29665.0](https://bitsharestalk.org/index.php?topic=29665.0)
 
-使用我之前开发的机器人参赛非常简单。这里是之前发布机器人时的贴子：[http://blog.domyself.me/2019/05/22/bts-trade-bots.html](/2019/05/22/bts-trade-bots.html) 。
+使用我之前开发的机器人参赛非常简单。这里是之前发布机器人时的贴子：[https://akawa.ink/2019/05/22/bts-trade-bots.html](/2019/05/22/bts-trade-bots.html) 。
 
 本教程是在Linux下运行。
 
