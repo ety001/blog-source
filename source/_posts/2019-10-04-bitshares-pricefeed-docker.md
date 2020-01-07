@@ -45,3 +45,9 @@ docker run -v /path/to/config.yml:/config/config.yml bitshares-pricefeed:latest 
 简单来说，就是简单的两步，创建配置文件，启动喂价程序。
 
 不得不说，现在我对于docker的依赖越来越严重了。。。
+
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

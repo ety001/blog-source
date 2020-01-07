@@ -106,5 +106,7 @@ docker run -it\
 
 ![](http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy91TjFMSWF2N29KOFc2ZHVCMU5samNoUWliaWNwczRlQTNoYnR2WnJRbENRODROUFRBN3RFdDZvSkxYeGlhUFdsSDlkNlFKV1pLbHdNUzJEQWhXMEgxMGZwZy8wP3d4X2ZtdD1wbmc)
 
-ET碎碎念，每周更新，欢迎订阅
-![](/img/wechat-subscribe.jpg)---
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

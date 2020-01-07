@@ -27,3 +27,9 @@ java -jar abe.jar unpack backup.ab backup.tar
 # 注意
 对于新版的米家不再把 `token` 存储在 `miio2.db` 中的解决方案，就是去下载米家 **5.0.19**，这里是下载地址：
 [https://www.apkmirror.com/apk/xiaomi-inc/mihome/mihome-5-0-19-release/mihome-5-0-19-android-apk-download/download/](https://www.apkmirror.com/apk/xiaomi-inc/mihome/mihome-5-0-19-release/mihome-5-0-19-android-apk-download/download/)
+
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

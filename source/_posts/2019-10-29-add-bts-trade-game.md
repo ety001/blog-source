@@ -58,5 +58,6 @@ docker run -itd \
 如果想要停止并删除机器人，执行 `docker stop bot1 && docker rm bot1` 即可。
 
 ---
-#### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-![](https://akawa.ink/img/wechat-subscribe.jpg)
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

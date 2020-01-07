@@ -27,7 +27,7 @@ tags:
 
 比较这次和上次使用 `cache` 功能的代码，找到了一个不同点，就是上次是使用的 `string` 作为 `key`，而这次使用的是 `object` 作为 `key`。
 
-不过在 `hapijs` 关于 `cache` 的 [文档](https://hapijs.com/api#server.cache()) 中，关于 `generateFunc` 参数的解释里有一句 `the \`id\` string or object provided to the \`get()\` method.`，看上去 `id` 用 `object` 也没有问题啊。
+不过在 `hapijs` 关于 `cache` 的 [文档](https://hapijs.com/api#server.cache()) 中，关于 `generateFunc` 参数的解释里有一句 `the \'id\' string or object provided to the \'get()\' method.`，看上去 `id` 用 `object` 也没有问题啊。
 
 于是我又去读了 `catbox` 的源码，最终看到 `catbox` 的一段关于获取缓存信息的 [代码](https://github.com/hapijs/catbox/blob/master/lib/policy.js#L88)。
 
@@ -42,3 +42,9 @@ tags:
 修改下代码，这个坑过了。
 
 不容易不容易啊。。
+
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

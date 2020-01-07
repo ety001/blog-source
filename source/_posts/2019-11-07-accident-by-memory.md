@@ -175,6 +175,6 @@ grub-mkconfig -o /boot/grub/grub.cfg
 #### 完美启动！！！！
 
 ---
-#### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-#### 也可以订阅号留言
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
 ![](/img/wechat-subscribe.jpg)

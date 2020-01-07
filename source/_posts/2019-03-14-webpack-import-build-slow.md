@@ -147,3 +147,8 @@ mix.js('resources/js/admin.js', 'public/static')
 从最终的文件大小和编译所需要的时间来看，目前不用 **chunk** 功能，并没有什么问题，于是最终选择使用 **babel-plugin-dynamic-import-node** 以此来解决编译时间过长的原因。
 
 具体深入进去还有什么区别没时间探索了，目前编译后，使用正常，那就先这样吧。。。
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

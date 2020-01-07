@@ -55,6 +55,6 @@ docker ps
 ![](/upload/20191114/Xz8NAJEozUzgxtsnujTWjP101VQVb1NY6tNNo5mZ.png)
 
 ---
-#### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-#### 也可以订阅号留言
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
 ![](/img/wechat-subscribe.jpg)

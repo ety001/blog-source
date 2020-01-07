@@ -84,6 +84,6 @@ bitshares.finalizeOp(opList, ACCOUNT_NAME, 'active')
 > 2. 买入卖出数量需要转换成整数，即乘以 `precision`
 
 ---
-#### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-#### 也可以订阅号留言
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
 ![](/img/wechat-subscribe.jpg)

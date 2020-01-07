@@ -62,6 +62,6 @@ docker run -it --rm -v $(pwd):/app ety001/huobi-lib:1.0.5 python3 /app/a.py
 OVER！接下来就要去研究下火币的各个 API 了。
 
 ---
-#### ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-#### 也可以订阅号留言
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
 ![](/img/wechat-subscribe.jpg)

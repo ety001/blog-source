@@ -116,3 +116,9 @@ curl -X GET 'http://localhost:9200/bitshares-*/data/_count?pretty=true' -H 'Cont
 
 # UPDATE
 * 修改密码的话，只需要在 `docker-compose.yml` 的 `elasticsearch` 中增加 `ELASTIC_PASSWORD=123456` 环境变量，这样启动后，密码就是 `123456`。
+
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)

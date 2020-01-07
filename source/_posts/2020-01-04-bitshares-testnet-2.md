@@ -62,3 +62,8 @@ docker run -itd \
 # 疑问
 
 如果有问题可以给我发邮件 `work#akawa.ink` 或者提交 [issue](https://github.com/ety001/bitshares-testnet-for-dapp-developers/issues)。
+
+---
+**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
+**也可以订阅号留言**
+![](/img/wechat-subscribe.jpg)
