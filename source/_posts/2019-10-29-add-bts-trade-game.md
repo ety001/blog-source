@@ -56,8 +56,3 @@ docker run -itd \
 启动之后，可以用 `docker logs -f --tail 100 bot1` 来查看机器人的运行状态。
 
 如果想要停止并删除机器人，执行 `docker stop bot1 && docker rm bot1` 即可。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

@@ -173,8 +173,3 @@ grub-mkconfig -o /boot/grub/grub.cfg
 9.所有操作结束后，退出 `chroot`，卸载所有已挂载分区，重启。
 
 #### 完美启动！！！！
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

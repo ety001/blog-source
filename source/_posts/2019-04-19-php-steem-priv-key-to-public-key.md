@@ -51,9 +51,3 @@ function getPubKeyPrefix($pubKey) {
 ```
 
 之前一直搞不出来，就是因为不知道为什么 **Steem** 判断压缩的变量跟 **BTC** 的正好是反的。不懂，先略过吧。
-
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

@@ -357,7 +357,7 @@ tag_icon: false
 wechat_subscriber:
   enable: true
   qcode: /img/wechat.jpeg
-  description: 微信扫码关注我的订阅号
+  description: ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
 
 # Reward (Donate)
 reward_settings:

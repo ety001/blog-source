@@ -28,8 +28,3 @@ smtp_tls_security_level = may
 ```
 
 另外推一下之前写的《如何快速搭建邮件服务器用来发邮件》[https://akawa.ink/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html](/2018/01/08/create-a-simple-smtp-server-by-postfix-and-sasl.html)
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

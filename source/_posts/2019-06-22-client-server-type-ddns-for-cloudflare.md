@@ -53,8 +53,3 @@ docker run -itd --name send-ip --restart always \
 这样两个容器跑起来以后，你就可以本地获取公网IP传到墙外服务器，然后再更新DNS了。
 
 如果你想再更新一个新的地址，只需要在本地再启动一个容器，然后手动修改下 `TO_URL` 参数配置即可。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

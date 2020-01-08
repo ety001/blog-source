@@ -82,8 +82,3 @@ bitshares.finalizeOp(opList, ACCOUNT_NAME, 'active')
 > 1. 需要连接获取数据的方法，请使用参数 `blockchain_instance` 把你自己创建的对象传入，
 > 否则连接的 `API` 并不是你指定的。默认连接库作者的 `API`。
 > 2. 买入卖出数量需要转换成整数，即乘以 `precision`
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

@@ -33,9 +33,3 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /AL
 ```
 
 保存为 `.cmd` 扩展名的批处理文件，然后用管理员权限执行下，之后重启机器就可以有 **Hyper-V** 了。
-
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

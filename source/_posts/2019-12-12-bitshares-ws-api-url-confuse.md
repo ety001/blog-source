@@ -98,8 +98,3 @@ export const t = () => {
 再后来我又搜索了关于 `javascript` 中 `import` 相关的文章，发现了这篇文章 [https://zhuanlan.zhihu.com/p/33843378](https://zhuanlan.zhihu.com/p/33843378) 。
 
 ** 总结下就是在同个项目下， `import` 同一个库只会执行一次，且返回结果是引用。 **
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

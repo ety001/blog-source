@@ -178,8 +178,3 @@ $--font-path: 'https://cdnjs.cloudflare.com/ajax/libs/element-ui/2.13.0/theme-ch
 ```
 
 OK，花了两天的时间，把基础框架搭建好了！接下来就可以开始重构工作了，剩下的相对就简单了。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

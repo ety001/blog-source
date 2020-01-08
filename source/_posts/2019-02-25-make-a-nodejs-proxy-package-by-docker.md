@@ -28,8 +28,3 @@ https://img.steemtools.top/http://newappaz.oss-cn-hongkong.aliyuncs.com/wherein_
 ```
 
 这样只需要把服务部署在国外服务器上，然后在解析 `markdown` 的时候把原来的图片地址加上代理地址后，就可以正常的访问文章中的图片了。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

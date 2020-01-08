@@ -161,8 +161,3 @@ const router = new Router({
 所有配置完成，执行 `npm run watch`，如果一切顺利的话，所有的前端文件会编译完成，直接访问 `http://localhost:8000/admin` 就能看到 **iview-admin** 已经成功整合完成了！
 
 撒花！
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

@@ -107,8 +107,3 @@ docker network connect --ip 172.20.0.3 lnmp es01
 
 My bitshares account: **ety001**
 My witness account: **liuye**
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

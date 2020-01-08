@@ -74,8 +74,3 @@ php /data/wwwroot/xiaoyugan-server/artisan schedule:run
 # 总结
 
 目前看，这个方案应该是优雅的吧。不过配置起来还是很复杂，且很多点有时候想不到。就像这个 `--user` 参数，也是在偶然的跨天测试中发现的。像这种跨天的bug真的是很坑。。。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

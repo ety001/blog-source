@@ -98,8 +98,3 @@ tags:
 > * `registerUser` 函数参数中的 `registrar` 是用来签发数据的用户的用户名，函数里面的 `privKey` 是 `registrar` 的 `active` 私钥
 > * `referrerPercent` 是分成比例，这里注意是基于手续费的 50% 再分成。也就是 `referrerPercent` 设置为 `10000` ，则代表 `registrar` 分成 0%，`referrer` 分成 50%。
 > * 提交的数据中的 `voting_account` 是设置投票代理人是谁。
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)

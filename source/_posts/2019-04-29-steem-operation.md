@@ -76,8 +76,3 @@ return_vesting_delegation,
 comment_benefactor_reward
 ];
 ```
-
----
-**ET碎碎念，每周一，晚六点一刻更新，欢迎订阅**
-**也可以订阅号留言**
-![](/img/wechat-subscribe.jpg)
