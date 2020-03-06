@@ -162,13 +162,13 @@ cd steem-docker
 
 > 如果你想跳过下载这一步，而是想直接通过 `P2P` 网络来同步区块数据，那么在执行第7步之前，可以修改一下 `run.sh` 的 170 行，
 > ![](https://steemitimages.com/DQmYDAniAE6xLunbYjNsetgMY8JCx3C5okTFu5mLo3U1i7B/image.png)
-> 我们删除掉，最后的那个 `--replay` 参数，然后执行 `./run replay`。
-> 通过读取日志，看到有区块数据同步后，再次修改 `run.sh` 的 170 行，把刚才去掉的参数再加回来，加回参数后，再执行 `./run replay` 即可。
+> 我们删除掉，最后的那个 `--replay` 参数，然后执行 `./run.sh replay`。
+> 通过读取日志，看到有区块数据同步后，再次修改 `run.sh` 的 170 行，把刚才去掉的参数再加回来，加回参数后，再执行 `./run.sh replay` 即可。
 > 如果提示类似下面的错误
 > ```
 > Error response from daemon: You cannot remove a running container c083355ec3960722bee080cff5c1bb13c225f5b9a3e0ae8ea63b4f73ce531992. Stop the container before attempting removal or force remove
 > ```
-> 执行下面的命令后再执行 `./run deplay`，其中 `c08` 是报错中提到的那个 `container id` 的头几位
+> 执行下面的命令后再执行 `./run.sh deplay`，其中 `c08` 是报错中提到的那个 `container id` 的头几位
 > ```
 > docker stop c08
 > ```
@@ -201,7 +201,7 @@ private-key = 5JEREu41d6zdBsFHjKx3PumyHMhydUH5DCPFejRiBTyQLg3rGgt # 这里填写
 ./run.sh replay
 ```
 
-运行成功后，可以通过 `./run logs` 命令，查看 `Docker容器` 的运行情况，如图
+运行成功后，可以通过 `./run.sh logs` 命令，查看 `Docker容器` 的运行情况，如图
 
 ![](https://steemitimages.com/DQmUUfm46LPZackRezNLkHEzGkTEo6Z3qsmj72cbCrWVCek/image.png)
 
