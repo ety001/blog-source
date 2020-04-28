@@ -607,7 +607,7 @@ disqus:
   enable: true
   shortname: akawa
   count: true
-  lazyload: true
+  lazyload: false
 
 # DisqusJS
 # Alternative Disqus - Render comment component using Disqus API
