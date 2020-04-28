@@ -605,7 +605,7 @@ calendar:
 # Disqus
 disqus:
   enable: true
-  shortname: ety001
+  shortname: akawa
   count: true
   lazyload: true
 
