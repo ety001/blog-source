@@ -1,0 +1,148 @@
+<html>
+	<head>
+		<script src="https://unpkg.com/dsteem@0.10.0/dist/dsteem.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	
+		<script>
+			jQuery(document).ready(function($){
+				//hook for action button
+				$('#create_claim').click(function(){
+					claimCreate();
+				});
+				async function claimCreate(){
+					//clear messages text
+					$('#error_section').text('');
+					
+					let creator = $('#main_account').val();
+					
+					//active key is required
+					let creatorKey = $('#private_key').val();
+					
+					if (creator == '' || creatorKey == ''){
+						$('#error_section').text('Please enter your account name and private active key to proceed.');
+						return;
+					}
+					
+					//dsteem requires this to properly format keys
+					let privateKey = dsteem.PrivateKey.fromString(
+										creatorKey
+									);
+					
+					//connect to node
+					var client = new dsteem.Client('https://api.steemit.com');
+					
+					
+					
+					
+					 
+					//container for required ops
+					let ops = [];
+					
+					//ensures one of the operations is proper to move ahead
+					let proceed = false;
+					if ($('#claim_op').is(':checked')){
+						//the claim discounted account operation
+						const claim_op = [
+							'claim_account',
+							{
+								creator: creator,
+								fee: '0.000 STEEM',
+								extensions: [],
+							}
+						];
+						ops.push(claim_op);
+						proceed = true;
+					}
+					if ($('#create_op').is(':checked')){
+						let username = $('#new_account').val();
+						let password = $('#new_account_pass').val();
+					
+						//check if account exists		
+						const _account = await client.database.call('get_accounts', [[username]]);
+						//account not available to register
+						if (_account.length>0) {
+							console.log('account already exists');
+							console.log(_account);
+							$('#error_section').text('Account name already exists. Please choose a different one');
+							return;
+						}
+
+						console.log('account available');
+									
+						//create keys for new account
+						const ownerKey = dsteem.PrivateKey.fromLogin(username, password, 'owner');
+						const activeKey = dsteem.PrivateKey.fromLogin(username, password, 'active');
+						const postingKey = dsteem.PrivateKey.fromLogin(username, password, 'posting');
+						let memoKey = dsteem.PrivateKey.fromLogin(username, password, 'memo').createPublic();
+						
+						//create auth values for passing to account creation
+						const ownerAuth = {
+							weight_threshold: 1,
+							account_auths: [],
+							key_auths: [[ownerKey.createPublic(), 1]],
+						};
+						const activeAuth = {
+							weight_threshold: 1,
+							account_auths: [],
+							key_auths: [[activeKey.createPublic(), 1]],
+						};
+						const postingAuth = {
+							weight_threshold: 1,
+							account_auths: [],
+							key_auths: [[postingKey.createPublic(), 1]],
+						};
+						
+						//the create discounted account operation
+						const create_op = [
+							'create_claimed_account',
+							{
+								creator: creator,
+								new_account_name: username,
+								owner: ownerAuth,
+								active: activeAuth,
+								posting: postingAuth,
+								memo_key: memoKey,
+								json_metadata: '',
+								extensions: [],
+							}
+						];
+						
+						ops.push(create_op);
+						proceed = true;
+					}
+					if (proceed){
+						//proceed executing the selected operation(s)
+						client.broadcast.sendOperations(ops, privateKey).then(
+							function(result) {
+								console.log(result);
+								$('#error_section').text('success');
+							},
+							function(error){
+								$('#error_section').text(error);
+							}
+						);
+					}else{
+						console.log('no operation selected');
+						$('#error_section').text('Please select either Claim, Create, or both');
+					}
+					
+				}
+			});
+		</script>
+		<style>
+			#error_section{
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		Main Account:<input type="text" id="main_account"><br/>
+		Private Active Key:<input type="text" id="private_key"><br/>
+		New Account Name:<input type="text" id="new_account"><br/>
+		New Account Pass:<input type="text" id="new_account_pass"><br/>
+		Claim <input type="checkbox" id="claim_op" name="claim_op">
+		Create <input type="checkbox" id="create_op" name="create_op"><br/>
+		<div id="error_section"></div>
+		<input type="button" value="proceed" id="create_claim">
+	</body>
+</html>
