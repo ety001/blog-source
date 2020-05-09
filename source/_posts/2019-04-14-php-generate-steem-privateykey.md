@@ -5,7 +5,7 @@ title: 用 PHP 生成 Steem 的私钥
 tags:
 - Server&OS
 - PHP
-- Steem
+- steem
 ---
 # 起因
 因为最近要开发 [AuthSteem](https://github.com/ety001/authsteem)（一个 **SteemConnect** 的 **PHP** 版本的复制品），其中需要到生成私钥，验证私钥之类的操作，而目前没有找到一款包含这个功能的 **PHP SDK**，所以要自己来实现。

@@ -4,7 +4,7 @@ layout: post
 title: 原来Steem的operation有这么多
 tags:
 - Server&OS
-- Steem
+- steem
 ---
 之前在开发 **Steem LightDB** 的时候，曾经总结过 **Steem** 的 **Operation** ，当时只是基于从数据块中总结出来了一些常见的类型。
 
