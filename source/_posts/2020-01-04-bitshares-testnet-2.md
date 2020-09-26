@@ -36,9 +36,9 @@ docker run -itd \
   -p 3000:3000 \
   -e PRIV_KEY=5Jxxxxxx \
   -e API_URL=ws://192.168.0.10/ws \
-  -e CHAIN_ID=2d20869f3d925cdeb57da14dec65bbc18261f38db0ac2197327fc3414585b0c5
-  -e CORE_ASSET=TEST
-  btfdd:latest
+  -e CHAIN_ID=2d20869f3d925cdeb57da14dec65bbc18261f38db0ac2197327fc3414585b0c5 \
+  -e CORE_ASSET=TEST \
+  ety001/btfdd:latest
 ```
 
 **环境变量说明**
