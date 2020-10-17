@@ -77,10 +77,10 @@ footer:
     version: true
 
   # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
-  # http://www.beian.miit.gov.cn
+  # https://beian.miit.gov.cn
   beian:
     enable: true
-    icp: 鲁ICP备20000145号
+    icp: 鲁ICP备20000145号-1
 
   # Any custom text can be defined here.
   #custom_text: Hosted by <a href="https://pages.coding.me" class="theme-link" rel="noopener" target="_blank">Coding Pages</a>
