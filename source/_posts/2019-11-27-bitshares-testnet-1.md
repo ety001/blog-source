@@ -81,7 +81,7 @@ touch bts_data/genesis/my-genesis.json
 docker run \
     -it \
     --rm \
-    ety001/bts-core-testnet \
+    ety001/bts-core:5.0.0-tools \
     /app/get_dev_key TEST seed1 seed2 seed3 seed4
 ```
 
