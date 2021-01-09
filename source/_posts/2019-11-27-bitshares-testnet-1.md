@@ -78,10 +78,10 @@ touch bts_data/genesis/my-genesis.json
 这样这里就需要很多组公私钥对，我们可以使用下面的命令即可快速生成
 
 ```
-docker run
-    -it
-    --rm
-    ety001/bts-core-testnet
+docker run \
+    -it \
+    --rm \
+    ety001/bts-core-testnet \
     /app/get_dev_key TEST seed1 seed2 seed3 seed4
 ```
 
