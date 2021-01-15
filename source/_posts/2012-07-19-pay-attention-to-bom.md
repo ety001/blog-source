@@ -12,7 +12,7 @@ tags:
 
 今天帮别人调代码的时候遇到一个bug，就是在用thinkphp框架写一个模板页的时候，用的bootstrap，但是页面的文本框的高度不对，如下图：
 
-[![](http://www.domyself.me/wp-content/uploads/2012/07/bom-300x177.png)](http://www.domyself.me/wp-content/uploads/2012/07/bom.png)
+[![](/img/2012/07/bom-300x177.png)](/img/2012/07/bom.png)
 
 
 鼓捣了一会，没有头绪，新建了一个一模一样的出来，放到另外一个空间跑，结果显示正常，仔细对比两者，发现区别在于灰色上面那个空白条。又是各种纠结后，最后无意中看到这个模板在geany的状态栏里显示含有BOM，我干你大爷的！又是BOM。重新搞一份没有BOM的，问题解决。。。

@@ -12,7 +12,7 @@ tags:
 
 转自[Laruence](http://www.laruence.com/)大神的博客：[http://www.laruence.com/2012/04/01/2571.html](http://www.laruence.com/2012/04/01/2571.html)
 
-今天是愚人节, 但我这个文章标题可不是和大家开玩笑. ![:)](http://www.laruence.com/wp-includes/images/smilies/icon_smile.gif)
+今天是愚人节, 但我这个文章标题可不是和大家开玩笑.
 
 首先, 大家都知道, PHP也是一种编译型脚本语言, 和其他的预编译型语言不同, 它不是编译成中间代码, 然后发布.. 而是每次运行都需要编译..
 

@@ -10,7 +10,5 @@ tags:
 - 前端
 ---
 
-[![canvas-line-width](http://www.domyself.me/wp-content/uploads/2014/09/canvas-300x136.jpg)](http://www.domyself.me/wp-content/uploads/2014/09/canvas.jpg)
-
 关于在canvas中的线宽，需要注意的是，线的宽度是以线的起点坐标，向两边各半个线宽值形成的。
 
