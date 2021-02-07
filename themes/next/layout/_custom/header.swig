@@ -1,4 +1,4 @@
-<div style="min-height: 568px;">
+<div style="min-height: 480px;">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- new-blog-auto -->
   <ins class="adsbygoogle"
