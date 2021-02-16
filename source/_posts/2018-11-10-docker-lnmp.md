@@ -60,7 +60,15 @@ docker cp nginx:/etc/nginx /etc \
 && \
 docker stop nginx && docker rm nginx \
 && \
-docker run -itd --name nginx -v /etc/nginx:/etc/nginx -v /data/wwwroot:/data/wwwroot -v /data/logs/nginx:/var/log/nginx -p 80:80 -p 443:443 --restart always -v /tmp:/tmp --network lnmp --ip "172.20.0.2" nginx
+docker run -itd --name nginx \
+       -v /etc/nginx:/etc/nginx \
+       -v /data/wwwroot:/data/wwwroot \
+       -v /data/logs/nginx:/var/log/nginx \
+       -p 80:80 -p 443:443 \
+       --restart always \
+       -l "ink.akawa.nginx" \
+       -v /tmp:/tmp \
+       --network lnmp --ip "172.20.0.2" nginx
 ```
 
 前三行的作用就是启动一个临时的 Nginx 容器，目的是为了把其中的配置文件复制出来，最后再删除掉这个临时容器。最后一行就是真正启动 Nginx 容器的命令了。
