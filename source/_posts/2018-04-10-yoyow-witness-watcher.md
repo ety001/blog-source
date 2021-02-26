@@ -50,12 +50,12 @@ https://github.com/yoyow-org/yoyow-core/releases/download/v0.2.1-180313/yoyow-cl
 ```
 Create wallet
 Logging RPC to file: logs/rpc/rpc.log
-3505859ms th_a       main.cpp:120                  main                 ] key_to_wif( committee_private_key ): 5KCBDTcyDqzsqehcb52tW5nU6pXife6V2rX9Yf7c3saYSzbDZ5W 
-3505862ms th_a       main.cpp:124                  main                 ] nathan_pub_key: YYW6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV 
-3505862ms th_a       main.cpp:125                  main                 ] key_to_wif( nathan_private_key ): 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3 
+3505859ms th_a       main.cpp:120                  main                 ] key_to_wif( committee_private_key ): 5KCBDTcyDqzsqehcb52tW5nU6pXife6V2rX9Yf7c3saYSzbDZ5W
+3505862ms th_a       main.cpp:124                  main                 ] nathan_pub_key: YYW6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
+3505862ms th_a       main.cpp:125                  main                 ] key_to_wif( nathan_private_key ): 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
 Starting a new wallet with chain ID ae4f234c75199f67e526c9478cf499dd6e94c2b66830ee5c58d0868a3179baf6 (from egenesis)
-3505863ms th_a       main.cpp:172                  main                 ] wdata.ws_server: wss://wallet.yoyow.org/ws 
-3506840ms th_a       main.cpp:177                  main                 ] wdata.ws_user:  wdata.ws_password:  
+3505863ms th_a       main.cpp:172                  main                 ] wdata.ws_server: wss://wallet.yoyow.org/ws
+3506840ms th_a       main.cpp:177                  main                 ] wdata.ws_user:  wdata.ws_password:
 Please use the set_password method to initialize a new wallet before continuing
 3509652ms th_a       main.cpp:243                  main                 ] Listening for incoming HTTP RPC requests on 0.0.0.0:9999
 new >>>
@@ -89,11 +89,11 @@ Get Status
 
 Logs
 Logging RPC to file: logs/rpc/rpc.log
-140909ms th_a       main.cpp:120                  main                 ] key_to_wif( committee_private_key ): 5K**********************5W 
-140910ms th_a       main.cpp:124                  main                 ] nathan_pub_key: YY************************CV 
-140910ms th_a       main.cpp:125                  main                 ] key_to_wif( nathan_private_key ): 5****************************3 
-140912ms th_a       main.cpp:172                  main                 ] wdata.ws_server: wss://wallet.yoyow.org/ws 
-141820ms th_a       main.cpp:177                  main                 ] wdata.ws_user:  wdata.ws_password:  
+140909ms th_a       main.cpp:120                  main                 ] key_to_wif( committee_private_key ): 5K**********************5W
+140910ms th_a       main.cpp:124                  main                 ] nathan_pub_key: YY************************CV
+140910ms th_a       main.cpp:125                  main                 ] key_to_wif( nathan_private_key ): 5****************************3
+140912ms th_a       main.cpp:172                  main                 ] wdata.ws_server: wss://wallet.yoyow.org/ws
+141820ms th_a       main.cpp:177                  main                 ] wdata.ws_user:  wdata.ws_password:
 145239ms th_a       main.cpp:243                  main                 ] Listening for incoming HTTP RPC requests on 0.0.0.0:9999
 
 ************
@@ -111,7 +111,7 @@ Finish!
 提示输入你的 YOYOW ID
 
 ```
-# ./install_bot.sh 
+# ./install_bot.sh
 Please input YOYOW ID:
 485699321
 ```
@@ -196,7 +196,5 @@ docker logs --tail 50 yoyow_witness_watcher
 ![y3.png](https://steemitimages.com/DQmVEbzzEQUoZC9GVTKbq6jLrqSgTDe4bjM3ePatri4HUVV/y3.png)
 
 填写下 Webhook 的名字后，即可完成创建，里面的 URL 即为你的 Webhook 地址。
-
-![](http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy91TjFMSWF2N29KOFc2ZHVCMU5samNoUWliaWNwczRlQTNoYnR2WnJRbENRODROUFRBN3RFdDZvSkxYeGlhUFdsSDlkNlFKV1pLbHdNUzJEQWhXMEgxMGZwZy8wP3d4X2ZtdD1wbmc)
 
 欢迎给我投票，我的 **YOYOW** 号是 **485699321**。
