@@ -64,9 +64,15 @@ tags:
 <table cellpadding="0" cellspacing="0" >
 <tbody >
 <tr >
+<td>
 叙述
+</td>
+<td>
 方法
+</td>
+<td>
 语法
+</td>
 </tr>
 <tr >
 
@@ -74,26 +80,26 @@ tags:
 </td>
 
 <td >
-获取和设置元素属性：attr()  
+获取和设置元素属性：attr()
 
 删除某一属性：removeAttr()
 
 </td>
 
 <td >
-获取：attr(name)  
+获取：attr(name)
 
-例如：$("img").attr("src")//获取img标签的src属性值  
+例如：$("img").attr("src")//获取img标签的src属性值
 
-设置：attr(key,value)//key表示属性的名称,value表示属性的值，当value是函数的时候，函数的返回值将作为value值  
+设置：attr(key,value)//key表示属性的名称,value表示属性的值，当value是函数的时候，函数的返回值将作为value值
 
-attr(key0:value0,key1:value1)//可以一次设置多组  
+attr(key0:value0,key1:value1)//可以一次设置多组
 
-例如：$("img").attr("title","domyself")  
+例如：$("img").attr("title","domyself")
 
-$("img").attr(title:"domyself",src:"/images/1.jpg")  
+$("img").attr(title:"domyself",src:"/images/1.jpg")
 
-删除:removeAttr(name)  
+删除:removeAttr(name)
 
 例如：$("img").removeAttr("src");
 
@@ -108,13 +114,13 @@ $("img").attr(title:"domyself",src:"/images/1.jpg")
 </td>
 
 <td >
-1、html()，用于获取元素的HTML内容  
+1、html()，用于获取元素的HTML内容
 
-2、html(val)，用于设置元素的HTML内容  
+2、html(val)，用于设置元素的HTML内容
 
-3、text()，用于获取元素的文本内容  
+3、text()，用于获取元素的文本内容
 
-4、text(val)，用于设置元素的文本内容  
+4、text(val)，用于设置元素的文本内容
 
 说明：html()方法仅支持XHTML的文档，不能用于XML文档，而text()则既支持HTML文档，也支持XML文档。
 
@@ -126,16 +132,16 @@ $("img").attr(title:"domyself",src:"/images/1.jpg")
 </td>
 
 <td >
-val(val)  
+val(val)
 
 val().join(",")
 
 </td>
 
 <td >
-获取：val()，相当于attr("value")的作用  
+获取：val()，相当于attr("value")的作用
 
-使用val().join(",")可以获取一组值，并用“,”隔开，分隔符可以更换  
+使用val().join(",")可以获取一组值，并用“,”隔开，分隔符可以更换
 
 赋值：val(val),val可以为数组
 
@@ -147,24 +153,24 @@ val().join(",")
 </td>
 
 <td >
-css(name,value)  
+css(name,value)
 
-addClass(class)  
+addClass(class)
 
-toggleClass(class)  
+toggleClass(class)
 
 removeClass([class])
 
 </td>
 
 <td >
-css(name,value)，直接修改某项css的值  
+css(name,value)，直接修改某项css的值
 
-addClass(class)，添加一个class类别，可以用英文逗号隔开添加多个  
+addClass(class)，添加一个class类别，可以用英文逗号隔开添加多个
 
-toggleClass(class)，当元素中含有名称为class的CSS类别时，删除该类别，否则增加一个该名称的CSS类别  
+toggleClass(class)，当元素中含有名称为class的CSS类别时，删除该类别，否则增加一个该名称的CSS类别
 
-removeClass([class])，如果不给参数则是清空所有class，可以添加多个class，需要用逗号隔开  
+removeClass([class])，如果不给参数则是清空所有class，可以添加多个class，需要用逗号隔开
 
 
 </td>
