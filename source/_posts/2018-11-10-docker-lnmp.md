@@ -77,14 +77,28 @@ docker run -itd --name nginx \
 
 ```
 read -s mysql_pass
+```
 
+输入MySQL管理员密码后，继续执行
+
+```
 docker run -itd --name mysql mariadb \
 && \
 docker cp mysql:/etc/mysql /etc \
 && \
 docker stop mysql && docker rm mysql \
 && \
-docker run -itd --name mysql -p 3306:3306 -v /etc/mysql:/etc/mysql -v /data/mysql:/var/lib/mysql -v /tmp:/tmp -v /data/logs/mysql:/var/log/mysql --restart always --network lnmp --ip "172.20.0.3" -e MYSQL_ROOT_PASSWORD=$mysql_pass mariadb
+docker run -itd --name mysql \
+-p 3306:3306 \
+-v /etc/mysql:/etc/mysql \
+-v /data/mysql:/var/lib/mysql \
+-v /tmp:/tmp \
+-v /data/logs/mysql:/var/log/mysql \
+--restart always \
+--network lnmp \
+--ip "172.20.0.3" \
+-e MYSQL_ROOT_PASSWORD=$mysql_pass \
+mariadb
 ```
 
 前三行依旧是为了复制配置文件出来，第四行会要求你输入 MySQL 的 root 密码。第五行启动 MySQL 容器。
@@ -98,7 +112,15 @@ docker cp php7:/etc/php7 /etc \
 && \
 docker stop php7 && docker rm php7 \
 && \
-docker run -itd --name php7 -v /etc/php7:/etc/php7 -v /data/wwwroot:/data/wwwroot -v /tmp:/tmp -v /data/logs/php7:/var/log/php7 --restart always --network lnmp --ip "172.20.0.4" ety001/php:7.2.14
+docker run -itd --name php7 \
+-v /etc/php7:/etc/php7 \
+-v /data/wwwroot:/data/wwwroot \
+-v /tmp:/tmp \
+-v /data/logs/php7:/var/log/php7 \
+--restart always \
+--network lnmp \
+--ip "172.20.0.4" \
+ety001/php:7.2.14
 ```
 
 前三行复制配置文件出来，第四行启动 PHP 容器。其中这里使用的镜像是我自己封装的，镜像里面写死了数据目录，如果你更改了数据目录，请自行修改 `/etc/php7/php-fpm.d/www.conf` 中的 `chdir` 参数值。
