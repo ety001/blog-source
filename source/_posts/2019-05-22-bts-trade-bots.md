@@ -103,5 +103,3 @@ docker run -it\
 ### 该程序不提供任何支持、答疑，不提供任何担保，交易风险自行承担。
 
 祝玩的愉快～
-
-![](http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy91TjFMSWF2N29KOFc2ZHVCMU5samNoUWliaWNwczRlQTNoYnR2WnJRbENRODROUFRBN3RFdDZvSkxYeGlhUFdsSDlkNlFKV1pLbHdNUzJEQWhXMEgxMGZwZy8wP3d4X2ZtdD1wbmc)
