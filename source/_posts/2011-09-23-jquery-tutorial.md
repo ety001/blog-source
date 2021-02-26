@@ -56,9 +56,6 @@ tags:
 </html>
 ```
 
-根据上面的代码创建的DOM树结构如下图：
-[![](http://www.domyself.me/wp-content/uploads/2011/09/pp-400x233.png)]()
-
 
 **一、访问元素**
 <table cellpadding="0" cellspacing="0" >
