@@ -1,7 +1,7 @@
 ---
 author: ety001
 layout: post
-title: How to install on Ubuntu 20.04
+title: How to install docker on Ubuntu 20.04
 tags:
   - 服务器
   - 经验
