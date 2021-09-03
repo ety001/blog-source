@@ -46,14 +46,10 @@ xfconf-query -c xfce4-keyboard-shortcuts -p /commands/custom/XF86AudioMute -n -t
 
 若 `amixer set Master toggle` 不工作，尝试使用调节PCM直接调节音量(`amixer set PCM toggle`) 。
 
-或者使用另外两条命令，把 toggle 拆分开：
+或者使用另外一条命令
 
 ```
-# mute
-pactl set-sink-mute 0 1
-
-# unmute
-pactl set-sink-mute 0 0
+pactl set-sink-mute 0 toggle
 ```
 
 其他的内容请参考wiki，[https://wiki.archlinux.org/index.php/Xfce_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#ALSA](https://wiki.archlinux.org/index.php/Xfce_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#ALSA)
