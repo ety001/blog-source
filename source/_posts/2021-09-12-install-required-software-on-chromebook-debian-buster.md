@@ -109,6 +109,14 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 [https://pinyin.sogou.com/linux/?r=pinyin](https://pinyin.sogou.com/linux/?r=pinyin)
 
+安装完，在家目录创建 `~/.pam_environment`
+
+```
+GTK_IM_MODULE DEFAULT=fcitx
+QT_IM_MODULE  DEFAULT=fcitx
+XMODIFIERS    DEFAULT=\@im=fcitx
+```
+
 14. 安装 LinuxQQ
 
 [https://im.qq.com/linuxqq/download.html](https://im.qq.com/linuxqq/download.html)
