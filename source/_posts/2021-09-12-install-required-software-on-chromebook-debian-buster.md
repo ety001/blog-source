@@ -120,3 +120,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 16. 安装 Linux 网易云音乐
 
 [https://music.163.com/#/download](https://music.163.com/#/download)
+
+17. 安装 Slack
+
+[https://slack.com/intl/zh-cn/downloads/linux](https://slack.com/intl/zh-cn/downloads/linux)
