@@ -57,8 +57,6 @@ sudo systemctl enable docker
 
 4. 修改 Linux 容器为固定IP
 
-[IP计算器](https://ipjisuanqi.com)
-
 `/etc/network/interfaces` 文件
 
 ```
@@ -67,8 +65,7 @@ iface lo inet loopback
 
 auto eth0
 iface eth0 inet static
-      address 100.115.92.202
-      network 255.255.255.240
+      address 100.115.92.202/28
       gateway 100.115.92.193
 
 dns-nameservers 8.8.8.8 114.114.114.114
