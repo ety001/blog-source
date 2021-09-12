@@ -132,3 +132,9 @@ XMODIFIERS    DEFAULT=\@im=fcitx
 17. 安装 Slack
 
 [https://slack.com/intl/zh-cn/downloads/linux](https://slack.com/intl/zh-cn/downloads/linux)
+
+18. 安装 hack 字体
+
+```
+sudo apt-get install -y fonts-hack
+```
