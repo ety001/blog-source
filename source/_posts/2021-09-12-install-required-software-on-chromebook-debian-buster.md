@@ -64,22 +64,22 @@ sudo systemctl enable docker
 
 6. 配置 Chrome 各个插件
 
-6. 配置 ssh
+7. 配置 ssh
 
-7. 从 github 下载私有配置，进行自定义设置
+8. 从 github 下载私有配置，进行自定义设置
 
-8. 安装 Linux 搜狗拼音
+9. 安装 Linux 搜狗拼音
 
 [https://pinyin.sogou.com/linux/?r=pinyin](https://pinyin.sogou.com/linux/?r=pinyin)
 
-9. 安装 LinuxQQ
+10. 安装 LinuxQQ
 
 [https://im.qq.com/linuxqq/download.html](https://im.qq.com/linuxqq/download.html)
 
-10. 安装 Linux QQ音乐
+11. 安装 Linux QQ音乐
 
 [https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
-11. 安装 Linux 网易云音乐
+12. 安装 Linux 网易云音乐
 
 [https://music.163.com/#/download](https://music.163.com/#/download)
