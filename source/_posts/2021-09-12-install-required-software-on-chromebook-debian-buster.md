@@ -55,32 +55,71 @@ sudo systemctl restart docker
 sudo systemctl enable docker
 ```
 
-4. 下载 vscode
+4. 修改 Linux 容器为固定IP
+
+[IP计算器](https://ipjisuanqi.com)
+
+`/etc/network/interfaces` 文件
+
+```
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+      address 100.115.92.202
+      network 255.255.255.240
+      gateway 100.115.92.193
+
+dns-nameservers 8.8.8.8 114.114.114.114
+```
+
+重启网络 `sudo systemctl restart networking`
+
+5. 修改 sudo 不需要密码
+
+```
+%sudo ALL=(ALL) NOPASSWD: ALL
+```
+
+6. 设置当前用户密码
+
+```
+sudo passwd ety001
+```
+
+7. 配置 Chrome 各个插件
+
+8. 配置 ssh
+
+9. 从 github 下载私有配置，进行自定义设置
+
+10. 安装 nvm
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+```
+
+11. 下载 vscode
 
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
-5. 下载 vnc viewer
+12. 下载 vnc viewer
 
 [https://www.realvnc.com/en/connect/download/viewer](https://www.realvnc.com/en/connect/download/viewer)
 
-6. 配置 Chrome 各个插件
-
-7. 配置 ssh
-
-8. 从 github 下载私有配置，进行自定义设置
-
-9. 安装 Linux 搜狗拼音
+13. 安装 Linux 搜狗拼音
 
 [https://pinyin.sogou.com/linux/?r=pinyin](https://pinyin.sogou.com/linux/?r=pinyin)
 
-10. 安装 LinuxQQ
+14. 安装 LinuxQQ
 
 [https://im.qq.com/linuxqq/download.html](https://im.qq.com/linuxqq/download.html)
 
-11. 安装 Linux QQ音乐
+15. 安装 Linux QQ音乐
 
 [https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
-12. 安装 Linux 网易云音乐
+16. 安装 Linux 网易云音乐
 
 [https://music.163.com/#/download](https://music.163.com/#/download)
