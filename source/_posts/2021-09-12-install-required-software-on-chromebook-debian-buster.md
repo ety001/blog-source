@@ -109,13 +109,21 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 [https://pinyin.sogou.com/linux/?r=pinyin](https://pinyin.sogou.com/linux/?r=pinyin)
 
-安装完，在家目录创建 `~/.pam_environment`
+安装完，在 `/etc/systemd/user/cros-garcon.service.d/cros-garcon-override.conf` 中增加下面的配置
 
 ```
-GTK_IM_MODULE DEFAULT=fcitx
-QT_IM_MODULE  DEFAULT=fcitx
-XMODIFIERS    DEFAULT=\@im=fcitx
+Environment="GTK_IM_MODULE=fcitx"
+Environment="QT_IM_MODULE=fcitx"
+Environment="XMODIFIERS=@im=fcitx"
 ```
+
+在 `~/.sommelierrc` 中增加
+
+```
+/usr/bin/fcitx-autostart
+```
+
+参考： [https://faq.fydeos.com/en/recipes/chinese-ime-in-linux-beta/](https://faq.fydeos.com/en/recipes/chinese-ime-in-linux-beta/)
 
 14. 安装 LinuxQQ
 
