@@ -39,7 +39,15 @@ VPN_PASSWORD=123456
 上面的就是配置了一个用户名 `ety001`，密码 `123456`，PSK 为 `abcdef` 的用户，然后执行下面的命令就可以了，
 
 ```
-docker run --name ipsec-vpn-server --env-file /etc/l2tp-env --restart=always -p 500:500/udp -p 4500:4500/udp -v /lib/modules:/lib/modules:ro -d --privileged hwdsl2/ipsec-vpn-server
+docker run --name ipsec-vpn-server \
+--env-file /etc/l2tp-env \
+--restart=always \
+-p 500:500/udp \
+-p 4500:4500/udp \
+-p 1701:1701/udp \
+-v /lib/modules:/lib/modules:ro \
+-d --privileged \
+hwdsl2/ipsec-vpn-server
 ```
 最后检查下 `udp 500` 和 `udp 4500` 端口在防火墙上是否打开就可以了。
 
