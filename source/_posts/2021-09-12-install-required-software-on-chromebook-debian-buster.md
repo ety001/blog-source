@@ -125,6 +125,8 @@ Environment="XMODIFIERS=@im=fcitx"
 
 参考： [https://faq.fydeos.com/en/recipes/chinese-ime-in-linux-beta/](https://faq.fydeos.com/en/recipes/chinese-ime-in-linux-beta/)
 
+> 最新： [https://chromium.googlesource.com/chromiumos/docs/+/main/containers_and_vms.md#Can-I-set-environment-variables-for-my-container](https://chromium.googlesource.com/chromiumos/docs/+/main/containers_and_vms.md#Can-I-set-environment-variables-for-my-container)
+
 14. 安装 LinuxQQ
 
 [https://im.qq.com/linuxqq/download.html](https://im.qq.com/linuxqq/download.html)
