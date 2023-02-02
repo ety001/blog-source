@@ -84,6 +84,7 @@ deploy:
     type: git
     repo: git@github.com:ety001/ety001.github.io.git
     branch: master
+    ignore_hidden: true
 
 # minifier
 # html_minifier:
@@ -125,3 +126,6 @@ jsonContent:
     excerpt: true
     categories: false
     tags: true
+
+include:
+  - .well-known/*
