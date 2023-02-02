@@ -1,5 +1,6 @@
 {
   "names": {
-    "ety001": "npub1azhl5tdjsfpzdsggfqrptuk6k2gw5pakph2esh0sypuactc7hd9sglne7f"
-  }
+    "ety001": "e8affa2db2824226c108480615f2dab290ea07b60dd5985df02079dc2f1ebb4b"
+  },
+  "custom_tool": "https://slowli.github.io/bech32-buffer/"
 }
