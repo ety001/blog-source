@@ -788,7 +788,7 @@ addtoany:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
-  tracking_id: "UA-155419471-1"
+  tracking_id: "G-60YZJHHP9K"
   localhost_ignored: true
 
 # Baidu Analytics

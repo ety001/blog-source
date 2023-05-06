@@ -130,3 +130,8 @@ jsonContent:
     excerpt: true
     categories: false
     tags: true
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
