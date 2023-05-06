@@ -51,10 +51,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/safari-pinned-tab.svg
+  small: /img/favicon.ico
+  medium: /img/favicon.ico
+  apple_touch_icon: /img/favicon.ico
+  safari_pinned_tab: /img/favicon.ico
   android_manifest: /images/site.webmanifest
   ms_browserconfig: /images/browserconfig.xml
   #android_manifest: /manifest.json
@@ -107,17 +107,17 @@ open_graph:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 menu:
-  首页: / || home
-  生活: /life
-  关于: /about/ || user
-  DM实验室: /lab/ || gear
-  捐助: /donate/ || star
-  categories: /categories/ || th
+  首页: / || fa fa-home
+  生活: /life || fa fa-bicycle
+  关于: /about/ || fa fa-user
+  DM实验室: /lab/ || fa fa-gear
+  捐助: /donate/ || fa fa-star
+  categories: /categories/ || fa fa-th
   标签云: /tags/ || fa fa-tags
-  归档: /archives/ || archive
-  #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
-  友链: /friendsblog/ || link
+  归档: /archives/ || fa fa-archive
+  #schedule: /schedule/ || fa fa-calendar
+  #sitemap: /sitemap.xml || fa fa-sitemap
+  友链: /friendsblog/ || fa fa-link
   #commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
