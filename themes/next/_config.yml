@@ -789,7 +789,7 @@ addtoany:
 # See: https://analytics.google.com
 google_analytics:
   tracking_id: "G-60YZJHHP9K"
-  localhost_ignored: true
+#  localhost_ignored: true
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
