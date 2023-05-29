@@ -112,7 +112,7 @@ menu:
   关于: /about/ || fa fa-user
   DM实验室: /lab/ || fa fa-gear
   捐助: /donate/ || fa fa-star
-  categories: /categories/ || fa fa-th
+  #categories: /categories/ || fa fa-th
   标签云: /tags/ || fa fa-tags
   归档: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
