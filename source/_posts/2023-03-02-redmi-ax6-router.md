@@ -1,3 +1,13 @@
+---
+author: ety001
+date: 2023-03-02 13:25:31+00:00
+layout: post
+title: 记录下 Redmi AX6 扩容刷机过程
+tags:
+- 配置
+- 经验
+---
+
 # 前情提要
 
 前段时间刷机，因为[官方文档](https://openwrt.org/inbox/toh/xiaomi/xiaomi_redmi_ax6_ax3000)的问题，我把路由刷成砖了。
