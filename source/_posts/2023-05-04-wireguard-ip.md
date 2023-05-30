@@ -2,7 +2,7 @@
 author: ety001
 date: 2023-05-04 13:25:31+00:00
 layout: post
-title: Demo code about how to create a new account by Steem JS SDK
+title: 搭建 wireguard 中继服务器连通两个没有公网IP的局域网
 tags:
 - Server&OS
 - 服务器
