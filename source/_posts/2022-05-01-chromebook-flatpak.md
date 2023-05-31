@@ -76,3 +76,13 @@ X-Flatpak=com.discordapp.Discord
 具体的 scale 值需要看你的具体的环境来调整。
 
 这下安装这些社交软件，就可以一键完成了。赞！
+
+```
+flatpak install flathub org.mozilla.firefox
+flatpak install flathub com.visualstudio.code
+flatpak install flathub com.slack.Slack
+flatpak install flathub com.authy.Authy
+flatpak install flathub org.gnome.seahorse.Application
+```
+
+
