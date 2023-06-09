@@ -7,7 +7,7 @@ tags:
 - DM实验室
 ---
 
-应用地址：<http://oc.to0l.cn>
+应用地址：<https://oc.mypi.win>
 
 之前一直计划接触下 swoole 、redis 、docker。最近时间稍微宽裕些，于是就把这三者揉到一起，
 把之前自己用的剪切板重新写了一遍，之前的那个是个nodejs版的。
@@ -19,7 +19,9 @@ redis在上一个公司有过接触，但是由于都是封装在底层的，平
 开发目标是应用要能允许建立多个剪切板，每个剪切板有个唯一标示，每个剪切板的容量是50条。因此先想到了队列，
 于是最后用的是redis的list的数据结构，用户提供剪切板的name和进入剪切板的password，产生唯一标示的方法如下：
 
-    $hash = md5($password . $name);
+```
+$hash = md5($password . $name);
+```
 
 然后用$hash作为这个剪切板list的key。
 

@@ -2,11 +2,6 @@
 title: DM实验室
 date: 2016-11-14 03:13:39
 ---
-## 新的工具索引页
-
-  * <http://to0l.cn>
-
----
 
 ## 这里是ETY001的实验室，该页面用来展示ETY001开发的一些小玩意。
 
@@ -15,14 +10,14 @@ date: 2016-11-14 03:13:39
   * ~~[{% post_link hi121-backhome %}]({% post_link hi121-backhome %})~~
   * ~~[{% post_link hi121-shop %}]({% post_link hi121-shop %})~~
   * [{% post_link upan %}]({% post_link upan %})
-  * [Pix](http://pix.domyself.me)
+  * [Pix](http://pix.akawa.ink)
   * ~~[SS](http://gfw.fuckspam.in)~~
-  * [Online Clipboard](http://oc.to0l.cn)，[{% post_link make-a-online-clipboard-with-swoole-and-redis %}]({% post_link make-a-online-clipboard-with-swoole-and-redis %})
+  * [Online Clipboard](http://oc.mypi.win)，[{% post_link make-a-online-clipboard-with-swoole-and-redis %}]({% post_link make-a-online-clipboard-with-swoole-and-redis %})
   * [Review Bookmarks](http://bm.to0l.cn)，[{% post_link review-bookmarks %}]({% post_link review-bookmarks %})
-  * [RippleBot](https://ripple.to0l.cn), [Source Code](https://github.com/ety001/ripple-bot)
-  * [StellarBot](https://stellarbot.top), [Source Code](https://github.com/ety001/stellar-bot)
-  * [SteemMention](https://steem-mention.com), [Source Code](https://github.com/ety001/steem-mention)
-  * [SteemEditor](https://steemeditor.com), [Source Code](https://github.com/ety001/steem-editor)
+  * ~~RippleBot, [Source Code](https://github.com/ety001/ripple-bot)~~
+  * ~~[StellarBot](https://stellarbot.top), [Source Code](https://github.com/ety001/stellar-bot)~~
+  * ~~[SteemMention](https://steem-mention.com), [Source Code](https://github.com/ety001/steem-mention)~~
+  * ~~[SteemEditor](https://steemeditor.com), [Source Code](https://github.com/ety001/steem-editor)~~
   * ~~[SteemLightDB](https://github.com/ety001/steem-lightdb)~~ **FAILED**
 
 ---
