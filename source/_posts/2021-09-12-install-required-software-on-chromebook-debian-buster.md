@@ -101,9 +101,17 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
-12. 下载 vnc viewer
+12. 安装 Remmina
 
-[https://www.realvnc.com/en/connect/download/viewer](https://www.realvnc.com/en/connect/download/viewer)
+```
+sudo apt install -y remmina \ 
+    remmina-common \ 
+    remmina-plugin-exec \ 
+    remmina-plugin-kiosk \ 
+    remmina-plugin-rdp \ 
+    remmina-plugin-secret \ 
+    remmina-plugin-vnc
+```
 
 13. 安装 Linux 搜狗拼音
 
