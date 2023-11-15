@@ -6,7 +6,6 @@
   <title>{% block title %}{% endblock %}</title>
   {{ partial('_third-party/analytics/index.njk', {}, {cache: theme.cache.enable}) }}
   {{- next_inject('head') }}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7536831447654223" crossorigin="anonymous"></script>
   <noscript>
     <link rel="stylesheet" href="{{ url_for(theme.css) }}/noscript.css">
   </noscript>

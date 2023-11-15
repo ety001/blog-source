@@ -14,7 +14,7 @@ cache:
   enable: true
 
 # Remove unnecessary files after hexo generate.
-minify: true
+minify: false
 
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
@@ -37,9 +37,9 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 #scheme: Gemini
 
 # Dark Mode
@@ -51,12 +51,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /img/favicon.ico
-  medium: /img/favicon.ico
-  apple_touch_icon: /img/favicon.ico
-  safari_pinned_tab: /img/favicon.ico
-  android_manifest: /images/site.webmanifest
-  ms_browserconfig: /images/browserconfig.xml
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -70,7 +68,7 @@ creative_commons:
   # Available values: big | small
   size: small
   sidebar: false
-  post: true
+  post: false
   # You can set a language value if you prefer a translated version of CC license, e.g. deed.zh
   # CC licenses are available in 39 languages, you can find the specific and correct abbreviation you need on https://creativecommons.org
   language:
@@ -97,7 +95,7 @@ open_graph:
 # Key is the name of menu item. If the translation for this item is available, the translated text will be loaded, otherwise the Key name will be used. Key is case-sensitive.
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
-#menu:
+menu:
   #home: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
@@ -106,19 +104,6 @@ open_graph:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-menu:
-  首页: / || fa fa-home
-  生活: /life || fa fa-bicycle
-  关于: /about/ || fa fa-user
-  DM实验室: /lab/ || fa fa-gear
-  捐助: /donate/ || fa fa-star
-  #categories: /categories/ || fa fa-th
-  标签云: /tags/ || fa fa-tags
-  归档: /archives/ || fa fa-archive
-  #schedule: /schedule/ || fa fa-calendar
-  #sitemap: /sitemap.xml || fa fa-sitemap
-  友链: /friendsblog/ || fa fa-link
-  #commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -156,9 +141,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /img/logo.jpg #/images/avatar.gif
+  url: #/images/avatar.gif
   # If true, the avatar will be displayed in circle.
-  rounded: true
+  rounded: false
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -169,7 +154,7 @@ site_state: true
 # Usage: `Key: permalink || icon`
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
-#social:
+social:
   #GitHub: https://github.com/yourname || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
@@ -179,11 +164,6 @@ site_state: true
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-social:
-  GitHub: https://github.com/ety001 || github
-  E-Mail: mailto:work@akawa.ink || envelope
-  Weibo: https://weibo.com/ety001 || weibo
-  Twitter: https://twitter.com/ety001 || twitter
 
 social_icons:
   enable: true
@@ -223,7 +203,7 @@ language_switcher: false
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
-  since: 2009
+  #since: 2021
 
   # Icon between year and copyright info.
   icon:
@@ -235,6 +215,7 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
+  # Set to `false` to disable the copyright statement.
   copyright:
 
   # Powered by Hexo & NexT
@@ -282,27 +263,18 @@ symbols_count_time:
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: false
 
-wechat_subscriber:
-  enable: true
-  qcode: /img/wechat.jpeg
-  description: ET碎碎念，每周一，晚六点一刻更新，欢迎订阅
-
 # Donate (Sponsor) settings
 # Front-matter variable (nonsupport animation).
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
-  enable: true
+  enable: false
   animation: false
 
-#reward:
+reward:
   #wechatpay: /images/wechatpay.png
   #alipay: /images/alipay.png
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
-reward:
-  wechatpay: /img/wepay.jpg
-  alipay: /img/alipay.png
-  bitcoin: /img/btc.png
 
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)
@@ -315,7 +287,7 @@ follow_me:
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
-  enable: true
+  enable: false
   icon: fa fa-signs-post
 
 # Post edit
@@ -401,6 +373,10 @@ codeblock:
     enable: false
     # Available values: default | flat | mac
     style:
+  # Fold code block
+  fold:
+    enable: false
+    height: 500
 
 back2top:
   enable: true
@@ -411,7 +387,7 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: true
+  enable: false
   # Available values: left | right
   start_at: left
   # Available values: top | bottom
@@ -431,8 +407,8 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: true
-  permalink: https://github.com/ety001
+  enable: false
+  permalink: https://github.com/yourname
 
 
 # ---------------------------------------------------------------
@@ -494,7 +470,7 @@ font:
 
 # If true, site-subtitle will be added to the title of index page.
 # Remember to set up your site-subtitle in Hexo `_config.yml` (e.g. subtitle: Subtitle)
-index_with_subtitle: true
+index_with_subtitle: false
 
 # Automatically add external URL with Base64 encrypt & decrypt.
 exturl: false
@@ -530,7 +506,7 @@ note:
   #  - modern    bootstrap callout new (v2-v3) alert style.
   #  - flat      flat callout style with background, like on Mozilla or StackOverflow.
   #  - disabled  disable all CSS styles import of note tag.
-  style: modern
+  style: simple
   icons: false
   # Offset lighter of background in % for modern and flat styles (modern: -12 | 12; flat: -18 | 6).
   # Offset also applied to label tag variables. This option can work with disabled note tag.
@@ -561,6 +537,9 @@ mermaid:
     light: default
     dark: dark
 
+# WaveDrom tag
+wavedrom:
+  enable: false
 
 # ---------------------------------------------------------------
 # Third Party Plugins & Services Settings
@@ -705,10 +684,9 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: true
-  shortname: akawa
+  enable: false
+  shortname:
   count: true
-  lazyload: false
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
@@ -788,8 +766,10 @@ addtoany:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
-  tracking_id: "G-60YZJHHP9K"
-#  localhost_ignored: true
+  tracking_id: # <app_id>
+  # By default, NexT will load an external gtag.js script on your site.
+  # If you only need the pageview feature, set the following option to true to get a better performance.
+  only_pageview: false
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
@@ -878,7 +858,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: true
+  enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -899,7 +879,7 @@ local_search:
 # Firstly, you need to enable and configure the chat service.
 chat:
   enable: false
-  icon: fa fa-comment # Icon name in Font Awesome, set false to disable icon.
+  icon: fa fa-comment # Icon name in Font Awesome, set to `false` to disable icon.
 
 # Chatra is a functional, easy to use piece of chat software for websites.
 # For more information: https://chatra.com
@@ -916,12 +896,6 @@ chatra:
 tidio:
   enable: false
   key: # Public Key, get it from dashboard. See: https://www.tidio.com/panel/settings/developer
-
-# Gitter is a chat and networking platform.
-# For more information: https://gitter.im
-gitter:
-  enable: false
-  room:
 
 
 # ---------------------------------------------------------------
