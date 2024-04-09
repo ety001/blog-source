@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Akawa
+subtitle: 'ETY001的博客'
+keywords: ETY001, akawa, php, vuejs, javascript, docker, steemit, bitshares
+description: ETY001的博客
+author: ETY001
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://akawa.ink
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -90,15 +90,67 @@ pagination_dir: page
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
+  - .well-known/*
 exclude:
 ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+sitemap:
+  path: sitemap.xml
+  tag: true
+  category: true
+
+jsonContent:
+  meta: false
+  pages: true
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: true
+    categories: false
+    tags: true
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+excerpt:
+  depth: 10
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
+
+related_posts:
+    enabled: true
+    enable_env_name: prod
+    filter_threshold: 0.3
+    related_count: 5
+    weight:
+      title: 0.05
+      description: 0.05
+      keywords: 0.01
+      tags: 0.005
+      categories: 0.005
+      text: 1
+    stemmers:
+      - en
+    reserved:
