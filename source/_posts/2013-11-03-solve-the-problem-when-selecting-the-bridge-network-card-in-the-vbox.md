@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-11-03 20:12:30+00:00
+date: 2013-11-03 20:12:30
 layout: post
 slug: solve-the-problem-when-selecting-the-bridge-network-card-in-the-vbox
 title: 解决vbox桥接网卡时的报错问题

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-04-03 19:37:03+00:00
+date: 2012-04-03 19:37:03
 layout: post
 slug: 8-css-layout-problems-that-perplex-the-newer
 title: CSS网页布局困扰新手的八个问题

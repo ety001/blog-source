@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-30 14:11:20+00:00
+date: 2013-06-30 14:11:20
 layout: post
 slug: some-troubles-in-my-work
 title: 技術遇到瓶頸

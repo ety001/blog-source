@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-07-02 00:22:15+00:00
+date: 2013-07-02 00:22:15
 layout: post
 slug: js-load-order
 title: js載入順序問題

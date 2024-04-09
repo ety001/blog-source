@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-05 12:14:44+00:00
+date: 2010-10-05 12:14:44
 layout: post
 title: 需要了解的一些文学常识
 tags:

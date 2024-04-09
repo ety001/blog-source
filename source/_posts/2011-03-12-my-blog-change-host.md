@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-12 02:16:59+00:00
+date: 2011-03-12 02:16:59
 layout: post
 title: DM博客的服务器空间调换完毕
 wordpress_id: 1159

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-23 06:16:44+00:00
+date: 2011-02-23 06:16:44
 layout: post
 title: ntalker开发中的一句话的事儿
 wordpress_id: 1066

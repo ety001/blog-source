@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-06-01 01:48:50+00:00
+date: 2014-06-01 01:48:50
 layout: post
 slug: foreach-point-in-php
 title: PHP中foreach与引用的坑

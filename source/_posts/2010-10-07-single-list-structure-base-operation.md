@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-07 10:27:06+00:00
+date: 2010-10-07 10:27:06
 layout: post
 title: 单链表的基本操作
 wordpress_id: 136

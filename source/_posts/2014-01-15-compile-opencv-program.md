@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-01-15 07:26:31+00:00
+date: 2014-01-15 07:26:31
 layout: post
 slug: compile-opencv-program
 title: 使用g++编译OpenCV程序

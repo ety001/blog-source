@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-21 01:48:46+00:00
+date: 2013-06-21 01:48:46
 layout: post
 slug: the-proc-file-system
 title: '[转]理解proc文件系统'

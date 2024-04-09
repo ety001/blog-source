@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-21 16:09:11+00:00
+date: 2011-09-21 16:09:11
 layout: post
 title: jQuery入门教程笔记6
 wordpress_id: 1657

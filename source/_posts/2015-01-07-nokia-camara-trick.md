@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-07 16:11:20+00:00
+date: 2015-01-07 16:11:20
 layout: post
 slug: nokia-camara-trick
 title: nokia 808 相机拍摄技巧

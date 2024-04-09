@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-18 04:34:19+00:00
+date: 2012-01-18 04:34:19
 layout: post
 slug: the-lost-of-register
 title: 这次备案的损失

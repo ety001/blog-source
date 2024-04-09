@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-24 03:48:50+00:00
+date: 2011-03-24 03:48:50
 layout: post
 title: 程序员的十层楼（作者：周伟明）转载
 wordpress_id: 1237

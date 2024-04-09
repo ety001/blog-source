@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-05-14 05:11:58+00:00
+date: 2013-05-14 05:11:58
 layout: post
 slug: xen-multi-bridges-shell
 title: xen双网卡桥接配置脚本

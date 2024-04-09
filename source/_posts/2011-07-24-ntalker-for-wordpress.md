@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-07-24 08:20:43+00:00
+date: 2011-07-24 08:20:43
 layout: post
 slug: ntalker-for-wordpress
 title: Ntalker for Wordpress

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-07-18 02:47:55+00:00
+date: 2012-07-18 02:47:55
 layout: post
 slug: chrome_chromium-import-certificate
 title: linux下chrome/chromium导入证书

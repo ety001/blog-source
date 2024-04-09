@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-03-14 07:40:10+00:00
+date: 2013-03-14 07:40:10
 layout: post
 slug: make-the-users-can-write-dev-input-event-not-using-sudo
 title: 如何让普通用户不用sudo就可以写入/dev/input/event

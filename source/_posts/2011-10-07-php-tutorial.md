@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-10-07 16:37:53+00:00
+date: 2011-10-07 16:37:53
 layout: post
 title: PHP读书笔记二
 wordpress_id: 1699

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-01-26 01:30:44+00:00
+date: 2014-01-26 01:30:44
 layout: post
 slug: setup-epel
 title: centos安装epel

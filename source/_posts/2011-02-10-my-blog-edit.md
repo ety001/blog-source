@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-02-10 06:49:59+00:00
+date: 2011-02-10 06:49:59
 layout: post
 title: 网站再一次进行改动和调整（重要）
 wordpress_id: 956

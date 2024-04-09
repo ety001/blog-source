@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-07-03 02:01:54+00:00
+date: 2014-07-03 02:01:54
 layout: post
 slug: sublime-cannot-input-chinese-in-linux
 title: sublime在linux下无法输入中文

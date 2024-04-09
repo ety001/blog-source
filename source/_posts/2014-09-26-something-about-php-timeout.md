@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-09-26 10:09:26+00:00
+date: 2014-09-26 10:09:26
 layout: post
 slug: something-about-php-timeout
 title: 关于PHP中的超时研究

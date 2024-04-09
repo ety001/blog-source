@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-05-03 08:39:57+00:00
+date: 2012-05-03 08:39:57
 layout: post
 slug: setup-archlinux-xfce4
 title: 安装archlinux+xfce4

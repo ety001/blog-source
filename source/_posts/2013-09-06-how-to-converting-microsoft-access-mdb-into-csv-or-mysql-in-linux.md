@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-06 01:46:15+00:00
+date: 2013-09-06 01:46:15
 layout: post
 slug: how-to-converting-microsoft-access-mdb-into-csv-or-mysql-in-linux
 title: How to converting Microsoft Access MDB into CSV or Mysql in linux

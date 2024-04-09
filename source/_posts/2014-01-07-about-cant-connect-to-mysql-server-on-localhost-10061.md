@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-01-07 16:39:33+00:00
+date: 2014-01-07 16:39:33
 layout: post
 slug: about-cant-connect-to-mysql-server-on-localhost-10061
 title: 关于Can't connect to MySQL server on 'localhost' (10061)

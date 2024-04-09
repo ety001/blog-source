@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-12-31 17:04:10+00:00
+date: 2010-12-31 17:04:10
 layout: post
 title: 自动换行 word-break:break-all和word-wrap:break-word
 wordpress_id: 801

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-10 07:09:33+00:00
+date: 2011-02-10 07:09:33
 layout: post
 title: 天干地支记年法你知道多少
 wordpress_id: 960

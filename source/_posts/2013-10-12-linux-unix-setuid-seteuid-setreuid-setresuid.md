@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-12 06:14:53+00:00
+date: 2013-10-12 06:14:53
 layout: post
 slug: linux-unix-setuid-seteuid-setreuid-setresuid
 title: linux/unix下setuid/seteuid/setreuid/setresuid

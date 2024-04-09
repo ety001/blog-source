@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-09-06 06:16:09+00:00
+date: 2012-09-06 06:16:09
 layout: post
 slug: ie6-bug-overflowhidden-display
 title: IE6 Bug overflow:hidden失效

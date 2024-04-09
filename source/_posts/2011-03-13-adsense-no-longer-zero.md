@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-13 13:14:41+00:00
+date: 2011-03-13 13:14:41
 layout: post
 title: 我的Adsense终于破0了
 wordpress_id: 1166

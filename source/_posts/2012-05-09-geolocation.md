@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-05-09 07:20:26+00:00
+date: 2012-05-09 07:20:26
 layout: post
 slug: geolocation
 title: geolocation

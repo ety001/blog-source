@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-04-06 12:49:55+00:00
+date: 2011-04-06 12:49:55
 layout: post
 title: 博客终于恢复正常了
 wordpress_id: 1241

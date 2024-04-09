@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-10-30 07:36:21+00:00
+date: 2011-10-30 07:36:21
 layout: post
 title: ucenter在nginx下的应用通讯问题
 wordpress_id: 1748

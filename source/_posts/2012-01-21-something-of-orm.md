@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-21 02:06:37+00:00
+date: 2012-01-21 02:06:37
 layout: post
 slug: something-of-orm
 title: ORM碎碎念

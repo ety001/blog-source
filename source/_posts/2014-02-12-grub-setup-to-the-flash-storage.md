@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-02-12 08:59:20+00:00
+date: 2014-02-12 08:59:20
 layout: post
 slug: grub-setup-to-the-flash-storage
 title: u盘安装linux，将grub安装到了u盘，导致没U盘系统无法引导启动的解决方法

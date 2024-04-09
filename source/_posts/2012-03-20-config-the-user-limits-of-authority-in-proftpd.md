@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-20 03:49:32+00:00
+date: 2012-03-20 03:49:32
 layout: post
 slug: config-the-user-limits-of-authority-in-proftpd
 title: 配置proftpd的用户权限

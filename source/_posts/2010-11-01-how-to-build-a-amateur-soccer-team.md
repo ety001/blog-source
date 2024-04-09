@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-11-01 11:16:21+00:00
+date: 2010-11-01 11:16:21
 layout: post
 title: 如何打造一支成熟的业余球队
 wordpress_id: 525

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-12-27 17:22:37+00:00
+date: 2011-12-27 17:22:37
 layout: post
 title: 处理Nginx出现的413 Request Entity Too Large错误
 wordpress_id: 1832

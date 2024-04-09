@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-05-10 15:21:54+00:00
+date: 2013-05-10 15:21:54
 layout: post
 slug: three-day-promotion-experience-and-thinking
 title: 三天的推廣經歷與思考

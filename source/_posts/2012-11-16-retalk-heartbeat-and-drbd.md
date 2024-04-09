@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-16 13:54:52+00:00
+date: 2012-11-16 13:54:52
 layout: post
 slug: retalk-heartbeat-and-drbd
 title: 再谈heartbeat+DRBD

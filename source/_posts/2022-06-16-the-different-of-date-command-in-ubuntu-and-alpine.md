@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2022-06-16 13:25:31+00:00
+date: 2022-06-16 13:25:31
 layout: post
 title: The different of date command in Ubuntu and Alpine
 tags:

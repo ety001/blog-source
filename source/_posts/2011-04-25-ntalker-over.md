@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-04-25 16:34:55+00:00
+date: 2011-04-25 16:34:55
 layout: post
 title: 【日记】2011.4.26 记事狗ntalker插件测试版终于是完工了
 wordpress_id: 1305

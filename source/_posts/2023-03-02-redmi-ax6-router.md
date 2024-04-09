@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-03-02 13:25:31+00:00
+date: 2023-03-02 13:25:31
 layout: post
 title: 记录下 Redmi AX6 扩容刷机过程
 tags:

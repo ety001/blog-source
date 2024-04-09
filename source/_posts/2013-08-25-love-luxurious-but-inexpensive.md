@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-08-25 15:52:27+00:00
+date: 2013-08-25 15:52:27
 layout: post
 slug: love-luxurious-but-inexpensive
 title: 爱情，奢侈而廉价

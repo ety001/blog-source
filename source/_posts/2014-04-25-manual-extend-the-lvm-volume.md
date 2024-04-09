@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-04-25 12:04:00+00:00
+date: 2014-04-25 12:04:00
 layout: post
 slug: manual-extend-the-lvm-volume
 title: 手动扩容LVM容量

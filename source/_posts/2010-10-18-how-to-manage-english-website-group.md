@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-18 15:24:51+00:00
+date: 2010-10-18 15:24:51
 layout: post
 slug: 'how-to-manage-english-website-group'
 title: 如何经营英文站群 并且将网站收益最大化（转）

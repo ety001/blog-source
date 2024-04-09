@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-06-12 10:15:43+00:00
+date: 2012-06-12 10:15:43
 layout: post
 slug: commonly-used-regular-expression
 title: 常用正则表达式

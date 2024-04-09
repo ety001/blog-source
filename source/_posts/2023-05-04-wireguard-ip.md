@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-05-04 13:25:31+00:00
+date: 2023-05-04 13:25:31
 layout: post
 title: 搭建 wireguard 中继服务器连通两个没有公网IP的局域网
 tags:

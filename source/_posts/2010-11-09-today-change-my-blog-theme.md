@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-11-09 13:06:48+00:00
+date: 2010-11-09 13:06:48
 layout: post
 title: 今天正式更换网站主题
 wordpress_id: 588

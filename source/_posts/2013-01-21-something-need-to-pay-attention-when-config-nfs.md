@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-21 16:09:08+00:00
+date: 2013-01-21 16:09:08
 layout: post
 slug: something-need-to-pay-attention-when-config-nfs
 title: 一些做nfs时的注意事项

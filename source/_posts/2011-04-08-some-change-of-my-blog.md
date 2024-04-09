@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-04-08 13:11:56+00:00
+date: 2011-04-08 13:11:56
 layout: post
 title: 最近对于博客的一些变动
 wordpress_id: 1261

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-10 18:58:57+00:00
+date: 2013-10-10 18:58:57
 layout: post
 slug: pxelinux-default-config-comment
 title: pxelinux中default配置文件的注释

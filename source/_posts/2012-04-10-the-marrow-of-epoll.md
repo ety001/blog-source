@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-04-10 00:58:45+00:00
+date: 2012-04-10 00:58:45
 layout: post
 slug: the-marrow-of-epoll
 title: epoll精髓

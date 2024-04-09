@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-07-12 13:34:45+00:00
+date: 2014-07-12 13:34:45
 layout: post
 slug: open-remote-sevice
 title: 远程开启3389

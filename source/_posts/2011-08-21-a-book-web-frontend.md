@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-21 07:54:24+00:00
+date: 2011-08-21 07:54:24
 layout: post
 title: 推荐一本Web前端开发的书
 wordpress_id: 1483

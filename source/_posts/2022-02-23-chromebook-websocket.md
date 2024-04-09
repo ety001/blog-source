@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2022-02-23 08:24:49+00:00
+date: 2022-02-23 08:24:49
 layout: post
 title: Chromebook 无法访问 websocket
 tags: chromebook

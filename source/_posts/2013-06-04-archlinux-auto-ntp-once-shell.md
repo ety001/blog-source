@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-04 23:30:46+00:00
+date: 2013-06-04 23:30:46
 layout: post
 slug: archlinux-auto-ntp-once-shell
 title: Archlinux开机自动同步时间脚本

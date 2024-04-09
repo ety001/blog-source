@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-10-26 13:25:31+00:00
+date: 2023-10-26 13:25:31
 layout: post
 title: ubuntu22.04 server 安装 xfce4 和 xrdp
 tags:

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-12-17 04:32:40+00:00
+date: 2012-12-17 04:32:40
 layout: post
 slug: the-helpers-differents-between-express-2-x-and-express-3-x
 title: express 2.x 与 express 3.x的视图助手的区别

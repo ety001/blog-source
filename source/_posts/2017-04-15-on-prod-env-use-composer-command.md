@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2017-04-15 08:24:49+00:00
+date: 2017-04-15 08:24:49
 layout: post
 title: 生产环境以非root使用composer
 tags: Server&OS

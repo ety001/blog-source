@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-04 17:25:52+00:00
+date: 2013-09-04 17:25:52
 layout: post
 slug: anonymous-discussions-the-second-day-update
 title: AnonymousDiscussions上线第二天功能更新

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-07 11:52:28+00:00
+date: 2011-08-07 11:52:28
 layout: post
 title: Ntalker for Wordpress 1.1版本发布
 wordpress_id: 1462

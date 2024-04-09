@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-04-03 19:31:31+00:00
+date: 2012-04-03 19:31:31
 layout: post
 slug: css-layout-pithy-formula
 title: CSS布局口诀

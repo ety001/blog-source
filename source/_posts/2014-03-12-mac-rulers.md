@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-03-12 07:50:32+00:00
+date: 2014-03-12 07:50:32
 layout: post
 slug: mac-rulers
 title: MAC规则

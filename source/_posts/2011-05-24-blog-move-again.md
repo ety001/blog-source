@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-05-24 14:07:31+00:00
+date: 2011-05-24 14:07:31
 layout: post
 title: 博客停两周今天终于恢复正常了
 wordpress_id: 1380

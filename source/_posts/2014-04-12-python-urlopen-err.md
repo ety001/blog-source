@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-04-12 15:26:55+00:00
+date: 2014-04-12 15:26:55
 layout: post
 slug: python-urlopen-err
 title: python urlopen报错

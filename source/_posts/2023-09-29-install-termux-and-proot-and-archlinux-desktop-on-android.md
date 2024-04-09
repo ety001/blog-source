@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-09-29 13:25:31+00:00
+date: 2023-09-29 13:25:31
 layout: post
 title: 安装 termux 和 proot，并安装 archlinux 桌面
 tags:

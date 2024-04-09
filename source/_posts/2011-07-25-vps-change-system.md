@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-07-25 04:05:49+00:00
+date: 2011-07-25 04:05:49
 layout: post
 title: 今天对自己的VPS进行了更换系统
 wordpress_id: 1425

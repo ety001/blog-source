@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-07 16:44:45+00:00
+date: 2011-09-07 16:44:45
 layout: post
 title: 我的第一个Wordpress插件正式发布
 wordpress_id: 1570

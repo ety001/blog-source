@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-07-19 15:48:08+00:00
+date: 2012-07-19 15:48:08
 layout: post
 slug: pay-attention-to-bom
 title: 又让BOM给坑掉了两个小时。。

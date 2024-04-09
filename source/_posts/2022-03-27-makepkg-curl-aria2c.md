@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-03-27 08:24:49+00:00'
+date: '2022-03-27 08:24:49'
 layout: post
 title: 把 makepkg 的下载器从 curl 换成了 aria2c
 tags:

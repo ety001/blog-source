@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-13 13:39:15+00:00
+date: 2012-11-13 13:39:15
 layout: post
 slug: set-the-static-ip-on-bt5
 title: bt5设置静态ip

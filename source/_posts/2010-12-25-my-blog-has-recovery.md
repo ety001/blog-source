@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-12-25 19:14:11+00:00
+date: 2010-12-25 19:14:11
 layout: post
 title: 我的个人博客终于恢复正常了
 wordpress_id: 786

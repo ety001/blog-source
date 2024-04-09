@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-02-06 17:26:33+00:00
+date: 2013-02-06 17:26:33
 layout: post
 slug: blog-change
 title: 博客调整

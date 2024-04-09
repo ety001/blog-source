@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-19 14:15:00+00:00
+date: 2013-06-19 14:15:00
 layout: post
 slug: crontab-do-something-every-second
 title: crontab按秒执行

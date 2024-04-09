@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-15 18:50:22+00:00
+date: 2012-11-15 18:50:22
 layout: post
 slug: drbd-setup-success
 title: drbd安装调试成功

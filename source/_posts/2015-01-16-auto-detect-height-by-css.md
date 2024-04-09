@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-16 05:58:00+00:00
+date: 2015-01-16 05:58:00
 layout: post
 slug: auto-detect-height-by-css
 title: 如何自适应高度

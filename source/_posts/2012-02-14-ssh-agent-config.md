@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-14 01:27:43+00:00
+date: 2012-02-14 01:27:43
 layout: post
 slug: ssh-agent-config
 title: ssh代理命令

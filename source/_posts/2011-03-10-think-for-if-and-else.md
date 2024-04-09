@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-10 16:41:30+00:00
+date: 2011-03-10 16:41:30
 layout: post
 title: 关于if和else的一点心得及程序调试的方法
 wordpress_id: 1148

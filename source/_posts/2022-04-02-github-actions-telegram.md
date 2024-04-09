@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-04-02 08:24:49+00:00'
+date: '2022-04-02 08:24:49'
 layout: post
 title: 在 github actions 中使用 telegram 推送消息
 tags:

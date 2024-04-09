@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-02-16 16:07:58+00:00
+date: 2015-02-16 16:07:58
 layout: post
 slug: python-str-unicode-transfer
 title: python中str和unicode转换问题

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-08 07:38:30+00:00
+date: 2012-03-08 07:38:30
 layout: post
 slug: the-manual-of-rename-in-linux
 title: Linux中rename命令的用法

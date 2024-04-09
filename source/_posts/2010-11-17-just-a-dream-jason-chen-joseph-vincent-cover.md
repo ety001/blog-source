@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-11-17 10:21:15+00:00
+date: 2010-11-17 10:21:15
 layout: post
 title: Just a Dream - Jason Chen/Joseph Vincent Cover
 wordpress_id: 682

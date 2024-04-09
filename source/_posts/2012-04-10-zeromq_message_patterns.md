@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-04-10 06:46:59+00:00
+date: 2012-04-10 06:46:59
 layout: post
 slug: zeromq_message_patterns
 title: ZeroMQ的模式

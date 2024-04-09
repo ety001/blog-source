@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-05-01 09:01:42+00:00
+date: 2012-05-01 09:01:42
 layout: post
 slug: the-differences-between-fakeroot-and-sudo
 title: fakeroot与sudo的区别

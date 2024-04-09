@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-27 13:05:18+00:00
+date: 2012-01-27 13:05:18
 layout: post
 slug: archlinux-dhcp-config-auto-get-ip
 title: ArchLinux配置DHCP自动获取IP

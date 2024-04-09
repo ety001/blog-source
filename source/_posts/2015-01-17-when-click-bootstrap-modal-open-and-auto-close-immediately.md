@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-17 04:55:58+00:00
+date: 2015-01-17 04:55:58
 layout: post
 slug: when-click-bootstrap-modal-open-and-auto-close-immediately
 title: bootstrap的modal打开后立即自动关闭

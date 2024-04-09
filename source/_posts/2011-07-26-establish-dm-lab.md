@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-07-26 13:09:57+00:00
+date: 2011-07-26 13:09:57
 layout: post
 title: 这是DM实验室的起航
 wordpress_id: 1438

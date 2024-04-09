@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-08 07:42:13+00:00
+date: 2013-10-08 07:42:13
 layout: post
 slug: analysis-of-linux-process-authority
 title: linux下进程权限分析

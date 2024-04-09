@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-10-29 13:25:31+00:00
+date: 2023-10-29 13:25:31
 layout: post
 title: 太TM坑爹的 TrueNAS 的虚拟机了
 tags:

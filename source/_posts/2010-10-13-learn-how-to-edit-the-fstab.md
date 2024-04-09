@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-13 15:09:41+00:00
+date: 2010-10-13 15:09:41
 layout: post
 slug: 'learn-how-to-edit-the-fstab'
 title: 学会理解并编辑fstab  附:my fstab &mbr备份（转载）

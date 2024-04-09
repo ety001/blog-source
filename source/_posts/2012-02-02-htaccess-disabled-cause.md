@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-02 05:44:35+00:00
+date: 2012-02-02 05:44:35
 layout: post
 slug: htaccess-disabled-cause
 title: .htaccess未生效可能的原因

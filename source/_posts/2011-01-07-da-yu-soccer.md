@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-01-07 08:23:27+00:00
+date: 2011-01-07 08:23:27
 layout: post
 title: 大羽，见羽不见
 wordpress_id: 818

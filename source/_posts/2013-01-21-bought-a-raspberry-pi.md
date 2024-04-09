@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-21 15:41:27+00:00
+date: 2013-01-21 15:41:27
 layout: post
 slug: bought-a-raspberry-pi
 title: 入手了树莓派

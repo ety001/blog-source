@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-01-03 04:04:19+00:00
+date: 2014-01-03 04:04:19
 layout: post
 slug: sift-surf-haar-hough
 title: 三种强大的物体识别算法——SIFT/SURF、haar特征、广义hough变换的特性对比分析

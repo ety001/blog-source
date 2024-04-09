@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-06-20 13:25:31+00:00
+date: 2023-06-20 13:25:31
 layout: post
 title: Chomebook 配置真文韵输入法的翻页使用逗号和句号
 tags:

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-19 15:24:52+00:00
+date: 2013-01-19 15:24:52
 layout: post
 slug: linux-lib-menu-set
 title: Linux 静态库与动态库搜索路径设置

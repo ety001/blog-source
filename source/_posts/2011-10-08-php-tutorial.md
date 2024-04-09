@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-10-08 13:46:37+00:00
+date: 2011-10-08 13:46:37
 layout: post
 title: PHP读书笔记四
 wordpress_id: 1704

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-12-25 19:01:37+00:00
+date: 2010-12-25 19:01:37
 layout: post
 title: 在网络部的那段日子（一）
 wordpress_id: 784

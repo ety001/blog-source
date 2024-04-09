@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-24 16:21:09+00:00
+date: 2013-09-24 16:21:09
 layout: post
 slug: php-bit-operation
 title: PHP位运算详细说明

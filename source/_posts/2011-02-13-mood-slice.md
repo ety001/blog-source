@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-13 13:12:57+00:00
+date: 2011-02-13 13:12:57
 layout: post
 title: 一点点今天的心情片段……
 wordpress_id: 994

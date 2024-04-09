@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-07-09 08:20:19+00:00
+date: 2014-07-09 08:20:19
 layout: post
 slug: svn-usual-command
 title: svn常用命令

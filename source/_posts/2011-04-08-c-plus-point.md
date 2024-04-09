@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-04-08 12:33:28+00:00
+date: 2011-04-08 12:33:28
 layout: post
 title: c++中指针数组的研究
 wordpress_id: 1255

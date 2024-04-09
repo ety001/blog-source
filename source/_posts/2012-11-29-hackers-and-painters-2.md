@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-29 14:30:14+00:00
+date: 2012-11-29 14:30:14
 layout: post
 slug: hackers-and-painters-2
 title: 《黑客与画家》读书笔记2

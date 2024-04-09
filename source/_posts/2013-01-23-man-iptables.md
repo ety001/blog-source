@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-23 07:58:01+00:00
+date: 2013-01-23 07:58:01
 layout: post
 slug: man-iptables
 title: man iptables

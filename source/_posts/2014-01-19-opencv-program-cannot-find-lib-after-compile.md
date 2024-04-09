@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-01-19 07:32:52+00:00
+date: 2014-01-19 07:32:52
 layout: post
 slug: opencv-program-cannot-find-lib-after-compile
 title: opencv程序编译后执行找不到库

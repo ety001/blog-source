@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-12 00:37:44+00:00
+date: 2010-10-12 00:37:44
 layout: post
 title: 终于找到了解决编码问题的方案了
 wordpress_id: 229

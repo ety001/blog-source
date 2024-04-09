@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-20 06:10:27+00:00
+date: 2011-02-20 06:10:27
 layout: post
 slug: gtp%e4%b8%ad%e7%9a%84%e4%b8%bb%e6%ad%8c%e5%89%af%e6%ad%8c
 title: GTP中的主歌,副歌

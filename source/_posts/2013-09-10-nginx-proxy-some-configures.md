@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-10 03:04:01+00:00
+date: 2013-09-10 03:04:01
 layout: post
 slug: nginx-proxy-some-configures
 title: nginx的proxy相关配置

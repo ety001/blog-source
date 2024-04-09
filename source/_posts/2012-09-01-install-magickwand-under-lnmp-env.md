@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-09-01 08:58:15+00:00
+date: 2012-09-01 08:58:15
 layout: post
 slug: install-magickwand-under-lnmp-env
 title: 一键LNMP包安装MagickWand

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-09-12 04:03:05+00:00
+date: 2012-09-12 04:03:05
 layout: post
 slug: move-goahead-webserver-to-android
 title: 移植goahead到android或其他嵌入式linux系统上

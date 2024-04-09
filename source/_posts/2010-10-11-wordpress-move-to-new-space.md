@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-11 13:46:27+00:00
+date: 2010-10-11 13:46:27
 layout: post
 title: WordPress搬家折腾记（又：个人建站经验分享~）
 wordpress_id: 181

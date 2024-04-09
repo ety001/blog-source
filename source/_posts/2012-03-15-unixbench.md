@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-15 06:55:07+00:00
+date: 2012-03-15 06:55:07
 layout: post
 slug: unixbench
 title: UnixBench：测试Linux VPS性能

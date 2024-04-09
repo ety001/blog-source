@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-25 08:51:03+00:00
+date: 2012-03-25 08:51:03
 layout: post
 slug: something-about-the-exec-function-in-c-programs
 title: 关于linux下c语言中的exec简单笔记

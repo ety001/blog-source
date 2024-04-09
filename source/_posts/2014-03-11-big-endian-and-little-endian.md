@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-03-11 14:00:13+00:00
+date: 2014-03-11 14:00:13
 layout: post
 slug: big-endian-and-little-endian
 title: Big Endian 和 Little Endian

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-09 00:35:13+00:00
+date: 2013-10-09 00:35:13
 layout: post
 slug: the-point-to-run-a-roots-program-in-php-env
 title: 关于php执行root权限的命令的实现要点

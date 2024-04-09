@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-04-24 10:06:23+00:00
+date: 2013-04-24 10:06:23
 layout: post
 slug: php-fpm-config
 title: PHP FPM设置

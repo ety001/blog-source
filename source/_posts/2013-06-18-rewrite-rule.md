@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-18 12:07:10+00:00
+date: 2013-06-18 12:07:10
 layout: post
 slug: rewrite-rule
 title: rewrite rule

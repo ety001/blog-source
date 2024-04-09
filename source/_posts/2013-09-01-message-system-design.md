@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-01 09:18:27+00:00
+date: 2013-09-01 09:18:27
 layout: post
 slug: message-system-design
 title: 群发“站内信”的实现

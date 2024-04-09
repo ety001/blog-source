@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-11-19 12:56:44+00:00
+date: 2010-11-19 12:56:44
 layout: post
 title: 今天我们夺冠了！
 wordpress_id: 698

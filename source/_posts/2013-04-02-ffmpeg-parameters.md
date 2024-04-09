@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-04-02 08:38:28+00:00
+date: 2013-04-02 08:38:28
 layout: post
 slug: ffmpeg-parameters
 title: ffmpeg参数

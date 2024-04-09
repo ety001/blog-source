@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-15 05:20:02+00:00
+date: 2012-02-15 05:20:02
 layout: post
 title: J2ME下的JSON包
 wordpress_id: 1958

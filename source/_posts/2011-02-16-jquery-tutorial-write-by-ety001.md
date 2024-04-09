@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-16 14:16:02+00:00
+date: 2011-02-16 14:16:02
 layout: post
 title: jQuery教程一  write by ETY001
 wordpress_id: 1022

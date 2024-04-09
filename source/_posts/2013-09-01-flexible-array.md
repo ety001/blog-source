@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-01 16:35:15+00:00
+date: 2013-09-01 16:35:15
 layout: post
 slug: flexible-array
 title: 柔性数组

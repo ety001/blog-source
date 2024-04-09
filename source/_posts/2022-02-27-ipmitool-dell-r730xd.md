@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-02-27 08:24:49+00:00'
+date: '2022-02-27 08:24:49'
 layout: post
 title: 使用 ipmitool 对 dell r730xd 风扇调速
 tags:

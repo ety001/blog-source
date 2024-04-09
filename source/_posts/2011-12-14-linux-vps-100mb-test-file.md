@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-12-14 13:13:09+00:00
+date: 2011-12-14 13:13:09
 layout: post
 title: Linux vps生成100mb.bin文件测试下载速度
 wordpress_id: 1815

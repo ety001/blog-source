@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-25 03:08:49+00:00
+date: 2011-09-25 03:08:49
 layout: post
 title: WordPress设置文章页面的动态关键字和描述
 wordpress_id: 1681

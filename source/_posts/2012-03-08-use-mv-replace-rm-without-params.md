@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-08 11:45:51+00:00
+date: 2012-03-08 11:45:51
 layout: post
 slug: use-mv-replace-rm-without-params
 title: 用mv代替rm并且不带参数

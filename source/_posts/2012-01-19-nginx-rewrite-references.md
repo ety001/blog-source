@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-19 02:25:52+00:00
+date: 2012-01-19 02:25:52
 layout: post
 title: 'nginx rewrite 参考资料'
 wordpress_id: 1871

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-30 05:17:40+00:00
+date: 2013-01-30 05:17:40
 layout: post
 slug: javascript-parentheses-ambiguity
 title: Javascript小括号“()”的多义性

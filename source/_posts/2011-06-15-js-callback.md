@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-06-15 08:05:16+00:00
+date: 2011-06-15 08:05:16
 layout: post
 title: 浅谈JavaScript的回调函数，附实例
 wordpress_id: 1390

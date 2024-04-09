@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-06-06 02:55:46+00:00
+date: 2012-06-06 02:55:46
 layout: post
 slug: option-no-adaptive-width-in-jquery
 title: select使用append进option无法自适应宽度

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-06-06 11:43:32+00:00
+date: 2012-06-06 11:43:32
 layout: post
 slug: php-programmers-to-demand-higher
 title: PHP对程序员的要求更高

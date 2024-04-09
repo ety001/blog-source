@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-04-06 13:05:31+00:00
+date: 2011-04-06 13:05:31
 layout: post
 title: 最迷茫的一群人……
 wordpress_id: 1243

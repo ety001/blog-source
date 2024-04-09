@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-10-14 13:25:31+00:00
+date: 2023-10-14 13:25:31
 layout: post
 title: 解决安卓12限制32个线程
 tags:

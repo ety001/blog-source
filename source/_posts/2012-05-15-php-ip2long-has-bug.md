@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-05-15 16:26:25+00:00
+date: 2012-05-15 16:26:25
 layout: post
 slug: php-ip2long-has-bug
 title: PHP的ip2long有bug，请慎用

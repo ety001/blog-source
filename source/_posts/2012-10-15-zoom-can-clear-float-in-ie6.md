@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-10-15 12:33:02+00:00
+date: 2012-10-15 12:33:02
 layout: post
 slug: zoom-can-clear-float-in-ie6
 title: zoom清除ie6浮动bug

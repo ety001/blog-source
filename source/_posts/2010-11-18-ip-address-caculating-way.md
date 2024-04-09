@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-11-18 02:21:11+00:00
+date: 2010-11-18 02:21:11
 layout: post
 slug: 'ip-address-caculating-way'
 title: 关于IP地址计算方法

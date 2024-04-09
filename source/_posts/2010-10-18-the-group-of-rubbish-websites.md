@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-18 15:19:23+00:00
+date: 2010-10-18 15:19:23
 layout: post
 slug: 'the-group-of-rubbish-websites'
 title: 初探垃圾站群（转载）

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-06-22 02:37:58+00:00
+date: 2011-06-22 02:37:58
 layout: post
 title: Html5本地数据库实例
 wordpress_id: 1393

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-29 01:39:01+00:00
+date: 2012-03-29 01:39:01
 layout: post
 slug: remove-software-in-centos
 title: 在centos下手动卸载软件

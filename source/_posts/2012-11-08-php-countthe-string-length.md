@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-08 02:35:08+00:00
+date: 2012-11-08 02:35:08
 layout: post
 slug: php-countthe-string-length
 title: php判断字符长度

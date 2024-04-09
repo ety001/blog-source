@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-02-18 14:30:18+00:00
+date: 2014-02-18 14:30:18
 layout: post
 slug: solve-vpn-user-cannot-connect-each-other-on-routeros
 title: 解决RouterOS上vpn互访问题

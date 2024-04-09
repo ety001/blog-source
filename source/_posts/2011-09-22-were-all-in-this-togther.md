@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-09-22 07:13:09+00:00
+date: 2011-09-22 07:13:09
 layout: post
 slug: were-all-in-this-togther
 title: We're all in this togther!

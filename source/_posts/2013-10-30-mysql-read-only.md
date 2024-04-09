@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-30 08:08:39+00:00
+date: 2013-10-30 08:08:39
 layout: post
 slug: mysql-read-only
 title: MySQL --read-only

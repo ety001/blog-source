@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-02-12 09:00:55+00:00
+date: 2014-02-12 09:00:55
 layout: post
 slug: centos-setup-dm9601-driver
 title: centos下安装dm9601驱动

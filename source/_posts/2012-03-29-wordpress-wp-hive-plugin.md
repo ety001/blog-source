@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-29 09:39:21+00:00
+date: 2012-03-29 09:39:21
 layout: post
 slug: wordpress-wp-hive-plugin
 title: 一个WordPress安装多个博客——wp-hive插件

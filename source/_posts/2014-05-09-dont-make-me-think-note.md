@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-05-09 09:52:24+00:00
+date: 2014-05-09 09:52:24
 layout: post
 slug: dont-make-me-think-note
 title: 《DON'T MAKE ME THINK》笔记

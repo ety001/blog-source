@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-13 17:41:46+00:00
+date: 2012-11-13 17:41:46
 layout: post
 slug: heartbeat-setup-user-hacluster-exsits
 title: HeartBeat安装过程中出现hacluster用户已存在

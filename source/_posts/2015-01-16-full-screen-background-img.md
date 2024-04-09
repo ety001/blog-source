@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-16 15:02:58+00:00
+date: 2015-01-16 15:02:58
 layout: post
 slug: full-screen-background-img
 title: 背景图片拉伸

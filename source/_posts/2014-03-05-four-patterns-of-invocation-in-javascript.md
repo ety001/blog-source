@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-03-05 02:23:01+00:00
+date: 2014-03-05 02:23:01
 layout: post
 slug: four-patterns-of-invocation-in-javascript
 title: JavaScript函数调用模式

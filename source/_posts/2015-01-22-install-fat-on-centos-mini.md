@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-22 17:08:58+00:00
+date: 2015-01-22 17:08:58
 layout: post
 slug: install-fat-on-centos-mini
 title: CentOS mini下安装fat

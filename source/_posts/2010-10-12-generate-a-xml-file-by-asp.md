@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-12 00:11:01+00:00
+date: 2010-10-12 00:11:01
 layout: post
 title: Asp读取access数据库生成XML文件(gb2312 总穆修正版)
 wordpress_id: 216

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-05-26 15:29:52+00:00
+date: 2014-05-26 15:29:52
 layout: post
 slug: summation-and-modular-s-priority-in-php
 title: php中++和%的优先级

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-20 14:46:32+00:00
+date: 2012-02-20 14:46:32
 layout: post
 slug: nginx-502-bad-gateway-error
 title: Nginx 502 Bad Gateway错误触发条件与解决方法

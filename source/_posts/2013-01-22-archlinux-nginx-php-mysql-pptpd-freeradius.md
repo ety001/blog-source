@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-22 16:48:00+00:00
+date: 2013-01-22 16:48:00
 layout: post
 slug: archlinux-nginx-php-mysql-pptpd-freeradius
 title: archlinux+nginx+php+mysql+pptpd+freeradius

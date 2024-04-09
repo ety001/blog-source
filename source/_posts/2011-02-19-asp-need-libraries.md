@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-19 07:57:51+00:00
+date: 2011-02-19 07:57:51
 layout: post
 title: 关于ASP是否也应该开发一个库的一点想法
 wordpress_id: 1049

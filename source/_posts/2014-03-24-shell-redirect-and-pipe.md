@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-03-24 15:04:27+00:00
+date: 2014-03-24 15:04:27
 layout: post
 slug: shell-redirect-and-pipe
 title: shell重定向和管道

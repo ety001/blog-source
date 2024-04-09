@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-07-19 02:14:59+00:00
+date: 2013-07-19 02:14:59
 layout: post
 slug: blog-server-moved
 title: 服务器转移

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-02-03 13:25:31+00:00
+date: 2023-02-03 13:25:31
 layout: post
 title: 调整声卡程序的采样率
 tags:

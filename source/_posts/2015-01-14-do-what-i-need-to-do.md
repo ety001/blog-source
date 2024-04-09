@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-14 20:11:20+00:00
+date: 2015-01-14 20:11:20
 layout: post
 slug: t-t-t-t-t-t-t
 title: 努力和刻苦可以决定你的下限，但天赋和智商才能决定你的上限

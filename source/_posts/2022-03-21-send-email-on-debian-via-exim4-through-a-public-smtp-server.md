@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-03-21 08:24:49+00:00'
+date: '2022-03-21 08:24:49'
 layout: post
 title: Send email on Debian via Exim4 through a public SMTP server
 tags:

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-07-20 16:21:02+00:00
+date: 2014-07-20 16:21:02
 layout: post
 slug: nfs-configure-description
 title: nfs的一些配置项介绍

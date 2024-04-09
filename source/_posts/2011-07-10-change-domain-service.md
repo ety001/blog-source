@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-07-10 17:34:12+00:00
+date: 2011-07-10 17:34:12
 layout: post
 title: 关于前段时间我的域名转移时的小插曲
 wordpress_id: 1406

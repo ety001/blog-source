@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-02-08 17:26:57+00:00
+date: 2013-02-08 17:26:57
 layout: post
 slug: the-message-in-the-end-of-the-year
 title: 岁末寄语

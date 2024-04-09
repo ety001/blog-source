@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-22 09:49:00+00:00
+date: 2013-10-22 09:49:00
 layout: post
 slug: usb-storage-device-auto-mounts-under-the-linux-text-mode
 title: 文本模式下实现U盘自动挂载

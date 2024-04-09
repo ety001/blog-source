@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-03-23 08:24:49+00:00'
+date: '2022-03-23 08:24:49'
 layout: post
 title: 解决 Bad SMB2 (sign_algo_id=0) signature for message 问题
 tags:

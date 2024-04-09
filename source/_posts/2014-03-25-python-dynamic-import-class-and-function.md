@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-03-25 08:52:15+00:00
+date: 2014-03-25 08:52:15
 layout: post
 slug: python-dynamic-import-class-and-function
 title: python动态加载类和方法

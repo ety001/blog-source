@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-19 13:28:15+00:00
+date: 2010-10-19 13:28:15
 excerpt: 近期我的SEO小结
 layout: post
 slug: 'my-conclusion-of-seo'

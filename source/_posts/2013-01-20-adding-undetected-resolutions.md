@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-20 14:42:47+00:00
+date: 2013-01-20 14:42:47
 layout: post
 slug: adding-undetected-resolutions
 title: Adding undetected resolutions

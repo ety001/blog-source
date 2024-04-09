@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-05-02 07:44:34+00:00
+date: 2011-05-02 07:44:34
 layout: post
 title: 网站再一次搬家
 wordpress_id: 1312

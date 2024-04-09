@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-07-05 03:22:31+00:00
+date: 2012-07-05 03:22:31
 layout: post
 slug: mysql-source-mysqldump
 title: mysql source、mysqldump导入导出数据（转）

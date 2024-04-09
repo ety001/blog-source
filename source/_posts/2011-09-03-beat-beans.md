@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-03 15:45:43+00:00
+date: 2011-09-03 15:45:43
 layout: post
 title: 吃饭睡觉打豆豆
 wordpress_id: 1529

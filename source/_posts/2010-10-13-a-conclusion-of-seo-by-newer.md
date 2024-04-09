@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-13 17:42:57+00:00
+date: 2010-10-13 17:42:57
 layout: post
 slug: 'a-conclusion-of-seo-by-newer'
 title: 一个SEO初学者的初学总结

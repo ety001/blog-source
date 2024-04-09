@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-16 14:11:54+00:00
+date: 2011-03-16 14:11:54
 layout: post
 title: Wordpress中的页面模板如何使用
 wordpress_id: 1206

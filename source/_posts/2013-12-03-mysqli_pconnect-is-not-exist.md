@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-12-03 13:00:23+00:00
+date: 2013-12-03 13:00:23
 layout: post
 slug: mysqli_pconnect-is-not-exist
 title: mysqli_pconnect is not exist

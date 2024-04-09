@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-12-16 03:52:59+00:00
+date: 2011-12-16 03:52:59
 layout: post
 title: 利用php重启apache进程
 wordpress_id: 1820

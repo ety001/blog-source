@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2022-10-08 13:25:31+00:00
+date: 2022-10-08 13:25:31
 layout: post
 title: 使用 rclone 连接 WebDAV 并提供 Web Api 给 nginx
 tags:

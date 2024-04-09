@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-18 16:39:42+00:00
+date: 2012-01-18 16:39:42
 layout: post
 slug: the-amazing-seo-collecting
 title: 关于神奇的收录

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-27 06:57:50+00:00
+date: 2012-02-27 06:57:50
 layout: post
 slug: lightweight-efficient-linux-based-on-archlinux
 title: 打造轻量高效Linux系统

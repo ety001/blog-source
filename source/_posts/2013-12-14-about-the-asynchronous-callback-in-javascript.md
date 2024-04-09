@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-12-14 15:29:01+00:00
+date: 2013-12-14 15:29:01
 layout: post
 slug: about-the-asynchronous-callback-in-javascript
 title: 关于javascript中的异步回调函数

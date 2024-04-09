@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-01-22 14:20:26+00:00
+date: 2011-01-22 14:20:26
 layout: post
 title: Ubuntu下安装MySQL获得 mysql.h 建立C接口
 wordpress_id: 901

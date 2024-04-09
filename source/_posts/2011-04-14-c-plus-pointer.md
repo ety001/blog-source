@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-04-14 06:13:08+00:00
+date: 2011-04-14 06:13:08
 layout: post
 title: C++的指针和数组的复习
 wordpress_id: 1277

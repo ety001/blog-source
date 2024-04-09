@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-15 07:14:09+00:00
+date: 2011-09-15 07:14:09
 layout: post
 title: 使用PHP的fsockopen方法post提交数据
 wordpress_id: 1607

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-03 08:22:56+00:00
+date: 2011-02-03 08:22:56
 layout: post
 title: 我的个人电台春节特别节目《我要过春节》
 wordpress_id: 946

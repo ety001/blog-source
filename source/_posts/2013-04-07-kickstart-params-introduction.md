@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-04-07 13:51:46+00:00
+date: 2013-04-07 13:51:46
 layout: post
 slug: kickstart-params-introduction
 title: Kickstart文件中的主要项目及参数介绍

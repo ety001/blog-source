@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-14 21:42:15+00:00
+date: 2012-02-14 21:42:15
 layout: post
 slug: j2me-http-get-post
 title: J2ME HTTP方式与服务器交互信息:GET方式和POST方式

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-11 15:45:20+00:00
+date: 2013-10-11 15:45:20
 layout: post
 slug: debian-ubuntu-network-manager
 title: Debian/Ubuntu的Network-Manager

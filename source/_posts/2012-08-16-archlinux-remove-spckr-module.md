@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-08-16 00:38:30+00:00
+date: 2012-08-16 00:38:30
 layout: post
 slug: archlinux-remove-spckr-module
 title: Archlinux关闭机器报警音

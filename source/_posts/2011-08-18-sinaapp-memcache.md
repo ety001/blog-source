@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-18 18:31:57+00:00
+date: 2011-08-18 18:31:57
 layout: post
 title: 新浪云平台缓存使用方法
 wordpress_id: 1478

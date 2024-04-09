@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-05-20 06:08:55+00:00
+date: 2013-05-20 06:08:55
 layout: post
 slug: the-act-of-killing
 title: The Act of Killing

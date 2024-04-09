@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-10-24 12:32:00+00:00
+date: 2011-10-24 12:32:00
 layout: post
 title: XP下装LinuxDeepin后XP无法引导解决办法
 wordpress_id: 1732

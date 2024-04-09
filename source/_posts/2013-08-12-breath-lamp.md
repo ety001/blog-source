@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-08-12 17:17:56+00:00
+date: 2013-08-12 17:17:56
 layout: post
 slug: breath-lamp
 title: 呼吸灯

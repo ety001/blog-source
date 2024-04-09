@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-03-27 13:25:31+00:00
+date: 2023-03-27 13:25:31
 layout: post
 title: Demo code about how to create a new account by Steem JS SDK
 tags:

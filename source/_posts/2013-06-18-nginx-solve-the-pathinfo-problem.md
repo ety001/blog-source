@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-18 12:25:17+00:00
+date: 2013-06-18 12:25:17
 layout: post
 slug: nginx-solve-the-pathinfo-problem
 title: nginx中解决pathinfo问题

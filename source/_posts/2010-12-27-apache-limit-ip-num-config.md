@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-12-27 06:22:15+00:00
+date: 2010-12-27 06:22:15
 layout: post
 title: apache限制并发数 IP 带宽设置教程
 wordpress_id: 791

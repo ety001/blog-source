@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-03-15 14:52:42+00:00
+date: 2011-03-15 14:52:42
 layout: post
 title: 关于指针的学习
 wordpress_id: 1191

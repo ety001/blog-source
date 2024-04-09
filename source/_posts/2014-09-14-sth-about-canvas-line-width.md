@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-09-14 03:36:41+00:00
+date: 2014-09-14 03:36:41
 layout: post
 slug: sth-about-canvas-line-width
 title: 关于canvas的线宽

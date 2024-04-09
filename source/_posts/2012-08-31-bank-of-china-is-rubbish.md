@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-08-31 15:41:57+00:00
+date: 2012-08-31 15:41:57
 layout: post
 slug: bank-of-china-is-rubbish
 title: 我的DELL 15R特别版安装了中国银行的安全控件后键盘失灵

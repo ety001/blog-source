@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-06-06 08:52:59+00:00
+date: 2013-06-06 08:52:59
 layout: post
 slug: sublime-text-2-config-notes
 title: sublime text 2 配置笔记

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-16 16:04:44+00:00
+date: 2010-10-16 16:04:44
 layout: post
 slug: tcp-shake-hands
 title: TCP三次握手/四次挥手详解

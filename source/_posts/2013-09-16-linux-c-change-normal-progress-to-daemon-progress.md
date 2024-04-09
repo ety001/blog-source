@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-16 06:43:06+00:00
+date: 2013-09-16 06:43:06
 layout: post
 slug: linux-c-change-normal-progress-to-daemon-progress
 title: Linux下的c语言网络编程-将普通进程转换为守护进程

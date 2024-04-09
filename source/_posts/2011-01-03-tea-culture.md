@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-01-03 16:39:56+00:00
+date: 2011-01-03 16:39:56
 layout: post
 title: 【中国茶道】--茶 文 化
 wordpress_id: 809

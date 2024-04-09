@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-01-07 01:07:55+00:00
+date: 2013-01-07 01:07:55
 layout: post
 slug: svn-server-share-the-same-authz-passwd-files
 title: svn服务器多个库共用同一个用户验证文件

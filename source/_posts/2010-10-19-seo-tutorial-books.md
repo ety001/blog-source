@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-19 11:58:07+00:00
+date: 2010-10-19 11:58:07
 layout: post
 slug: seo-tutorial-books
 title: SEO入门书籍推荐

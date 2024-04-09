@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-12 00:35:13+00:00
+date: 2010-10-12 00:35:13
 layout: post
 title: ASP+Access如何判断一个表是否存在
 wordpress_id: 226

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-14 12:35:38+00:00
+date: 2012-02-14 12:35:38
 layout: post
 title: Aptana Studio的failed to create the java virtual machine错误
 wordpress_id: 1948

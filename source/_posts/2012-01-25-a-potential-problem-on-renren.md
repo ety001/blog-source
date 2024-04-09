@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-01-25 14:50:11+00:00
+date: 2012-01-25 14:50:11
 layout: post
 slug: a-potential-problem-on-renren
 title: 发现人人网一个安全隐患

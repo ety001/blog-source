@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-01-20 09:41:55+00:00
+date: 2011-01-20 09:41:55
 layout: post
 title: 今天我终于加入了GoogleAdsense计划
 wordpress_id: 885

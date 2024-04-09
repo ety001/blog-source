@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-08 06:16:37+00:00
+date: 2012-02-08 06:16:37
 layout: post
 slug: burstnet-openvz-openvpn
 title: BurstNet的OpenVZ架构的vps搭建VPN

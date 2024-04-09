@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-01-19 09:34:43+00:00
+date: 2011-01-19 09:34:43
 layout: post
 title: 开水比凉水先结冰的奥秘
 wordpress_id: 874

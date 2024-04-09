@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-06-02 09:00:18+00:00
+date: 2012-06-02 09:00:18
 layout: post
 slug: archlinux-xfce-volume
 title: ArchLinux XFCE用快捷键调节音量

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-24 16:11:38+00:00
+date: 2013-09-24 16:11:38
 layout: post
 slug: mysql-transaction
 title: MYSQL–事务处理

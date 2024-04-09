@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-12-16 21:58:58+00:00
+date: 2012-12-16 21:58:58
 layout: post
 slug: solving-ubuntu-mongodb-start-fail
 title: ubuntu下mongodb启动失败解决

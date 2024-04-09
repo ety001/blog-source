@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-07-07 10:44:42+00:00
+date: 2012-07-07 10:44:42
 layout: post
 slug: the-ldd-command-using-the-principle-and-method
 title: LDD命令的原理与使用方法

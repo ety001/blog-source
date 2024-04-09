@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-10-16 16:16:23+00:00
+date: 2010-10-16 16:16:23
 layout: post
 slug: 'traversal-code-of-graph-depth'
 title: 图的深度遍历源代码

@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2023-11-10 13:25:31+00:00
+date: 2023-11-10 13:25:31
 layout: post
 title: 解决 snapcraft 安装的 Tradingview 无法登陆的问题
 tags:

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-27 06:51:11+00:00
+date: 2012-02-27 06:51:11
 layout: post
 slug: when-run-nginx-error-libpcre-so-1
 title: Nginx启动出错

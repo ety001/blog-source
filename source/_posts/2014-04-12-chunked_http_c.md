@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-04-12 06:25:56+00:00
+date: 2014-04-12 06:25:56
 layout: post
 slug: chunked_http_c
 title: 关于以chunked方式传输的HTTP响应报文的解码C语言实现

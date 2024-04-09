@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-14 02:10:19+00:00
+date: 2012-02-14 02:10:19
 layout: post
 slug: customize-gnome-shell-theme
 title: 修改gnome shell主题

@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-03-09 14:09:39+00:00
+date: 2012-03-09 14:09:39
 layout: post
 slug: use-c-to-solve-the-problem-that-using-mv-to-replace-rm
 title: 用C语言解决mv替换rm

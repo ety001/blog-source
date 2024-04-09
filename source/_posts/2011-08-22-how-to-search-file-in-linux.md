@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-22 13:38:25+00:00
+date: 2011-08-22 13:38:25
 layout: post
 title: ubuntu linux搜索文件
 wordpress_id: 1492

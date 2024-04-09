@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-31 15:57:51+00:00
+date: 2011-08-31 15:57:51
 layout: post
 title: Java作业简单拼图游戏
 wordpress_id: 1514

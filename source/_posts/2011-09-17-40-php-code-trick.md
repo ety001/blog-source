@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-09-17 08:28:55+00:00
+date: 2011-09-17 08:28:55
 layout: post
 title: 40条优化php代码的小实例
 wordpress_id: 1619

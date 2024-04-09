@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-11-14 10:02:15+00:00
+date: 2012-11-14 10:02:15
 layout: post
 slug: heartbeat-using-summary
 title: heartbeat入手总结

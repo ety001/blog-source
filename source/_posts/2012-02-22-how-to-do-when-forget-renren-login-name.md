@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-02-22 05:08:15+00:00
+date: 2012-02-22 05:08:15
 layout: post
 slug: how-to-do-when-forget-renren-login-name
 title: 校内人人网忘记了注册账号怎么办？

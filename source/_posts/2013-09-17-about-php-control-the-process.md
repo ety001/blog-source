@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-09-17 09:05:33+00:00
+date: 2013-09-17 09:05:33
 layout: post
 slug: about-php-control-the-process
 title: 关于php控制进程

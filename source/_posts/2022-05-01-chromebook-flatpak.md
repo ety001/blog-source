@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: '2022-05-01 08:24:49+00:00'
+date: '2022-05-01 08:24:49'
 layout: post
 title: Chromebook 使用 flatpak 来管理应用
 tags:

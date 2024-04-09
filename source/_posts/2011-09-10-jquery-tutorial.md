@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-09-10 06:28:29+00:00
+date: 2011-09-10 06:28:29
 layout: post
 slug: '1579'
 title: jQuery入门教程笔记4

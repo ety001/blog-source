@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2014-02-14 02:40:23+00:00
+date: 2014-02-14 02:40:23
 layout: post
 slug: iptables-nat-route
 title: 如何使用iptables的NAT功能把Linux作为一台路由器使用？

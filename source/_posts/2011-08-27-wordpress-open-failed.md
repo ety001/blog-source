@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-08-27 23:41:09+00:00
+date: 2011-08-27 23:41:09
 layout: post
 title: Wordpress打不开的解决方案
 wordpress_id: 1495

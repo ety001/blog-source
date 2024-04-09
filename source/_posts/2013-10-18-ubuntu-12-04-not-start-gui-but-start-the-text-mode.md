@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-10-18 07:18:34+00:00
+date: 2013-10-18 07:18:34
 layout: post
 slug: ubuntu-12-04-not-start-gui-but-start-the-text-mode
 title: Ubuntu 12.04 不启动GUI直接进入命令行

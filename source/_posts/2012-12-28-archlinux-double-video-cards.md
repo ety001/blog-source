@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2012-12-28 13:39:22+00:00
+date: 2012-12-28 13:39:22
 layout: post
 slug: archlinux-double-video-cards
 title: Archlinux双显卡问题

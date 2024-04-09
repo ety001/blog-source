@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2011-06-22 02:48:44+00:00
+date: 2011-06-22 02:48:44
 layout: post
 title: 关于近期的动态
 wordpress_id: 1396

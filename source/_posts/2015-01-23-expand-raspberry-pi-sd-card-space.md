@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2015-01-23 01:46:58+00:00
+date: 2015-01-23 01:46:58
 layout: post
 slug: expand-raspberry-pi-sd-card-space
 title: 扩容树莓派SD卡分区空间

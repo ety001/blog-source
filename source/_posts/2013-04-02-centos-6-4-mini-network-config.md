@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2013-04-02 01:52:37+00:00
+date: 2013-04-02 01:52:37
 layout: post
 slug: centos-6-4-mini-network-config
 title: centos 6.4 mini 网络配置

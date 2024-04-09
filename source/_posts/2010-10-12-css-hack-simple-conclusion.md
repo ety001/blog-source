@@ -1,6 +1,6 @@
 ---
 author: ety001
-date: 2010-10-12 08:30:57+00:00
+date: 2010-10-12 08:30:57
 layout: post
 title: 关于CSS中的兼容性一句话小结
 wordpress_id: 221

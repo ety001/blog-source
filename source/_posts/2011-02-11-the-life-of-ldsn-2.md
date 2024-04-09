@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2011-02-11 10:45:49+00:00
+date: 2011-02-11 10:45:49
 layout: post
 title: 在网络部的那段日子（二）
 wordpress_id: 982

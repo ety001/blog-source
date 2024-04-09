@@ -1,7 +1,7 @@
 ---
 author: ety001
 comments: true
-date: 2010-11-19 08:52:10+00:00
+date: 2010-11-19 08:52:10
 layout: post
 slug: 16-days-remember-7000-words
 title: 16天记住7000考研词汇,背短句记单词~
