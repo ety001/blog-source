@@ -13,7 +13,7 @@ date: 2016-11-14 03:13:39
   * [Pix](http://pix.akawa.ink)
   * ~~[SS](http://gfw.fuckspam.in)~~
   * [Online Clipboard](http://oc.mypi.win)，{% post_link 2015-06-22-make-an-online-clipboard-with-swoole-and-redis %}
-  * [Review Bookmarks](http://bm.to0l.cn)，{% post_link 2015-07-07-review-bookmarks %}
+  * [Review Bookmarks](http://bm.to0l.cn)，{% post_link review-bookmarks %}
   * ~~RippleBot, [Source Code](https://github.com/ety001/ripple-bot)~~
   * ~~[StellarBot](https://stellarbot.top), [Source Code](https://github.com/ety001/stellar-bot)~~
   * ~~[SteemMention](https://steem-mention.com), [Source Code](https://github.com/ety001/steem-mention)~~

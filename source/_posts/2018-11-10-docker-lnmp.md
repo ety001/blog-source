@@ -8,7 +8,7 @@ tags:
 - Docker
 ---
 
-之前写过一篇{% post_link "2018-01-16-build-a-dockerized-lnmp-environment-by-portainer" "用 Portainer 图形界面工具来搭建 Docker 化的LNMP" %}。但是每次开一台新的VPS，按照那个流程走下来都要累死，于是按照那个思路，整理了一份命令行版本的部署方案。
+之前写过一篇{% post_link "build-a-dockerized-lnmp-environment-by-portainer" "用 Portainer 图形界面工具来搭建 Docker 化的LNMP" %}。但是每次开一台新的VPS，按照那个流程走下来都要累死，于是按照那个思路，整理了一份命令行版本的部署方案。
 
 # 创建数据目录
 
