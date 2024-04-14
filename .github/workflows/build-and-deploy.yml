@@ -21,4 +21,3 @@ jobs:
         # The repository the action should deploy to
         BRANCH: master
         PUBLISH_REPOSITORY: ety001/ety001.github.io
-        PUBLISH_DIR: .
