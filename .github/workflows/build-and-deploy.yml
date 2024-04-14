@@ -17,7 +17,7 @@ jobs:
       uses: theme-keep/hexo-deploy-github-pages-action@master
       env:
         # Your GitHub Token
-        PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PERSONAL_TOKEN: ${{ secrets.TOKEN }}
         # The repository the action should deploy to
         BRANCH: master
         PUBLISH_REPOSITORY: ety001/ety001.github.io
