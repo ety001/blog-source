@@ -9,7 +9,7 @@ tags:
 - 随笔
 ---
 
-接上：{% post_link 2010-12-25-the-life-of-ldsn-1 %}
+接上：{% post_link the-life-of-ldsn-1 %}
 
 ## 磨合
 
