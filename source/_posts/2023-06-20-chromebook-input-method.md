@@ -26,8 +26,8 @@ tags:
 
 
 ```
-- {accept: "comma", send: Page_Down, when: paging}
-- {accept: "period", send: Page_Up, when: paging}
+- {accept: "comma", send: Page_Down, when: has_menu}
+- {accept: "period", send: Page_Up, when: has_menu}
 ```
 
 保存后，等待输入法重载即可。
