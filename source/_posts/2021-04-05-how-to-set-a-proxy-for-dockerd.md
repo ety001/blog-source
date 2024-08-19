@@ -1,7 +1,7 @@
 ---
 author: ety001
 layout: post
-title: How to set a proxy for dockerd?
+title: How to set a proxy for dockerd? 如何给 docker 设置代理
 tags:
   - 服务器
   - 经验
