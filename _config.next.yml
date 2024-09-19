@@ -704,11 +704,11 @@ comments:
 
 # Disqus
 # For more information: https://disqus.com
-disqus:
-  enable: true
-  shortname: akawa
-  count: true
-  lazyload: false
+#disqus:
+#  enable: true
+#  shortname: akawa
+#  count: true
+#  lazyload: false
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
