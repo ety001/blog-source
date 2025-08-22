@@ -1,0 +1,28 @@
+{
+  "name": "Akawa",
+  "short_name": "Akawa",
+  "description": "A Blog Of ETY001",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#222",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/y192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/y512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/y180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": false
+}

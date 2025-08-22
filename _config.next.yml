@@ -55,8 +55,8 @@ favicon:
   medium: /img/favicon.ico
   apple_touch_icon: /img/favicon.ico
   safari_pinned_tab: /img/favicon.ico
-  android_manifest: /images/site.webmanifest
-  ms_browserconfig: /images/browserconfig.xml
+  android_manifest: /site.webmanifest
+  #ms_browserconfig: /browserconfig.xml
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
